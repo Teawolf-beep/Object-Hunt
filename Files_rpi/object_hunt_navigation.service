@@ -1,0 +1,13 @@
+##/etc/systemd/system/object_hunt_navigation.service
+
+[Unit]
+Description="Object Hunt Navigation"
+After=network.target
+
+[Service]
+Type=simple
+User=pi
+ExecStart=/home/pi/object_hunt/robert/object_hunt_navigation/build/object_hunt_navigation
+
+[Install]
+WantedBy=object_hunt_base.service

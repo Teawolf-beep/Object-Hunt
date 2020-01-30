@@ -1,0 +1,2 @@
+/usr/bin/ar qc libactuators.a  CMakeFiles/actuators.dir/src/vma_401.cpp.o CMakeFiles/actuators.dir/src/gear_motor.cpp.o
+/usr/bin/ranlib libactuators.a

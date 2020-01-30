@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgeneral.a  CMakeFiles/general.dir/src/gpio.cpp.o CMakeFiles/general.dir/src/tcp_socket.cpp.o
+/usr/bin/ranlib libgeneral.a

@@ -1,0 +1,14 @@
+\babel@toc {english}{}
+\beamer@sectionintoc {1}{Hardware}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{PCB Board}{5}{0}{1}
+\beamer@subsectionintoc {1}{2}{Assembly}{6}{0}{1}
+\beamer@sectionintoc {2}{Software}{7}{0}{2}
+\beamer@subsectionintoc {2}{1}{Inter-process communication}{10}{0}{2}
+\beamer@subsectionintoc {2}{2}{Internal processes}{12}{0}{2}
+\beamer@sectionintoc {3}{Image processing}{16}{0}{3}
+\beamer@subsectionintoc {3}{1}{Software setup}{16}{0}{3}
+\beamer@subsectionintoc {3}{2}{Framework}{17}{0}{3}
+\beamer@subsectionintoc {3}{3}{Streaming}{18}{0}{3}
+\beamer@subsectionintoc {3}{4}{Model}{19}{0}{3}
+\beamer@sectionintoc {4}{Mapping \& Routing}{22}{0}{4}
+\beamer@sectionintoc {5}{References}{35}{0}{5}

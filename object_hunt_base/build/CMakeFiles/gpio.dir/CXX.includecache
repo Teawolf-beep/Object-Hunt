@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/gpio.h
+string
+-
+cstdint
+-
+vector
+-
+
+/home/pi/object_hunt/robert/object_hunt_base/src/gpio.cpp
+cstdio
+-
+sys/mman.h
+-
+fcntl.h
+-
+unistd.h
+-
+algorithm
+-
+cstring
+-
+iostream
+-
+gpio.h
+/home/pi/object_hunt/robert/object_hunt_base/src/gpio.h
+

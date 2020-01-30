@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="object_hunt_base"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/tmp/tmp.ObkVc5i6bp/build_wifi"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/tmp/tmp.ObkVc5i6bp/build_wifi/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/tmp/tmp.ObkVc5i6bp/build_wifi/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.ObkVc5i6bp/build_wifi/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.ObkVc5i6bp/build_wifi/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/tmp/tmp.ObkVc5i6bp/build_wifi"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/tmp/tmp.ObkVc5i6bp/build_wifi/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/tmp/tmp.ObkVc5i6bp/build_wifi/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.ObkVc5i6bp/build_wifi/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.ObkVc5i6bp/build_wifi/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="object_hunt_base">
+				<Option output="/tmp/tmp.ObkVc5i6bp/build_wifi/object_hunt_base" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.ObkVc5i6bp/build_wifi"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/tmp/tmp.ObkVc5i6bp/include"/>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include-fixed"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/tmp/tmp.ObkVc5i6bp/build_wifi/Makefile&quot;  VERBOSE=1 object_hunt_base"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/tmp/tmp.ObkVc5i6bp/build_wifi/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.ObkVc5i6bp/build_wifi/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.ObkVc5i6bp/build_wifi/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="object_hunt_base/fast">
+				<Option output="/tmp/tmp.ObkVc5i6bp/build_wifi/object_hunt_base" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.ObkVc5i6bp/build_wifi"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/tmp/tmp.ObkVc5i6bp/include"/>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include-fixed"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/tmp/tmp.ObkVc5i6bp/build_wifi/Makefile&quot;  VERBOSE=1 object_hunt_base/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/tmp/tmp.ObkVc5i6bp/build_wifi/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.ObkVc5i6bp/build_wifi/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.ObkVc5i6bp/build_wifi/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="actuators">
+				<Option output="/tmp/tmp.ObkVc5i6bp/build_wifi/libactuators.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.ObkVc5i6bp/build_wifi"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/tmp/tmp.ObkVc5i6bp/include"/>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include-fixed"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/tmp/tmp.ObkVc5i6bp/build_wifi/Makefile&quot;  VERBOSE=1 actuators"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/tmp/tmp.ObkVc5i6bp/build_wifi/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.ObkVc5i6bp/build_wifi/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.ObkVc5i6bp/build_wifi/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="actuators/fast">
+				<Option output="/tmp/tmp.ObkVc5i6bp/build_wifi/libactuators.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.ObkVc5i6bp/build_wifi"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/tmp/tmp.ObkVc5i6bp/include"/>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include-fixed"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/tmp/tmp.ObkVc5i6bp/build_wifi/Makefile&quot;  VERBOSE=1 actuators/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/tmp/tmp.ObkVc5i6bp/build_wifi/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.ObkVc5i6bp/build_wifi/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.ObkVc5i6bp/build_wifi/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/tmp/tmp.ObkVc5i6bp/build_wifi"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/tmp/tmp.ObkVc5i6bp/build_wifi/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/tmp/tmp.ObkVc5i6bp/build_wifi/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.ObkVc5i6bp/build_wifi/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.ObkVc5i6bp/build_wifi/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fundamental">
+				<Option output="/tmp/tmp.ObkVc5i6bp/build_wifi/libfundamental.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.ObkVc5i6bp/build_wifi"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/tmp/tmp.ObkVc5i6bp/include"/>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include-fixed"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/tmp/tmp.ObkVc5i6bp/build_wifi/Makefile&quot;  VERBOSE=1 fundamental"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/tmp/tmp.ObkVc5i6bp/build_wifi/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.ObkVc5i6bp/build_wifi/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.ObkVc5i6bp/build_wifi/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fundamental/fast">
+				<Option output="/tmp/tmp.ObkVc5i6bp/build_wifi/libfundamental.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.ObkVc5i6bp/build_wifi"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/tmp/tmp.ObkVc5i6bp/include"/>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include-fixed"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/tmp/tmp.ObkVc5i6bp/build_wifi/Makefile&quot;  VERBOSE=1 fundamental/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/tmp/tmp.ObkVc5i6bp/build_wifi/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.ObkVc5i6bp/build_wifi/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.ObkVc5i6bp/build_wifi/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sensors">
+				<Option output="/tmp/tmp.ObkVc5i6bp/build_wifi/libsensors.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.ObkVc5i6bp/build_wifi"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/tmp/tmp.ObkVc5i6bp/include"/>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include-fixed"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/tmp/tmp.ObkVc5i6bp/build_wifi/Makefile&quot;  VERBOSE=1 sensors"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/tmp/tmp.ObkVc5i6bp/build_wifi/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.ObkVc5i6bp/build_wifi/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.ObkVc5i6bp/build_wifi/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sensors/fast">
+				<Option output="/tmp/tmp.ObkVc5i6bp/build_wifi/libsensors.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.ObkVc5i6bp/build_wifi"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/tmp/tmp.ObkVc5i6bp/include"/>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include-fixed"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/tmp/tmp.ObkVc5i6bp/build_wifi/Makefile&quot;  VERBOSE=1 sensors/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/tmp/tmp.ObkVc5i6bp/build_wifi/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.ObkVc5i6bp/build_wifi/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.ObkVc5i6bp/build_wifi/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/tmp/tmp.ObkVc5i6bp/include/bno055.h">
+			<Option target="sensors"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ObkVc5i6bp/include/bno055_exception.h">
+			<Option target="sensors"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ObkVc5i6bp/include/gear_motor.h">
+			<Option target="actuators"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ObkVc5i6bp/include/gpio.h">
+			<Option target="fundamental"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ObkVc5i6bp/include/gpio_exception.h">
+			<Option target="fundamental"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ObkVc5i6bp/include/hc_sr04.h">
+			<Option target="sensors"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ObkVc5i6bp/include/i2c.h">
+			<Option target="fundamental"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ObkVc5i6bp/include/i2c_exception.h">
+			<Option target="fundamental"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ObkVc5i6bp/include/motor_exception.h">
+			<Option target="actuators"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ObkVc5i6bp/include/revolution_exception.h">
+			<Option target="sensors"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ObkVc5i6bp/include/stepper_exception.h">
+			<Option target="actuators"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ObkVc5i6bp/include/tcst_1103.h">
+			<Option target="sensors"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ObkVc5i6bp/include/vma_401.h">
+			<Option target="actuators"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ObkVc5i6bp/src/bno055.cpp">
+			<Option target="sensors"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ObkVc5i6bp/src/gear_motor.cpp">
+			<Option target="actuators"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ObkVc5i6bp/src/gpio.cpp">
+			<Option target="fundamental"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ObkVc5i6bp/src/hc_sr04.cpp">
+			<Option target="sensors"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ObkVc5i6bp/src/i2c.cpp">
+			<Option target="fundamental"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ObkVc5i6bp/src/object_hunt_main.cpp">
+			<Option target="object_hunt_base"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ObkVc5i6bp/src/object_hunter.cpp">
+			<Option target="object_hunt_base"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ObkVc5i6bp/src/task_distributer.cpp">
+			<Option target="object_hunt_base"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ObkVc5i6bp/src/tcst_1103.cpp">
+			<Option target="sensors"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ObkVc5i6bp/src/vma_401.cpp">
+			<Option target="actuators"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ObkVc5i6bp/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

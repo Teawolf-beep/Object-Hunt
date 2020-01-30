@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="object_hunt_base"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/pi/object_hunt/robert/object_hunt_base/build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_base/build/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_base/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_base/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_base/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/pi/object_hunt/robert/object_hunt_base/build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_base/build/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_base/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_base/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_base/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="object_hunt_base">
+				<Option output="/home/pi/object_hunt/robert/object_hunt_base/build/object_hunt_base" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/pi/object_hunt/robert/object_hunt_base/build"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/pi/object_hunt/robert/object_hunt_base/include"/>
+					<Add directory="/home/pi/object_hunt/robert/object_hunt_base/shared/include"/>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include-fixed"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_base/build/Makefile&quot;  VERBOSE=1 object_hunt_base"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_base/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_base/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_base/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="object_hunt_base/fast">
+				<Option output="/home/pi/object_hunt/robert/object_hunt_base/build/object_hunt_base" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/pi/object_hunt/robert/object_hunt_base/build"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/pi/object_hunt/robert/object_hunt_base/include"/>
+					<Add directory="/home/pi/object_hunt/robert/object_hunt_base/shared/include"/>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include-fixed"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_base/build/Makefile&quot;  VERBOSE=1 object_hunt_base/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_base/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_base/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_base/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="actuators">
+				<Option output="/home/pi/object_hunt/robert/object_hunt_base/build/libactuators.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/pi/object_hunt/robert/object_hunt_base/build"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/pi/object_hunt/robert/object_hunt_base/include"/>
+					<Add directory="/home/pi/object_hunt/robert/object_hunt_base/shared/include"/>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include-fixed"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_base/build/Makefile&quot;  VERBOSE=1 actuators"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_base/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_base/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_base/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="actuators/fast">
+				<Option output="/home/pi/object_hunt/robert/object_hunt_base/build/libactuators.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/pi/object_hunt/robert/object_hunt_base/build"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/pi/object_hunt/robert/object_hunt_base/include"/>
+					<Add directory="/home/pi/object_hunt/robert/object_hunt_base/shared/include"/>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include-fixed"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_base/build/Makefile&quot;  VERBOSE=1 actuators/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_base/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_base/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_base/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/pi/object_hunt/robert/object_hunt_base/build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_base/build/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_base/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_base/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_base/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fundamentals">
+				<Option output="/home/pi/object_hunt/robert/object_hunt_base/build/libfundamentals.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/pi/object_hunt/robert/object_hunt_base/build"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/pi/object_hunt/robert/object_hunt_base/include"/>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include-fixed"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_base/build/Makefile&quot;  VERBOSE=1 fundamentals"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_base/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_base/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_base/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fundamentals/fast">
+				<Option output="/home/pi/object_hunt/robert/object_hunt_base/build/libfundamentals.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/pi/object_hunt/robert/object_hunt_base/build"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/pi/object_hunt/robert/object_hunt_base/include"/>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include-fixed"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_base/build/Makefile&quot;  VERBOSE=1 fundamentals/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_base/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_base/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_base/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sensors">
+				<Option output="/home/pi/object_hunt/robert/object_hunt_base/build/libsensors.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/pi/object_hunt/robert/object_hunt_base/build"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/pi/object_hunt/robert/object_hunt_base/include"/>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include-fixed"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_base/build/Makefile&quot;  VERBOSE=1 sensors"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_base/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_base/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_base/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sensors/fast">
+				<Option output="/home/pi/object_hunt/robert/object_hunt_base/build/libsensors.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/pi/object_hunt/robert/object_hunt_base/build"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/pi/object_hunt/robert/object_hunt_base/include"/>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include-fixed"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_base/build/Makefile&quot;  VERBOSE=1 sensors/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_base/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_base/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_base/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/pi/object_hunt/robert/object_hunt_base/include/BNO_055.h">
+			<Option target="sensors"/>
+		</Unit>
+		<Unit filename="/home/pi/object_hunt/robert/object_hunt_base/include/BNO_055Exception.h">
+			<Option target="sensors"/>
+		</Unit>
+		<Unit filename="/home/pi/object_hunt/robert/object_hunt_base/include/GPIO.h">
+			<Option target="fundamentals"/>
+		</Unit>
+		<Unit filename="/home/pi/object_hunt/robert/object_hunt_base/include/GPIOException.h">
+			<Option target="fundamentals"/>
+		</Unit>
+		<Unit filename="/home/pi/object_hunt/robert/object_hunt_base/include/GearMotor.h">
+			<Option target="actuators"/>
+		</Unit>
+		<Unit filename="/home/pi/object_hunt/robert/object_hunt_base/include/GearMotorException.h">
+			<Option target="actuators"/>
+		</Unit>
+		<Unit filename="/home/pi/object_hunt/robert/object_hunt_base/include/HC_SR04.h">
+			<Option target="sensors"/>
+		</Unit>
+		<Unit filename="/home/pi/object_hunt/robert/object_hunt_base/include/HardwareInterface.h">
+			<Option target="object_hunt_base"/>
+		</Unit>
+		<Unit filename="/home/pi/object_hunt/robert/object_hunt_base/include/HardwareInterfaceException.h">
+			<Option target="object_hunt_base"/>
+		</Unit>
+		<Unit filename="/home/pi/object_hunt/robert/object_hunt_base/include/I2C.h">
+			<Option target="fundamentals"/>
+		</Unit>
+		<Unit filename="/home/pi/object_hunt/robert/object_hunt_base/include/I2CException.h">
+			<Option target="fundamentals"/>
+		</Unit>
+		<Unit filename="/home/pi/object_hunt/robert/object_hunt_base/include/TCST_1103.h">
+			<Option target="sensors"/>
+		</Unit>
+		<Unit filename="/home/pi/object_hunt/robert/object_hunt_base/include/TCST_1103Exception.h">
+			<Option target="sensors"/>
+		</Unit>
+		<Unit filename="/home/pi/object_hunt/robert/object_hunt_base/include/TaskDistributor.h">
+			<Option target="object_hunt_base"/>
+		</Unit>
+		<Unit filename="/home/pi/object_hunt/robert/object_hunt_base/include/TaskDistributorException.h">
+			<Option target="object_hunt_base"/>
+		</Unit>
+		<Unit filename="/home/pi/object_hunt/robert/object_hunt_base/include/VMA_401.h">
+			<Option target="actuators"/>
+		</Unit>
+		<Unit filename="/home/pi/object_hunt/robert/object_hunt_base/include/VMA_401Exception.h">
+			<Option target="actuators"/>
+		</Unit>
+		<Unit filename="/home/pi/object_hunt/robert/object_hunt_base/shared/include/ObjectHuntDefinitions.h">
+			<Option target="object_hunt_base"/>
+			<Option target="actuators"/>
+		</Unit>
+		<Unit filename="/home/pi/object_hunt/robert/object_hunt_base/src/BNO_055.cpp">
+			<Option target="sensors"/>
+		</Unit>
+		<Unit filename="/home/pi/object_hunt/robert/object_hunt_base/src/GPIO.cpp">
+			<Option target="fundamentals"/>
+		</Unit>
+		<Unit filename="/home/pi/object_hunt/robert/object_hunt_base/src/GearMotor.cpp">
+			<Option target="actuators"/>
+		</Unit>
+		<Unit filename="/home/pi/object_hunt/robert/object_hunt_base/src/HC_SR04.cpp">
+			<Option target="sensors"/>
+		</Unit>
+		<Unit filename="/home/pi/object_hunt/robert/object_hunt_base/src/HardwareInterface.cpp">
+			<Option target="object_hunt_base"/>
+		</Unit>
+		<Unit filename="/home/pi/object_hunt/robert/object_hunt_base/src/I2C.cpp">
+			<Option target="fundamentals"/>
+		</Unit>
+		<Unit filename="/home/pi/object_hunt/robert/object_hunt_base/src/ObjectHunterBase_main.cpp">
+			<Option target="object_hunt_base"/>
+		</Unit>
+		<Unit filename="/home/pi/object_hunt/robert/object_hunt_base/src/TCST_1103.cpp">
+			<Option target="sensors"/>
+		</Unit>
+		<Unit filename="/home/pi/object_hunt/robert/object_hunt_base/src/TaskDistributor.cpp">
+			<Option target="object_hunt_base"/>
+		</Unit>
+		<Unit filename="/home/pi/object_hunt/robert/object_hunt_base/src/VMA_401.cpp">
+			<Option target="actuators"/>
+		</Unit>
+		<Unit filename="/home/pi/object_hunt/robert/object_hunt_base/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

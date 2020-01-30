@@ -1,0 +1,107 @@
+\documentclass[a4paper,12pt,oneside]{article}
+\usepackage[english]{babel} % für die deutsche Sprache
+\usepackage[utf8]{inputenc} % Für die direkte Eingabe von Umlauten im Editor u.a.
+\usepackage[T1]{fontenc}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{listings}
+\usepackage{fancyhdr} % Für Kopf- und Fußzeilen
+\usepackage{graphicx} % Zum Laden von Graphiken
+\usepackage{setspace} % Paket zum Setzen des Zeilenabstandes
+\usepackage{helvet}
+\usepackage{mathptmx}
+\usepackage{float}
+\usepackage{caption}
+\usepackage[colorlinks,pdfpagelabels,pdfstartview=FitH,
+bookmarksopen=true,bookmarksnumbered=true,linkcolor=black,
+plainpages=false,hypertexnames=false,citecolor=black]{hyperref} % Für Verlinkungen
+
+%%--------------
+%\usepackage[normalem]{ulem} % Für das Unterstreichen von Text z.B. mit \uline{}
+\usepackage[left=2cm,right=2cm,top=1.5cm,bottom=1cm,
+textheight=245mm,textwidth=160mm,includeheadfoot,headsep=1cm,
+footskip=1cm,headheight=14.599pt]{geometry} % Einrichtung der Seite 
+
+\onehalfspacing % Zeilenabstand auf 1,5-zeilig setzen
+%\setlength{\parindent}{0pt} % Einrückung nach Zeilenabstand unterdrücken
+
+  \fancypagestyle{TOC}{% Seitenlayout Inhaltsverzeichnich, Abbildungsverzeichnis
+  \fancyhf{} % clear all header and footer fields
+  \fancyfoot[R]{\thepage} 
+  \renewcommand{\headrulewidth}{0pt}
+  \renewcommand{\footrulewidth}{0pt}}
+
+\lstset{
+  basicstyle=\color{darkgray},
+%  backgroundcolor=\color{darkgray},
+  showstringspaces=false,
+  commentstyle=\color{ForestGreen},
+  breaklines=true,
+  postbreak=\mbox{\textcolor{red}{$\hookrightarrow$}\space},
+  columns=fullflexible,
+  keywordstyle=\color{darkgray},
+  language=bash,
+  emph={\$},
+  emphstyle={\color{blue}\bfseries}
+}
+  
+\lstset{literate=%
+    {Ö}{{\"O}}1
+    {Ä}{{\"A}}1
+    {Ü}{{\"U}}1
+    {ß}{{\ss}}1
+    {ü}{{\"u}}1
+    {ä}{{\"a}}1
+    {ö}{{\"o}}1
+    {-}{{-}}1
+    {-->}{{ $\Rightarrow$ }}1
+    {>>}{{\glqq}}1
+    {<<}{{\grqq}}1
+}
+
+\begin{document}
+
+\pagestyle{empty}
+\pagenumbering{roman}
+\begin{titlepage}
+	\includegraphics[scale=1.00]{sources/logo_TH-Koeln_CMYK_22pt-eps-converted-to.pdf}\\
+	\begin{center}
+		\large
+		University of Applied Sciences Cologne\\
+		Special Aspects of Mobile Autonomous Systems\\
+		\includegraphics[scale=1.0]{sources/TH.PNG}\\
+		\vspace{1cm}
+		\textsc{Report}\\
+		\vspace{2cm} % Vertikaler Abstand von 1cm erzeugen
+		\LARGE
+		Autonomous Object Hunting\\
+		%\Large
+		%Ggf. Untertitel\\
+		\vspace{3cm}
+		\large
+		\vspace{1.0cm}
+		by:\\
+		\textsc{Tim Mennicken}\\
+		\textsc{Manuel Audran}\\
+		\textsc{Robert Rose}
+		\vspace{1cm}
+
+		\vspace{5cm}
+		Cologne, \today
+	\end{center}    
+\end{titlepage}
+
+\newpage
+\thispagestyle{TOC}
+\tableofcontents
+
+\newpage
+\thispagestyle{TOC}
+\listoffigures
+
+\newpage
+\thispagestyle{TOC}
+\listoftables
+
+\input{introduction}
+
+\end{document}

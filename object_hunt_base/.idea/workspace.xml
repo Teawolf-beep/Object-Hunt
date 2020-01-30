@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="object_hunt_base" targetName="fundamentals" />
+      <config projectName="object_hunt_base" targetName="actuators" />
+      <config projectName="object_hunt_base" targetName="sensors" />
+      <config projectName="object_hunt_base" targetName="object_hunt_base" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+      <configuration PROFILE_NAME="Debug_AMS" CONFIG_NAME="Debug" TOOLCHAIN_NAME="RPi_AMS" GENERATION_DIR="build" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="31bfa20d-5a68-419d-97de-5f800ff5daf2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug_AMS" />
+  <component name="OCResolveContextSettings">
+    <option name="configuration" value="1-sensors" />
+  </component>
+  <component name="ProjectId" id="1TzDakdZuQJZ40WtZOt29V4XVlF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="RunManager" selected="CMake Application.object_hunt_base">
+    <configuration name="actuators" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="object_hunt_base" TARGET_NAME="actuators" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fundamentals" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="object_hunt_base" TARGET_NAME="fundamentals" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="object_hunt_base" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="object_hunt_base" TARGET_NAME="object_hunt_base" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="object_hunt_base" RUN_TARGET_NAME="object_hunt_base">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sensors" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="object_hunt_base" TARGET_NAME="sensors" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.actuators" />
+      <item itemvalue="CMake Application.fundamentals" />
+      <item itemvalue="CMake Application.object_hunt_base" />
+      <item itemvalue="CMake Application.sensors" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31bfa20d-5a68-419d-97de-5f800ff5daf2" name="Default Changelist" comment="" />
+      <created>1574454095629</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574454095629</updated>
+      <workItem from="1574454097617" duration="15192000" />
+      <workItem from="1574594527423" duration="20259000" />
+      <workItem from="1574944155298" duration="5521000" />
+      <workItem from="1574958136562" duration="3069000" />
+      <workItem from="1574961366396" duration="1353000" />
+      <workItem from="1580226712281" duration="970000" />
+      <workItem from="1580284054659" duration="4132000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="835" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580227034823">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="835" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1580227034823" />
+    <state x="2368" y="161" key="SettingsEditor" timestamp="1580284590007">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2368" y="161" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1580284590007" />
+    <state x="2779" y="241" width="197" height="522" key="ftp.server.browser" timestamp="1580284583223">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2779" y="241" width="197" height="522" key="ftp.server.browser/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1580284583223" />
+  </component>
+</project>

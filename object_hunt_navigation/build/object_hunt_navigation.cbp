@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="object_hunt_navigation"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/pi/object_hunt/robert/object_hunt_navigation/build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_navigation/build/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_navigation/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_navigation/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_navigation/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/pi/object_hunt/robert/object_hunt_navigation/build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_navigation/build/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_navigation/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_navigation/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_navigation/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="object_hunt_navigation">
+				<Option output="/home/pi/object_hunt/robert/object_hunt_navigation/build/object_hunt_navigation" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/pi/object_hunt/robert/object_hunt_navigation/build"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/pi/object_hunt/robert/object_hunt_navigation/include"/>
+					<Add directory="/home/pi/object_hunt/robert/object_hunt_navigation/../object_hunt_base/shared/include"/>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include-fixed"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_navigation/build/Makefile&quot;  VERBOSE=1 object_hunt_navigation"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_navigation/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_navigation/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_navigation/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="object_hunt_navigation/fast">
+				<Option output="/home/pi/object_hunt/robert/object_hunt_navigation/build/object_hunt_navigation" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/pi/object_hunt/robert/object_hunt_navigation/build"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/pi/object_hunt/robert/object_hunt_navigation/include"/>
+					<Add directory="/home/pi/object_hunt/robert/object_hunt_navigation/../object_hunt_base/shared/include"/>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include-fixed"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_navigation/build/Makefile&quot;  VERBOSE=1 object_hunt_navigation/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_navigation/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_navigation/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_navigation/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/pi/object_hunt/robert/object_hunt_navigation/build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_navigation/build/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_navigation/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_navigation/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/pi/object_hunt/robert/object_hunt_navigation/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/pi/object_hunt/robert/object_hunt_base/shared/include/ObjectHuntDefinitions.h">
+			<Option target="object_hunt_navigation"/>
+		</Unit>
+		<Unit filename="/home/pi/object_hunt/robert/object_hunt_navigation/include/ConnectionManager.h">
+			<Option target="object_hunt_navigation"/>
+		</Unit>
+		<Unit filename="/home/pi/object_hunt/robert/object_hunt_navigation/include/Navigator.h">
+			<Option target="object_hunt_navigation"/>
+		</Unit>
+		<Unit filename="/home/pi/object_hunt/robert/object_hunt_navigation/include/NavigatorException.h">
+			<Option target="object_hunt_navigation"/>
+		</Unit>
+		<Unit filename="/home/pi/object_hunt/robert/object_hunt_navigation/src/ConnectionManager.cpp">
+			<Option target="object_hunt_navigation"/>
+		</Unit>
+		<Unit filename="/home/pi/object_hunt/robert/object_hunt_navigation/src/Navigator.cpp">
+			<Option target="object_hunt_navigation"/>
+		</Unit>
+		<Unit filename="/home/pi/object_hunt/robert/object_hunt_navigation/src/ObjectHunterNavigation_main.cpp">
+			<Option target="object_hunt_navigation"/>
+		</Unit>
+		<Unit filename="/home/pi/object_hunt/robert/object_hunt_navigation/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

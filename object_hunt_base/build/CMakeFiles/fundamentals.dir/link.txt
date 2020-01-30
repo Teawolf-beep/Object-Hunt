@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfundamentals.a  CMakeFiles/fundamentals.dir/src/GPIO.cpp.o CMakeFiles/fundamentals.dir/src/I2C.cpp.o
+/usr/bin/ranlib libfundamentals.a

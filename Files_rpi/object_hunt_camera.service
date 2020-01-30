@@ -1,0 +1,15 @@
+##/etc/systemd/system/object_hunt_camera.service
+
+[Unit]
+Description="Object Hunt Camera Client"
+BindsTo=object_hunt_base.service
+After=network.target
+
+[Service]
+Type=simple
+User=pi
+ExecStart=python3 /home/pi/object_hunt/tim/client.py -s 10.0.0.3
+
+[Install]
+WantedBy=multi-user.target
+

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libactuator.a  CMakeFiles/actuator.dir/src/stepper.cpp.o CMakeFiles/actuator.dir/src/motor.cpp.o
+/usr/bin/ranlib libactuator.a

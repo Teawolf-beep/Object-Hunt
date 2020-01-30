@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsensors.a  CMakeFiles/sensors.dir/src/HC_SR04.cpp.o CMakeFiles/sensors.dir/src/TCST_1103.cpp.o CMakeFiles/sensors.dir/src/BNO_055.cpp.o
+/usr/bin/ranlib libsensors.a

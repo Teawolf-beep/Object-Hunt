@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="RPi_AMS (f975d0ec-3885-446b-b5c7-4be5a084363f)">
+    <serverData>
+      <paths name="RPi_AMS (f975d0ec-3885-446b-b5c7-4be5a084363f)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/pi/object_hunt/robert/object_hunt_navigation" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/build" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

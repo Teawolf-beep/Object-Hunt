@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/object_hunt_base.dir/src/object_hunt_main.cpp.o CMakeFiles/object_hunt_base.dir/src/object_hunter.cpp.o CMakeFiles/object_hunt_base.dir/src/task_distributer.cpp.o  -o object_hunt_base libsensors.a libactuators.a libfundamental.a -lpthread -latomic 

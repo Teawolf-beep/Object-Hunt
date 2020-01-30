@@ -1,0 +1,16 @@
+##/etc/systemd/system/object_hunt_base.service
+
+[Unit]
+Description="Object Hunt Base"
+Wants=object_hunt_navigation.service
+Wants=object_hunt_camera.service
+After=network.target
+
+[Service]
+Type=simple
+User=pi
+ExecStart=/home/pi/object_hunt/robert/object_hunt_base/build/object_hunt_base
+
+[Install]
+WantedBy=multi-user.target
+

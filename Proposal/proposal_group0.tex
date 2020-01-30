@@ -1,0 +1,150 @@
+\documentclass[a4paper,12pt,oneside]{article}
+\usepackage[english]{babel} % für die deutsche Sprache
+\usepackage[utf8]{inputenc} % Für die direkte Eingabe von Umlauten im Editor u.a.
+\usepackage[T1]{fontenc}
+\setlength{\parindent}{0em}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{listings}
+\usepackage{fancyhdr} % Für Kopf- und Fußzeilen
+\usepackage{graphicx} % Zum Laden von Graphiken
+\usepackage{setspace} % Paket zum Setzen des Zeilenabstandes
+\usepackage{helvet}
+\usepackage{float}
+\usepackage{caption}
+\usepackage[colorlinks,pdfpagelabels,pdfstartview=FitH,
+bookmarksopen=true,bookmarksnumbered=true,linkcolor=black,
+plainpages=false,hypertexnames=false,citecolor=black]{hyperref} % Für Verlinkungen
+
+\renewcommand{\familydefault}{\sfdefault}
+%%--------------
+%\usepackage[normalem]{ulem} % Für das Unterstreichen von Text z.B. mit \uline{}
+\usepackage[left=2cm,right=2cm,top=1.5cm,bottom=1cm,
+textheight=245mm,textwidth=160mm,includeheadfoot,headsep=1cm,
+footskip=1cm,headheight=14.599pt]{geometry} % Einrichtung der Seite 
+
+\onehalfspacing % Zeilenabstand auf 1,5-zeilig setzen
+\setlength{\parindent}{0pt} % Einrückung nach Zeilenabstand unterdrücken
+
+  \fancypagestyle{TOC}{% Seitenlayout Inhaltsverzeichnich, Abbildungsverzeichnis
+  \fancyhf{} % clear all header and footer fields
+  \fancyfoot[R]{\thepage} 
+  \renewcommand{\headrulewidth}{0pt}
+  \renewcommand{\footrulewidth}{0pt}}
+
+\lstset{
+  basicstyle=\color{darkgray},
+%  backgroundcolor=\color{darkgray},
+  showstringspaces=false,
+  commentstyle=\color{ForestGreen},
+  breaklines=true,
+  postbreak=\mbox{\textcolor{red}{$\hookrightarrow$}\space},
+  columns=fullflexible,
+  keywordstyle=\color{darkgray},
+  language=bash,
+  emph={\$},
+  emphstyle={\color{blue}\bfseries}
+}
+  
+\lstset{literate=%
+    {Ö}{{\"O}}1
+    {Ä}{{\"A}}1
+    {Ü}{{\"U}}1
+    {ß}{{\ss}}1
+    {ü}{{\"u}}1
+    {ä}{{\"a}}1
+    {ö}{{\"o}}1
+    {-}{{-}}1
+    {-->}{{ $\Rightarrow$ }}1
+    {>>}{{\glqq}}1
+    {<<}{{\grqq}}1
+}
+
+\begin{document}
+
+\pagestyle{empty}
+\begin{titlepage}
+	\includegraphics[scale=1.00]{sources/logo_TH-Koeln_CMYK_22pt-eps-converted-to.pdf}\\
+	\begin{center}
+		\large
+		University of Applied Sciences Cologne\\
+		Special Aspects of Mobile Autonomous Systems\\
+		\includegraphics[scale=1.0]{sources/TH.PNG}\\
+		\vspace{1cm}
+		\textsc{Project Proposal}\\
+		\vspace{2cm} % Vertikaler Abstand von 1cm erzeugen
+		\LARGE
+		Autonomous Object Hunting\\
+		%\Large
+		%Ggf. Untertitel\\
+		\vspace{3cm}
+		\large
+		\vspace{1.0cm}
+		by:\\
+		\textsc{Tim Mennicken}\\
+		\textsc{Manuel Audran}\\
+		\textsc{Robert Rose}
+		\vspace{1cm}
+
+		\vspace{5cm}
+		Cologne, \today
+	\end{center}    
+\end{titlepage}
+
+\newpage
+
+\cleardoublepage
+\pagestyle{fancy} % Kopf- und Fußzeilen aktivieren (=> Paket "fancyhdr")
+\fancyhead{}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0.4pt}
+\fancyfoot[L]{Project  - Proposal}
+\fancyfoot[R] {Page \thepage}
+\pagenumbering{arabic}
+
+\section*{Objective}
+
+The goal of this project is to develop a mobile robot vehicle, which is able to autonomously find a specified object in his environment. For the reason of pathfinding and localization the robot will create a map of his surroundings. Thereby it is able to systematically search for the object without omitting parts unintended. The recognition of the object will be accomplished through picture analysis of an attached camera. For this purpose a neural network will be trained to detect the object in the images. The detailed shape and color of the object will be defined throughout the project. Furthermore the vehicle will be equipped with distance sensors for mapping as well as collision prevention and actuators for movement.
+
+\section*{Hardware Setup}
+
+The vehicle foundation will, if possible, be reused or bought from an online retailer. It should offer enough space to fit the Raspberry Pi, an attachment for the camera, the sensors, wiring and a battery pack. Furthermore mobility is given to the vehicle through four wheels. Each wheel can be controlled individually by the actuator system. Additionally distance sensors in the front and in the back of the vehicle are required to detect obstacles and the regarding distances. Preferable the overall effort for the construction of the foundation is kept low as it is not a main part of this project.
+
+\section*{Software Setup}
+
+Image processing, reading of the sensors and control of the actuators will be implemented on a Raspberry Pi version 3B+ or 4. The program is planned to be modular and interchange data through socket communication. In this fashion the different parts of the software are completely independent and rely only on a well-defined interface for data exchange. The main parts of the program will be the following:\\ 
+\begin{enumerate}
+\item Core
+\itemsep-0.3em
+\item[] The process that manages other processes and triggers sensor measurements as well as actuator movements. Furthermore it launches all other processes needed by the project.
+\itemsep1em
+\item Image processing
+\itemsep-0.3em
+\item[] This process is going to directly invoke the camera and process the images in real-time. Notifies the core process in case of an event.
+\itemsep1em
+\item Mapping
+\itemsep-0.3em
+\item[] Triggers distance measurements in defined intervals and constructs an internal representation of surroundings used by the robot. Provides data for the core process.
+\itemsep1em
+\item Sensor reading
+\itemsep-0.3em
+\item[] Directly maintains all sensors attached to the car and pre-processes the sensor data. Waits for notification before performing an action.
+\itemsep1em
+\item Actuator control
+\itemsep-0.3em
+\item[] Controls the actuator system. Waits for notification before performing an action.
+\end{enumerate}
+
+\section*{Interprocess Communication}
+
+As multiple processes are involved in this project, it will be taken care to prevent race conditions on shared resources. At this stage it is not clear how the interprocess communication will be performed. Either a framework like ROS (Robot Operating System) or a self implemented socket communication will be used. Pipes, shared memory or other solutions are not favored in this project.
+
+\section*{Mapping and Localization}
+
+The map will be a two dimensional metric or grid map. It will not be visualized and is used for simultaneous localization of the vehicle and mapping of the surroundings. It is very likely, that both, camera and sensor data, will be used to create the map. Uncertainty of the input data has to be considered.
+
+\section*{Image Processing}
+
+For image processing OpenCV (Open Source Computer Vision Library) will be used as it supports Tensorflow trained models and programming languages like C++, Python and Java. The training of the neural network will be realized using Tensorflow and an external computer with more computation power than the Raspberry Pi. The exact deep learning technique is not defined yet. An SSD (Single Shot MultiBox Detector) implementation seems to be the most suitable for now, as it needs little processing power and presumably runs smooth on a singleboard computer like the Raspberry Pi. It is object of upcoming project work to generate suitable validation and test data to train the algorithm.
+
+\end{document}

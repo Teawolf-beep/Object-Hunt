@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="object_hunt_navigation" targetName="object_hunt_navigation" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug_navigation" CONFIG_NAME="Debug" TOOLCHAIN_NAME="RPi_AMS" GENERATION_DIR="build" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4e3d09c1-4eec-4a66-ae79-db96d7de5ffb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug_navigation" />
+  <component name="ProjectId" id="1UmubSnu8yWtA7QV82maGV9voie" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../object_hunt_base" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/include" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="object_hunt_navigation" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="object_hunt_navigation" TARGET_NAME="object_hunt_navigation" CONFIG_NAME="Debug_navigation" RUN_TARGET_PROJECT_NAME="object_hunt_navigation" RUN_TARGET_NAME="object_hunt_navigation">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e3d09c1-4eec-4a66-ae79-db96d7de5ffb" name="Default Changelist" comment="" />
+      <created>1575974162912</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575974162912</updated>
+      <workItem from="1575974164100" duration="18898000" />
+      <workItem from="1578323558296" duration="5941000" />
+      <workItem from="1578388693465" duration="4501000" />
+      <workItem from="1578419956445" duration="197000" />
+      <workItem from="1578420162850" duration="7768000" />
+      <workItem from="1578490604661" duration="547000" />
+      <workItem from="1578491815524" duration="13625000" />
+      <workItem from="1578560211510" duration="21747000" />
+      <workItem from="1578649465063" duration="28155000" />
+      <workItem from="1578738579543" duration="5898000" />
+      <workItem from="1578751868059" duration="7959000" />
+      <workItem from="1578934733963" duration="2685000" />
+      <workItem from="1578994383888" duration="8068000" />
+      <workItem from="1579076844763" duration="4296000" />
+      <workItem from="1579095977053" duration="7968000" />
+      <workItem from="1579169937514" duration="1627000" />
+      <workItem from="1579176145512" duration="7277000" />
+      <workItem from="1579252317700" duration="10480000" />
+      <workItem from="1579273707788" duration="5288000" />
+      <workItem from="1579534294520" duration="2301000" />
+      <workItem from="1579623217351" duration="2379000" />
+      <workItem from="1579878030155" duration="3402000" />
+      <workItem from="1580224960962" duration="3312000" />
+      <workItem from="1580284033445" duration="3023000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2649" y="50" width="426" height="473" key="FileChooserDialogImpl" timestamp="1580284052288">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="729" y="50" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1580226709473" />
+    <state x="2649" y="50" width="426" height="473" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1580284052288" />
+    <state width="1874" height="291" key="GridCell.Tab.0.bottom" timestamp="1578744479353">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="291" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1578744479353" />
+    <state width="1874" height="291" key="GridCell.Tab.0.center" timestamp="1578744479353">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="291" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1578744479353" />
+    <state width="1874" height="291" key="GridCell.Tab.0.left" timestamp="1578744479353">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="291" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1578744479353" />
+    <state width="1874" height="291" key="GridCell.Tab.0.right" timestamp="1578744479353">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="291" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1578744479353" />
+    <state width="1874" height="291" key="GridCell.Tab.1.bottom" timestamp="1578744479353">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="291" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1578744479353" />
+    <state width="1874" height="291" key="GridCell.Tab.1.center" timestamp="1578744479353">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="291" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1578744479353" />
+    <state width="1874" height="291" key="GridCell.Tab.1.left" timestamp="1578744479353">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="291" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1578744479353" />
+    <state width="1874" height="291" key="GridCell.Tab.1.right" timestamp="1578744479353">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="291" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1578744479353" />
+    <state x="2361" y="35" key="SettingsEditor" timestamp="1579534353560">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2361" y="35" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579534353560" />
+    <state x="2777" y="205" width="197" height="522" key="ftp.server.browser" timestamp="1578420102355">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2777" y="205" width="197" height="522" key="ftp.server.browser/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1578420102355" />
+    <state x="2623" y="169" width="503" height="702" key="refactoring.ChangeSignatureDialog" timestamp="1579175751618">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2623" y="169" width="503" height="702" key="refactoring.ChangeSignatureDialog/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579175751618" />
+    <state x="2543" y="244" width="672" height="678" key="search.everywhere.popup" timestamp="1578506007762">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2543" y="244" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1578506007762" />
+  </component>
+</project>
