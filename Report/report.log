@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.1.8)  30 JAN 2020 17:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.1.8)  31 JAN 2020 15:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -464,8 +464,8 @@ LaTeX Info: Redefining \nameref on input line 61.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<sources/logo_TH-Koeln_CMYK_22pt-eps-converted-to.pdf, id=8, 115.43124pt x 62.2
-325pt>
+<sources/logo_TH-Koeln_CMYK_22pt-eps-converted-to.pdf, id=48, 115.43124pt x 62.
+2325pt>
 File: sources/logo_TH-Koeln_CMYK_22pt-eps-converted-to.pdf Graphic file (type p
 df)
 <use sources/logo_TH-Koeln_CMYK_22pt-eps-converted-to.pdf>
@@ -477,7 +477,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 66--67
 
  []
 
-<sources/TH.PNG, id=9, 451.6875pt x 18.0675pt>
+<sources/TH.PNG, id=49, 451.6875pt x 18.0675pt>
 File: sources/TH.PNG Graphic file (type png)
 <use sources/TH.PNG>
 Package pdftex.def Info: sources/TH.PNG  used on input line 71.
@@ -491,47 +491,93 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
  (./report.toc
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 2.
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 4.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 4.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 4.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 4.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 4.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
 )
 \tf@toc=\write4
 \openout4 = `report.toc'.
 
- [1]
-(./report.lof)
+ [1] (./report.lof)
 \tf@lof=\write5
 \openout5 = `report.lof'.
 
- [2] (./report.lot)
+
+[2] (./report.lot)
 \tf@lot=\write6
 \openout6 = `report.lot'.
 
- (./introduction.tex [3])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 107.
- [1
+ (./introduction.tex [3]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 13.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 13.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 13.
+) (./hardware.tex [1
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 107.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 9.
+)
+(./references.tex [2])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 109.
+ [3]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 109.
  (./report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 107.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 107.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 109.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 109.
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: CD2E37A27817922149E514F2512DF558;48.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 107.
+(rerunfilecheck)             Checksum: 8078F068EFB3A36BBEBBAF9D71ECA7FE;648.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 109.
  ) 
 Here is how much of TeX's memory you used:
- 9389 strings out of 494467
- 138473 string characters out of 6174031
- 437030 words of memory out of 5000000
- 12954 multiletter control sequences out of 15000+600000
- 25334 words of font info for 29 fonts, out of 8000000 for 9000
+ 9539 strings out of 494467
+ 140871 string characters out of 6174031
+ 438030 words of memory out of 5000000
+ 13058 multiletter control sequences out of 15000+600000
+ 52563 words of font info for 73 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 36i,11n,49p,576b,359s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,11n,49p,836b,359s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/urw/times/utmr8a.pfb>
-Output written on report.pdf (5 pages, 34982 bytes).
+Output written on report.pdf (7 pages, 44219 bytes).
 PDF statistics:
- 55 PDF objects out of 1000 (max. 8388607)
- 42 compressed objects within 1 object stream
- 10 named destinations out of 1000 (max. 500000)
- 19 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 124 PDF objects out of 1000 (max. 8388607)
+ 108 compressed objects within 2 object streams
+ 25 named destinations out of 1000 (max. 500000)
+ 99 words of extra memory for PDF output out of 10000 (max. 10000000)
 
