@@ -8,21 +8,53 @@ Following you will find a short description and the use case of each part used i
 
 \subsection{Chassis}\label{subsec:chassis}
 
-The chassis forms the foundation of the robot. It consists out of two identical floors, arranged above each other. 
+The chassis forms the foundation of the robot. It consists out of two identical floors, arranged above each other. Drive motors, wheels, revolution sensors and the power unit are mounted on the first floor. Attached to the second floor are the processing unit, PCB board, ultra sonic sensors, smart movement sensor and the camera unit. Each floor has several holes in order to lay the cables from processing unit and PCB board properly.
 
 \subsection{Gear Motors}\label{subsec:gear_motors}
 
-Every movement the robot as a unit can make, is realized through four direct current gear motors, each attached to a wheel. Since the \nameref{subsec:processing_unit} can not operate the gear motors directly, dedicated motor drivers are needed in order to operate the gear motors properly. 
+Every movement the robot as a unit can make, is realized through four direct current gear motors, each attached to a wheel. Since the processing unit can not operate the gear motors directly, dedicated motor drivers are needed in order to operate the gear motors properly. The L293DNE quadruple half-h drivers \cite{l293dne} are suited and each can operate two gear motors forwards as well as backwards. 
 
 \subsection{Stepper Motor}\label{subsec:stepper_motor}
 
+The stepper motor is connected to an attachment for the camera module. A stepper motor with 5\,V DC operating voltage, 64 steps per revolution and four phases is chosen. The stepper motor can be driven by a single L293DNE motor driver. This allows to turn the camera module theoretically by an arbitrary angle. However, attention should be paid to the cable, which connects the camera module to the processing unit. It is long enough to enable the camera module some free moving space. If it is stressed to much, the equipment can be damaged permanently. 
+
 \subsection{Revolution Sensors}\label{subsec:revolution_sensor}
+
+A brake plate is mounted to each gear motor. With this plates the revolution of the respecting motor can be measured. The plates offer a resolution of 20 counts per revolution, which is sufficient precise for this project. A TCST1103 \cite{tcst1103} optical sensor attached to each brake plate allows to get notification of the status of the regarding brake plate. A resistor connected in series with the phototransistor output allows to measure a high or a low signal, depending if the light of the emitter can pass the brake plate or is blocked by it. In combination with the wheel diameter the revolution measurement is used to calculate the distance traveled as well as the speed of the robot.
 
 \subsection{Ultra Sonic Sensors}\label{subsec:ultra_sonic_sensor}
 
+In total four ultra sonic distance sensors are mounted on the robot. The HC-SR04 \cite{hc_sr04} model is used for all ultra sonic distance sensors. They allow the robot to measure the distance to obstacles in the front, in the back, to the left and to the right. As the HC-SR04 operate on 5\,V, most likely a voltage divider has to be interposed between processing unit and each HC-SR04 module. The ultra sonic sensor information is crucial for the robot to navigate, as it is the only information it can receive about its surroundings.
+
+\subsection{Smart Movement Sensor}\label{subsec:smart_movement_sensor}
+
+The smart movement sensor is used to get information about the orientation of the robot in space. This is needed in order to locate the robot with respect to the starting position of the hunt. Furthermore this sensor can be used to read acceleration data of the robot. The sensor communicates via an I\textsuperscript{2}C\footnote{I\textsuperscript{2}C (Inter-Integrated Circuit) is a two wire, synchronous, serial computer bus invented by Phillips Semiconductor in 1982.} interface.
+
 \subsection{Power Unit}\label{subsec:power_unit}
 
+For the robot to be mobile a rechargeable power source is needed. A portable power bank with a tension of 5\,V and Li-polymer battery cell is used. It provides a peak output current of 3\,A, which is sufficient to allow simultaneous control of all attached motors and electronics. Furthermore it offers a capacity of 20000\,mAh, to allow the robot exploration of spacious environments without recharging.
+
 \subsection{Processing Unit}\label{subsec:processing_unit}
+
+The processing unit of the robot is one of the most important arts of this project. there are several specifications, which it needs to comply with in order to realize the objectives of this project. The specifications are the following:
+
+\begin{enumerate}
+\itemsep0em
+\item Low power consumption
+\item[] As the robot is battery driven, the processing unit should consume as low power as possible to extend battery life.
+\item Extensive and accessible GPIO interface
+\item[] The sensors and actuators are connected directly or via auxiliary circuits to the processing unit. Therefore it is important to have sufficient GPIO pins for all planned hardware.
+\item Ability to create a WiFi hotspot
+\item[] The robot needs to maintain its own WiFi network in order to operate in any location and be independent of additional hardware.
+\item Supports TCP/\,IP\footnote{TCP/\,IP, or the Transmission Control Protocol/\,Internet Protocol, is a suite of communication protocols used to interconnect network devices.}
+\item[] The connection to external computers needs to be bidirectional and reliable. TCP/\,IP satisfies these specifications and is a state of the art solution.
+\item Supports I\textsuperscript{2}C
+\item[] I\textsuperscript{2}C is needed for communication with the smart movement sensor (see section \ref{subsec:smart_movement_sensor}). 
+\item Supports multithreading
+\item[] The robot needs the ability to perform various tasks simultaneously. therefore a CPU\footnote{Central Processing Unit} with multiple cores is inevitable to archive the objectives of this project.
+\end{enumerate}
+
+Taking all specifications into consideration, a Raspberry Pi 4 model B is considered to be used as the processing unit of the robot. It fulfills all mentioned specification, is less expensive than comparable products and offers a big community. Since the Raspberry pi 4 is available in different versions, differentiate in the available RAM, the version with 4\,GB RAM is chosen. This enables potential for further additions.
 
 \subsection{PCB Board}\label{subsec:pcb_board}
 

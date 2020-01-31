@@ -5,8 +5,9 @@
 \contentsline {subsection}{\numberline {2.2}Gear Motors}{2}{subsection.8}% 
 \contentsline {subsection}{\numberline {2.3}Stepper Motor}{2}{subsection.9}% 
 \contentsline {subsection}{\numberline {2.4}Revolution Sensors}{2}{subsection.10}% 
-\contentsline {subsection}{\numberline {2.5}Ultra Sonic Sensors}{2}{subsection.11}% 
-\contentsline {subsection}{\numberline {2.6}Power Unit}{2}{subsection.12}% 
-\contentsline {subsection}{\numberline {2.7}Processing Unit}{2}{subsection.13}% 
-\contentsline {subsection}{\numberline {2.8}PCB Board}{2}{subsection.14}% 
-\contentsline {section}{\numberline {3}References}{3}{section.15}% 
+\contentsline {subsection}{\numberline {2.5}Ultra Sonic Sensors}{3}{subsection.11}% 
+\contentsline {subsection}{\numberline {2.6}Smart Movement Sensor}{3}{subsection.12}% 
+\contentsline {subsection}{\numberline {2.7}Power Unit}{3}{subsection.14}% 
+\contentsline {subsection}{\numberline {2.8}Processing Unit}{3}{subsection.15}% 
+\contentsline {subsection}{\numberline {2.9}PCB Board}{4}{subsection.24}% 
+\contentsline {section}{\numberline {3}References}{5}{section.25}% 
