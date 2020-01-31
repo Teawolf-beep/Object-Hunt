@@ -1,12 +1,17 @@
 \BOOKMARK [1][]{section.4}{1 Introduction}{}% 1
-\BOOKMARK [1][]{section.6}{2 Hardware}{}% 2
-\BOOKMARK [2][]{subsection.7}{2.1 Chassis}{section.6}% 3
-\BOOKMARK [2][]{subsection.8}{2.2 Gear Motors}{section.6}% 4
-\BOOKMARK [2][]{subsection.9}{2.3 Stepper Motor}{section.6}% 5
-\BOOKMARK [2][]{subsection.10}{2.4 Revolution Sensors}{section.6}% 6
-\BOOKMARK [2][]{subsection.11}{2.5 Ultra Sonic Sensors}{section.6}% 7
-\BOOKMARK [2][]{subsection.12}{2.6 Smart Movement Sensor}{section.6}% 8
-\BOOKMARK [2][]{subsection.14}{2.7 Power Unit}{section.6}% 9
-\BOOKMARK [2][]{subsection.15}{2.8 Processing Unit}{section.6}% 10
-\BOOKMARK [2][]{subsection.24}{2.9 PCB Board}{section.6}% 11
-\BOOKMARK [1][]{section.25}{3 References}{}% 12
+\BOOKMARK [1][]{section.8}{2 Hardware}{}% 2
+\BOOKMARK [2][]{subsection.9}{2.1 Chassis}{section.8}% 3
+\BOOKMARK [2][]{subsection.10}{2.2 Gear Motors}{section.8}% 4
+\BOOKMARK [2][]{subsection.11}{2.3 Stepper Motor}{section.8}% 5
+\BOOKMARK [2][]{subsection.12}{2.4 Revolution Sensors}{section.8}% 6
+\BOOKMARK [2][]{subsection.13}{2.5 Ultra Sonic Sensors}{section.8}% 7
+\BOOKMARK [2][]{subsection.14}{2.6 Smart Movement Sensor}{section.8}% 8
+\BOOKMARK [2][]{subsection.16}{2.7 Power Unit}{section.8}% 9
+\BOOKMARK [2][]{subsection.17}{2.8 Processing Unit}{section.8}% 10
+\BOOKMARK [2][]{subsection.26}{2.9 Combined Hardware}{section.8}% 11
+\BOOKMARK [2][]{subsection.28}{2.10 PCB Board}{section.8}% 12
+\BOOKMARK [1][]{section.30}{3 Internal Software}{}% 13
+\BOOKMARK [2][]{subsection.32}{3.1 Base Process}{section.30}% 14
+\BOOKMARK [2][]{subsection.33}{3.2 Navigation Process}{section.30}% 15
+\BOOKMARK [1][]{section.34}{4 Image Processing}{}% 16
+\BOOKMARK [1][]{section.35}{5 References}{}% 17

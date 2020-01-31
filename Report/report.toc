@@ -1,13 +1,18 @@
 \babel@toc {english}{}
 \contentsline {section}{\numberline {1}Introduction}{1}{section.4}% 
-\contentsline {section}{\numberline {2}Hardware}{2}{section.6}% 
-\contentsline {subsection}{\numberline {2.1}Chassis}{2}{subsection.7}% 
-\contentsline {subsection}{\numberline {2.2}Gear Motors}{2}{subsection.8}% 
-\contentsline {subsection}{\numberline {2.3}Stepper Motor}{2}{subsection.9}% 
-\contentsline {subsection}{\numberline {2.4}Revolution Sensors}{2}{subsection.10}% 
-\contentsline {subsection}{\numberline {2.5}Ultra Sonic Sensors}{3}{subsection.11}% 
-\contentsline {subsection}{\numberline {2.6}Smart Movement Sensor}{3}{subsection.12}% 
-\contentsline {subsection}{\numberline {2.7}Power Unit}{3}{subsection.14}% 
-\contentsline {subsection}{\numberline {2.8}Processing Unit}{3}{subsection.15}% 
-\contentsline {subsection}{\numberline {2.9}PCB Board}{4}{subsection.24}% 
-\contentsline {section}{\numberline {3}References}{5}{section.25}% 
+\contentsline {section}{\numberline {2}Hardware}{2}{section.8}% 
+\contentsline {subsection}{\numberline {2.1}Chassis}{2}{subsection.9}% 
+\contentsline {subsection}{\numberline {2.2}Gear Motors}{2}{subsection.10}% 
+\contentsline {subsection}{\numberline {2.3}Stepper Motor}{2}{subsection.11}% 
+\contentsline {subsection}{\numberline {2.4}Revolution Sensors}{2}{subsection.12}% 
+\contentsline {subsection}{\numberline {2.5}Ultra Sonic Sensors}{3}{subsection.13}% 
+\contentsline {subsection}{\numberline {2.6}Smart Movement Sensor}{3}{subsection.14}% 
+\contentsline {subsection}{\numberline {2.7}Power Unit}{3}{subsection.16}% 
+\contentsline {subsection}{\numberline {2.8}Processing Unit}{3}{subsection.17}% 
+\contentsline {subsection}{\numberline {2.9}Combined Hardware}{5}{subsection.26}% 
+\contentsline {subsection}{\numberline {2.10}PCB Board}{5}{subsection.28}% 
+\contentsline {section}{\numberline {3}Internal Software}{7}{section.30}% 
+\contentsline {subsection}{\numberline {3.1}Base Process}{7}{subsection.32}% 
+\contentsline {subsection}{\numberline {3.2}Navigation Process}{7}{subsection.33}% 
+\contentsline {section}{\numberline {4}Image Processing}{8}{section.34}% 
+\contentsline {section}{\numberline {5}References}{9}{section.35}% 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.1.8)  31 JAN 2020 18:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.1.8)  31 JAN 2020 20:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -488,7 +488,7 @@ LaTeX Info: Redefining \nameref on input line 62.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<sources/logo_TH-Koeln_CMYK_22pt-eps-converted-to.pdf, id=52, 115.43124pt x 62.
+<sources/logo_TH-Koeln_CMYK_22pt-eps-converted-to.pdf, id=72, 115.43124pt x 62.
 2325pt>
 File: sources/logo_TH-Koeln_CMYK_22pt-eps-converted-to.pdf Graphic file (type p
 df)
@@ -501,7 +501,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 67--68
 
  []
 
-<sources/TH.PNG, id=53, 451.6875pt x 18.0675pt>
+<sources/TH.PNG, id=73, 451.6875pt x 18.0675pt>
 File: sources/TH.PNG Graphic file (type png)
 <use sources/TH.PNG>
 Package pdftex.def Info: sources/TH.PNG  used on input line 72.
@@ -570,43 +570,69 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 13.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 13.
+<sources/connection_overview.png, id=128, 806.01125pt x 587.19376pt>
+File: sources/connection_overview.png Graphic file (type png)
+<use sources/connection_overview.png>
+Package pdftex.def Info: sources/connection_overview.png  used on input line 17
+.
+(pdftex.def)             Requested size: 362.7017pt x 264.23474pt.
 ) (./hardware.tex [1
 
-]
+ <./sources/connection_overview.png>]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 9.
- [2] [3])
-(./references.tex [4]
+ [2] [3] [4]
+<sources/hardware_setup.png, id=170, 832.10875pt x 1044.90375pt>
+File: sources/hardware_setup.png Graphic file (type png)
+<use sources/hardware_setup.png>
+Package pdftex.def Info: sources/hardware_setup.png  used on input line 67.
+(pdftex.def)             Requested size: 416.05336pt x 522.45059pt.
+ [5 <./sources/hardware_setup.png>]
+<sources/pcb.jpg, id=178, 2091.815pt x 2553.54pt>
+File: sources/pcb.jpg Graphic file (type jpg)
+<use sources/pcb.jpg>
+Package pdftex.def Info: sources/pcb.jpg  used on input line 82.
+(pdftex.def)             Requested size: 313.75871pt x 383.01448pt.
+)
+(./internal_software.tex [6 <./sources/pcb.jpg>]
+<sources/software_structure.png, id=186, 693.59125pt x 563.10374pt>
+File: sources/software_structure.png Graphic file (type png)
+<use sources/software_structure.png>
+Package pdftex.def Info: sources/software_structure.png  used on input line 9.
+(pdftex.def)             Requested size: 416.15796pt x 337.86485pt.
+) (./image_processing.tex
+[7 <./sources/software_structure.png>]) (./references.tex [8]
 LaTeX Font Info:    Try loading font information for T1+cmtt on input line 6.
- (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 ))
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 110.
-[5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 110.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 112.
+ [9]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 112.
  (./report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 110.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 110.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 112.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 112.
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: EB350A1D77884BD382CA9F0516D24AD5;721.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 110.
+(rerunfilecheck)             Checksum: 728C916C9D6EC04A032ACE37546541E1;1038.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 112.
  ) 
 Here is how much of TeX's memory you used:
- 9653 strings out of 494467
- 143258 string characters out of 6174031
+ 9713 strings out of 494467
+ 144349 string characters out of 6174031
  440901 words of memory out of 5000000
- 13145 multiletter control sequences out of 15000+600000
+ 13178 multiletter control sequences out of 15000+600000
  52876 words of font info for 74 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 36i,11n,49p,1008b,416s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,11n,49p,1264b,416s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/robert/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1200.60
 0pk>{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texl
 ive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/urw/times/utmr8a.pfb>
-Output written on report.pdf (9 pages, 64556 bytes).
+Output written on report.pdf (13 pages, 2784610 bytes).
 PDF statistics:
- 212 PDF objects out of 1000 (max. 8388607)
- 152 compressed objects within 2 object streams
- 41 named destinations out of 1000 (max. 500000)
- 107 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 283 PDF objects out of 1000 (max. 8388607)
+ 211 compressed objects within 3 object streams
+ 56 named destinations out of 1000 (max. 500000)
+ 167 words of extra memory for PDF output out of 10000 (max. 10000000)
 
