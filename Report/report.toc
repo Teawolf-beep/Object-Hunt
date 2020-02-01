@@ -9,10 +9,17 @@
 \contentsline {subsection}{\numberline {2.6}Smart Movement Sensor}{3}{subsection.14}% 
 \contentsline {subsection}{\numberline {2.7}Power Unit}{3}{subsection.16}% 
 \contentsline {subsection}{\numberline {2.8}Processing Unit}{3}{subsection.17}% 
-\contentsline {subsection}{\numberline {2.9}Combined Hardware}{5}{subsection.26}% 
+\contentsline {subsection}{\numberline {2.9}Entire Overview}{5}{subsection.26}% 
 \contentsline {subsection}{\numberline {2.10}PCB Board}{5}{subsection.28}% 
 \contentsline {section}{\numberline {3}Internal Software}{7}{section.30}% 
-\contentsline {subsection}{\numberline {3.1}Base Process}{7}{subsection.32}% 
-\contentsline {subsection}{\numberline {3.2}Navigation Process}{7}{subsection.33}% 
-\contentsline {section}{\numberline {4}Image Processing}{8}{section.34}% 
-\contentsline {section}{\numberline {5}References}{9}{section.35}% 
+\contentsline {subsection}{\numberline {3.1}Design Principles}{7}{subsection.32}% 
+\contentsline {subsection}{\numberline {3.2}Base Process}{8}{subsection.33}% 
+\contentsline {subsection}{\numberline {3.3}Navigation Process}{8}{subsection.34}% 
+\contentsline {section}{\numberline {4}Image Processing}{9}{section.35}% 
+\contentsline {section}{\numberline {5}Routing \& Mapping}{10}{section.36}% 
+\contentsline {subsection}{\numberline {5.1}Detection}{10}{subsection.38}% 
+\contentsline {subsubsection}{\numberline {5.1.1}Routing}{10}{subsubsection.39}% 
+\contentsline {subsubsection}{\numberline {5.1.2}Mapping}{11}{subsubsection.44}% 
+\contentsline {subsection}{\numberline {5.2}Software}{13}{subsection.46}% 
+\contentsline {subsection}{\numberline {5.3}Problems}{15}{subsection.67}% 
+\contentsline {section}{\numberline {6}References}{16}{section.68}% 
