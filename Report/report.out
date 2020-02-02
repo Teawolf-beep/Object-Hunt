@@ -15,10 +15,22 @@
 \BOOKMARK [2][]{subsection.33}{3.2 Base Process}{section.30}% 15
 \BOOKMARK [2][]{subsection.34}{3.3 Navigation Process}{section.30}% 16
 \BOOKMARK [1][]{section.35}{4 Image Processing}{}% 17
-\BOOKMARK [1][]{section.36}{5 Routing \046 Mapping}{}% 18
-\BOOKMARK [2][]{subsection.38}{5.1 Detection}{section.36}% 19
-\BOOKMARK [3][]{subsubsection.39}{5.1.1 Routing}{subsection.38}% 20
-\BOOKMARK [3][]{subsubsection.44}{5.1.2 Mapping}{subsection.38}% 21
-\BOOKMARK [2][]{subsection.46}{5.2 Software}{section.36}% 22
-\BOOKMARK [2][]{subsection.67}{5.3 Problems}{section.36}% 23
-\BOOKMARK [1][]{section.68}{6 References}{}% 24
+\BOOKMARK [2][]{subsubsection.36}{4.0.1 Definition of the object detection task}{section.35}% 18
+\BOOKMARK [3][]{subsubsection.38}{4.0.2 Requirements on object detection}{subsubsection.36}% 19
+\BOOKMARK [2][]{subsection.39}{4.1 Basic model selection}{section.35}% 20
+\BOOKMARK [1][]{section.42}{5 Object Detection System}{}% 21
+\BOOKMARK [2][]{subsubsection.43}{5.0.1 Faster R-CNN}{section.42}% 22
+\BOOKMARK [3][]{subsubsection.45}{5.0.2 You Only Look Once \205 YOLO}{subsubsection.43}% 23
+\BOOKMARK [3][]{subsubsection.46}{5.0.3 Single Shot Detection \205 SSD}{subsubsection.43}% 24
+\BOOKMARK [2][]{subsection.48}{5.1 Experiments}{section.42}% 25
+\BOOKMARK [2][]{subsection.49}{5.2 Software}{section.42}% 26
+\BOOKMARK [3][]{subsubsection.51}{5.2.1 Server.py}{subsection.49}% 27
+\BOOKMARK [3][]{subsubsection.52}{5.2.2 Client.py}{subsection.49}% 28
+\BOOKMARK [2][]{subsection.53}{5.3 Results}{section.42}% 29
+\BOOKMARK [1][]{section.54}{6 Routing \046 Mapping}{}% 30
+\BOOKMARK [2][]{subsection.56}{6.1 Detection}{section.54}% 31
+\BOOKMARK [3][]{subsubsection.57}{6.1.1 Routing}{subsection.56}% 32
+\BOOKMARK [3][]{subsubsection.62}{6.1.2 Mapping}{subsection.56}% 33
+\BOOKMARK [2][]{subsection.64}{6.2 Software}{section.54}% 34
+\BOOKMARK [2][]{subsection.85}{6.3 Problems}{section.54}% 35
+\BOOKMARK [1][]{section.86}{7 References}{}% 36

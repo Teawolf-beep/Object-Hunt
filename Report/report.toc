@@ -16,10 +16,22 @@
 \contentsline {subsection}{\numberline {3.2}Base Process}{8}{subsection.33}% 
 \contentsline {subsection}{\numberline {3.3}Navigation Process}{8}{subsection.34}% 
 \contentsline {section}{\numberline {4}Image Processing}{9}{section.35}% 
-\contentsline {section}{\numberline {5}Routing \& Mapping}{10}{section.36}% 
-\contentsline {subsection}{\numberline {5.1}Detection}{10}{subsection.38}% 
-\contentsline {subsubsection}{\numberline {5.1.1}Routing}{10}{subsubsection.39}% 
-\contentsline {subsubsection}{\numberline {5.1.2}Mapping}{11}{subsubsection.44}% 
-\contentsline {subsection}{\numberline {5.2}Software}{13}{subsection.46}% 
-\contentsline {subsection}{\numberline {5.3}Problems}{15}{subsection.67}% 
-\contentsline {section}{\numberline {6}References}{16}{section.68}% 
+\contentsline {subsubsection}{\numberline {4.0.1}Definition of the object detection task}{9}{subsubsection.36}% 
+\contentsline {subsubsection}{\numberline {4.0.2}Requirements on object detection}{9}{subsubsection.38}% 
+\contentsline {subsection}{\numberline {4.1}Basic model selection}{9}{subsection.39}% 
+\contentsline {section}{\numberline {5}Object Detection System}{11}{section.42}% 
+\contentsline {subsubsection}{\numberline {5.0.1}Faster R-CNN}{11}{subsubsection.43}% 
+\contentsline {subsubsection}{\numberline {5.0.2}You Only Look Once -- YOLO}{12}{subsubsection.45}% 
+\contentsline {subsubsection}{\numberline {5.0.3}Single Shot Detection -- SSD}{12}{subsubsection.46}% 
+\contentsline {subsection}{\numberline {5.1}Experiments}{12}{subsection.48}% 
+\contentsline {subsection}{\numberline {5.2}Software}{13}{subsection.49}% 
+\contentsline {subsubsection}{\numberline {5.2.1}Server.py}{14}{subsubsection.51}% 
+\contentsline {subsubsection}{\numberline {5.2.2}Client.py}{14}{subsubsection.52}% 
+\contentsline {subsection}{\numberline {5.3}Results}{14}{subsection.53}% 
+\contentsline {section}{\numberline {6}Routing \& Mapping}{15}{section.54}% 
+\contentsline {subsection}{\numberline {6.1}Detection}{15}{subsection.56}% 
+\contentsline {subsubsection}{\numberline {6.1.1}Routing}{15}{subsubsection.57}% 
+\contentsline {subsubsection}{\numberline {6.1.2}Mapping}{16}{subsubsection.62}% 
+\contentsline {subsection}{\numberline {6.2}Software}{18}{subsection.64}% 
+\contentsline {subsection}{\numberline {6.3}Problems}{20}{subsection.85}% 
+\contentsline {section}{\numberline {7}References}{21}{section.86}% 

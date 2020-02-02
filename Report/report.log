@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.11.17)  2 FEB 2020 00:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.11.17)  2 FEB 2020 18:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -467,6 +467,56 @@ Package: l3keys2e 2019-10-11 LaTeX2e option processing using LaTeX3 keys
 (/usr/share/texmf-dist/tex/latex/translator/translator.sty
 Package: translator 2019-05-31 v1.12a Easy translation of strings in LaTeX
 ))
+(/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2019/04/01 v2.17c AMS math features
+\@mathmargin=\skip78
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen164
+)
+(/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count276
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count277
+\leftroot@=\count278
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count279
+\DOTSCASE@=\count280
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box59
+\strutbox@=\box60
+\big@size=\dimen165
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count281
+\c@MaxMatrixCols=\count282
+\dotsspace@=\muskip16
+\c@parentequation=\count283
+\dspbrk@lvl=\count284
+\tag@help=\toks22
+\row@=\count285
+\column@=\count286
+\maxfields@=\count287
+\andhelp@=\toks23
+\eqnshift@=\dimen166
+\alignsep@=\dimen167
+\tagshift@=\dimen168
+\tagwidth@=\dimen169
+\totwidth@=\dimen170
+\lineht@=\dimen171
+\@envbody=\toks24
+\multlinegap=\skip79
+\multlinetaggap=\skip80
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2855.
+LaTeX Info: Redefining \] on input line 2856.
+)
 (/usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2019/09/28 v7.00a Hypertext links for LaTeX
 
@@ -519,16 +569,16 @@ Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 (/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
-\@linkdim=\dimen164
-\Hy@linkcounter=\count276
-\Hy@pagecounter=\count277
+\@linkdim=\dimen172
+\Hy@linkcounter=\count288
+\Hy@pagecounter=\count289
 
 (/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2019/09/28 v7.00a Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count278
+\Hy@SavedSpaceFactor=\count290
 
 (/usr/share/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
@@ -547,17 +597,17 @@ Package hyperref Info: Plain pages OFF on input line 4555.
 Package hyperref Info: Backreferencing OFF on input line 4560.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4793.
-\c@Hy@tempcnt=\count279
+\c@Hy@tempcnt=\count291
 
 (/usr/share/texmf-dist/tex/latex/url/url.sty
-\Urlmuskip=\muskip16
+\Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5152.
-\XeTeXLinkMargin=\dimen165
-\Fld@menulength=\count280
-\Field@Width=\dimen166
-\Fld@charsize=\dimen167
+\XeTeXLinkMargin=\dimen173
+\Fld@menulength=\count292
+\Field@Width=\dimen174
+\Fld@charsize=\dimen175
 Package hyperref Info: Hyper figures OFF on input line 6423.
 Package hyperref Info: Link nesting OFF on input line 6428.
 Package hyperref Info: Hyper index ON on input line 6431.
@@ -567,38 +617,38 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6448.
 Package hyperref Info: PDF/A mode OFF on input line 6453.
 LaTeX Info: Redefining \ref on input line 6493.
 LaTeX Info: Redefining \pageref on input line 6497.
-\Hy@abspage=\count281
-\c@Item=\count282
-\c@Hfootnote=\count283
+\Hy@abspage=\count293
+\c@Item=\count294
+\c@Hfootnote=\count295
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
 (/usr/share/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2019/09/28 v7.00a Hyperref driver for pdfTeX
-\Fld@listcount=\count284
-\c@bookmark@seq@number=\count285
+\Fld@listcount=\count296
+\c@bookmark@seq@number=\count297
 
 (/usr/share/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
-\Hy@SectionHShift=\skip78
+\Hy@SectionHShift=\skip81
 )
 (/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2018/04/16 v5.8 Page Geometry
-\Gm@cnth=\count286
-\Gm@cntv=\count287
-\c@Gm@tempcnt=\count288
-\Gm@bindingoffset=\dimen168
-\Gm@wd@mp=\dimen169
-\Gm@odd@mp=\dimen170
-\Gm@even@mp=\dimen171
-\Gm@layoutwidth=\dimen172
-\Gm@layoutheight=\dimen173
-\Gm@layouthoffset=\dimen174
-\Gm@layoutvoffset=\dimen175
-\Gm@dimlist=\toks22
+\Gm@cnth=\count298
+\Gm@cntv=\count299
+\c@Gm@tempcnt=\count300
+\Gm@bindingoffset=\dimen176
+\Gm@wd@mp=\dimen177
+\Gm@odd@mp=\dimen178
+\Gm@even@mp=\dimen179
+\Gm@layoutwidth=\dimen180
+\Gm@layoutheight=\dimen181
+\Gm@layouthoffset=\dimen182
+\Gm@layoutvoffset=\dimen183
+\Gm@dimlist=\toks26
 
 
 Package geometry Warning: Over-specification in `h'-direction.
@@ -613,42 +663,54 @@ File: lstlang1.sty 2019/09/10 1.8c listings language file
 )
 (/usr/share/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2019/09/10 1.8c listings language file
-) (./report.aux)
+) (./report.aux
+
+LaTeX Warning: Label `fig:depthwise_convolution' multiply defined.
+
+
+LaTeX Warning: Label `fig:depthwise_convolution' multiply defined.
+
+
+LaTeX Warning: Label `fig:depthwise_convolution' multiply defined.
+
+
+LaTeX Warning: Label `fig:depthwise_convolution' multiply defined.
+
+)
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Trying to load font information for T1+ptm on input line 63
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 64
 .
-
-(/usr/share/texmf-dist/tex/latex/psnfss/t1ptm.fd
+ (/usr/share/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
 (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count289
-\scratchdimen=\dimen176
-\scratchbox=\box59
-\nofMPsegments=\count290
-\nofMParguments=\count291
-\everyMPshowfont=\toks23
-\MPscratchCnt=\count292
-\MPscratchDim=\dimen177
-\MPnumerator=\count293
-\makeMPintoPDFobject=\count294
-\everyMPtoPDFconversion=\toks24
+\scratchcounter=\count301
+\scratchdimen=\dimen184
+\scratchbox=\box61
+\nofMPsegments=\count302
+\nofMParguments=\count303
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count304
+\MPscratchDim=\dimen185
+\MPnumerator=\count305
+\makeMPintoPDFobject=\count306
+\everyMPtoPDFconversion=\toks28
 ) (/usr/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -666,14 +728,13 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\c@lstlisting=\count295
-\big@size=\dimen178
+\c@lstlisting=\count307
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 63.
+LaTeX Info: Redefining \selectfont on input line 64.
 Now handling font encoding TS1 ...
 ... processing UTF-8 mapping file for font encoding TS1
 
@@ -758,8 +819,8 @@ Dictionary: translator-basic-dictionary, Language: English
 ) (/usr/share/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
 File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
 )
-\AtBeginShipoutBox=\box60
-Package hyperref Info: Link coloring ON on input line 63.
+\AtBeginShipoutBox=\box62
+Package hyperref Info: Link coloring ON on input line 64.
 
 (/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -767,11 +828,11 @@ Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 (/usr/share/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count296
+\c@section@level=\count308
 )
-LaTeX Info: Redefining \ref on input line 63.
-LaTeX Info: Redefining \pageref on input line 63.
-LaTeX Info: Redefining \nameref on input line 63.
+LaTeX Info: Redefining \ref on input line 64.
+LaTeX Info: Redefining \pageref on input line 64.
+LaTeX Info: Redefining \nameref on input line 64.
  (./report.out) (./report.out)
 \@outlinefile=\write3
 \openout3 = `report.out'.
@@ -812,88 +873,88 @@ LaTeX Info: Redefining \nameref on input line 63.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
- 63.
+ 64.
 (/usr/share/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
- 63.
+ 64.
 
 (/usr/share/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
- 63.
+ 64.
 
 (/usr/share/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
- 63.
+ 64.
 
 (/usr/share/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 6
-3.
+4.
 
 (/usr/share/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 63.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 64.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 63.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 64.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 63.
-<sources/logo_TH-Koeln_CMYK_22pt-eps-converted-to.pdf, id=100, 115.43124pt x 62
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 64.
+<sources/logo_TH-Koeln_CMYK_22pt-eps-converted-to.pdf, id=148, 115.43124pt x 62
 .2325pt>
 File: sources/logo_TH-Koeln_CMYK_22pt-eps-converted-to.pdf Graphic file (type p
 df)
 <use sources/logo_TH-Koeln_CMYK_22pt-eps-converted-to.pdf>
 Package pdftex.def Info: sources/logo_TH-Koeln_CMYK_22pt-eps-converted-to.pdf  
-used on input line 68.
+used on input line 69.
 (pdftex.def)             Requested size: 115.43095pt x 62.23235pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--69
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
 
  []
 
-<sources/TH.PNG, id=101, 451.6875pt x 18.0675pt>
+<sources/TH.PNG, id=149, 451.6875pt x 18.0675pt>
 File: sources/TH.PNG Graphic file (type png)
 <use sources/TH.PNG>
-Package pdftex.def Info: sources/TH.PNG  used on input line 73.
+Package pdftex.def Info: sources/TH.PNG  used on input line 74.
 (pdftex.def)             Requested size: 451.68639pt x 18.06744pt.
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./sources/logo_TH-Koeln_CM
 YK_22pt-eps-converted-to.pdf> <./sources/TH.PNG>]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 97.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 98.
  (./report.toc
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 2.
-)
+ [1])
 \tf@toc=\write4
 \openout4 = `report.toc'.
 
- [1]
+ [2]
 (./report.lof)
 \tf@lof=\write5
 \openout5 = `report.lof'.
 
- [2] (./report.lot)
+ [3] (./report.lot)
 \tf@lot=\write6
 \openout6 = `report.lot'.
 
- (./introduction.tex [3]
+ (./introduction.tex [4]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 13.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 13.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 13.
-<sources/connection_overview.png, id=186, 806.01125pt x 587.19376pt>
+<sources/connection_overview.png, id=262, 806.01125pt x 587.19376pt>
 File: sources/connection_overview.png Graphic file (type png)
 <use sources/connection_overview.png>
 Package pdftex.def Info: sources/connection_overview.png  used on input line 17
@@ -906,19 +967,19 @@ Package pdftex.def Info: sources/connection_overview.png  used on input line 17
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 9.
  [2] [3] [4]
-<sources/hardware_setup.png, id=227, 832.10875pt x 1044.90375pt>
+<sources/hardware_setup.png, id=303, 832.10875pt x 1044.90375pt>
 File: sources/hardware_setup.png Graphic file (type png)
 <use sources/hardware_setup.png>
 Package pdftex.def Info: sources/hardware_setup.png  used on input line 67.
 (pdftex.def)             Requested size: 416.05336pt x 522.45059pt.
  [5 <./sources/hardware_setup.png>]
-<sources/pcb.jpg, id=235, 2091.815pt x 2553.54pt>
+<sources/pcb.jpg, id=312, 2091.815pt x 2553.54pt>
 File: sources/pcb.jpg Graphic file (type jpg)
 <use sources/pcb.jpg>
 Package pdftex.def Info: sources/pcb.jpg  used on input line 82.
 (pdftex.def)             Requested size: 313.75871pt x 383.01448pt.
 ) (./internal_software.tex [6 <./sources/pcb.jpg>]
-<sources/software_structure.png, id=243, 693.59125pt x 563.10374pt>
+<sources/software_structure.png, id=320, 693.59125pt x 563.10374pt>
 File: sources/software_structure.png Graphic file (type png)
 <use sources/software_structure.png>
 Package pdftex.def Info: sources/software_structure.png  used on input line 9.
@@ -931,13 +992,96 @@ File: omsptm.fd
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 20.
- [7 <./sources/software_structure.png>]) (./image_processing.tex [8]) (./mappin
-g.tex [9]
+ [7 <./sources/software_structure.png>]) (./image_processing.tex [8]
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 5.
+
+<sources/object_detection.png, id=333, 886.81313pt x 289.08pt>
+File: sources/object_detection.png Graphic file (type png)
+<use sources/object_detection.png>
+Package pdftex.def Info: sources/object_detection.png  used on input line 11.
+(pdftex.def)             Requested size: 483.69687pt x 157.6756pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+ []
+
+[9 <./sources/object_detection.png>]
+<sources/depthwise_convolution.JPG, id=342, 365.86688pt x 475.7775pt>
+File: sources/depthwise_convolution.JPG Graphic file (type jpg)
+<use sources/depthwise_convolution.JPG>
+Package pdftex.def Info: sources/depthwise_convolution.JPG  used on input line 
+40.
+(pdftex.def)             Requested size: 237.81065pt x 309.2517pt.
+<sources/Comparison_Mobilenet.png, id=347, 242.1045pt x 60.82726pt>
+File: sources/Comparison_Mobilenet.png Graphic file (type png)
+<use sources/Comparison_Mobilenet.png>
+Package pdftex.def Info: sources/Comparison_Mobilenet.png  used on input line 4
+9.
+(pdftex.def)             Requested size: 242.10391pt x 60.8271pt.
+ [10 <./sources/depthwise_convolution.JPG>]
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 58.
+
+<sources/Faster_R-CNN.png, id=357, 276.43275pt x 275.8305pt>
+File: sources/Faster_R-CNN.png Graphic file (type png)
+<use sources/Faster_R-CNN.png>
+Package pdftex.def Info: sources/Faster_R-CNN.png  used on input line 64.
+(pdftex.def)             Requested size: 276.43207pt x 275.82982pt.
+[11 <./sources/Comparison_Mobilenet.png> <./sources/Faster_R-CNN.PNG>]
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+
+ []
+
+<sources/tempsnip.png, id=367, 395.22656pt x 114.4275pt>
+File: sources/tempsnip.png Graphic file (type png)
+<use sources/tempsnip.png>
+Package pdftex.def Info: sources/tempsnip.png  used on input line 81.
+(pdftex.def)             Requested size: 395.22559pt x 114.42722pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
+
+ []
+
+[12 <./sources/tempsnip.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
+
+ []
+
+<sources/client_server.jpg, id=383, 429.85594pt x 289.08pt>
+File: sources/client_server.jpg Graphic file (type jpg)
+<use sources/client_server.jpg>
+Package pdftex.def Info: sources/client_server.jpg  used on input line 111.
+(pdftex.def)             Requested size: 343.88521pt x 231.2643pt.
+
+Overfull \hbox (6.954pt too wide) in paragraph at lines 118--119
+\T1/ptm/m/n/12 The server first ini-tial-izes the socket to re-ceive the im-age
+s and the con-nec-tion to the ``Ob-ject_hunt_base''
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--119
+
+ []
+
+[13 <./sources/client_server.jpg>]) (./mapping.tex [14]
 Underfull \hbox (badness 10000) in paragraph at lines 5--9
 
  []
 
-<sources/mapping/example_tunnel.pdf, id=260, page=3, 238.97281pt x 174.6525pt>
+<sources/mapping/example_tunnel.pdf, id=394, page=3, 238.97281pt x 174.6525pt>
 File: sources/mapping/example_tunnel.pdf Graphic file (type pdf)
 <use sources/mapping/example_tunnel.pdf, page 3>
 Package pdftex.def Info: sources/mapping/example_tunnel.pdf , page3 used on inp
@@ -953,7 +1097,7 @@ Overfull \hbox (21.3101pt too wide) in paragraph at lines 12--13
 [][] 
  []
 
-<sources/mapping/initial_position.pdf, id=261, 260.89468pt x 246.9225pt>
+<sources/mapping/initial_position.pdf, id=395, 260.89468pt x 246.9225pt>
 File: sources/mapping/initial_position.pdf Graphic file (type pdf)
 <use sources/mapping/initial_position.pdf>
 Package pdftex.def Info: sources/mapping/initial_position.pdf  used on input li
@@ -969,7 +1113,7 @@ Overfull \hbox (2.28003pt too wide) in paragraph at lines 21--30
 $[]$ $[]$ 
  []
 
-<sources/mapping/orientation.pdf, id=262, 230.7822pt x 217.77359pt>
+<sources/mapping/orientation.pdf, id=396, 230.7822pt x 217.77359pt>
 File: sources/mapping/orientation.pdf Graphic file (type pdf)
 <use sources/mapping/orientation.pdf>
 Package pdftex.def Info: sources/mapping/orientation.pdf  used on input line 33
@@ -981,17 +1125,17 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 See the caption package documentation for explanation.
 
 
-Overfull \hbox (19.90485pt too wide) in paragraph at lines 31--39
+Overfull \hbox (2.28003pt too wide) in paragraph at lines 31--39
 []$[]$ $[]$ 
  []
 
-[10 <./sources/mapping/example_tunnel.pdf> <./sources/mapping/initial_position.
+[15 <./sources/mapping/example_tunnel.pdf> <./sources/mapping/initial_position.
 pdf>]
 Underfull \hbox (badness 1521) in paragraph at lines 41--42
 []\T1/ptm/m/n/12 The ve-hi-cle pro-vides an rev-o-lu-tion sen-sor by
  []
 
-<sources/mapping/distance.pdf, id=286, 194.6472pt x 131.53139pt>
+<sources/mapping/distance.pdf, id=419, 194.6472pt x 131.53139pt>
 File: sources/mapping/distance.pdf Graphic file (type pdf)
 <use sources/mapping/distance.pdf>
 Package pdftex.def Info: sources/mapping/distance.pdf  used on input line 45.
@@ -1002,7 +1146,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 See the caption package documentation for explanation.
 
 
-Overfull \hbox (19.90485pt too wide) in paragraph at lines 40--51
+Overfull \hbox (2.28003pt too wide) in paragraph at lines 40--51
 []$[]$ $[]$ 
  []
 
@@ -1011,13 +1155,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--51
 
  []
 
-<sources/mapping/orientation_distance.pdf, id=287, 260.89468pt x 246.9225pt>
+<sources/mapping/orientation_distance.pdf, id=420, 260.89468pt x 246.9225pt>
 File: sources/mapping/orientation_distance.pdf Graphic file (type pdf)
 <use sources/mapping/orientation_distance.pdf>
 Package pdftex.def Info: sources/mapping/orientation_distance.pdf  used on inpu
 t line 54.
 (pdftex.def)             Requested size: 156.538pt x 148.15462pt.
-<sources/mapping/route.pdf, id=288, 260.89468pt x 246.9225pt>
+<sources/mapping/route.pdf, id=421, 260.89468pt x 246.9225pt>
 File: sources/mapping/route.pdf Graphic file (type pdf)
 <use sources/mapping/route.pdf>
 Package pdftex.def Info: sources/mapping/route.pdf  used on input line 55.
@@ -1028,32 +1172,27 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 See the caption package documentation for explanation.
 
 
-Overfull \hbox (17.62482pt too wide) in paragraph at lines 52--61
-[]$[]$ 
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 52--61
 
  []
 
-[11 <./sources/mapping/orientation.pdf> <./sources/mapping/distance.pdf> <./sou
+[16 <./sources/mapping/orientation.pdf> <./sources/mapping/distance.pdf> <./sou
 rces/mapping/orientation_distance.pdf> <./sources/mapping/route.pdf>]
-<sources/mapping/orientation_objectdistance.pdf, id=340, page=1, 260.89468pt x 
+<sources/mapping/orientation_objectdistance.pdf, id=472, page=1, 260.89468pt x 
 246.9225pt>
 File: sources/mapping/orientation_objectdistance.pdf Graphic file (type pdf)
 <use sources/mapping/orientation_objectdistance.pdf, page 1>
 Package pdftex.def Info: sources/mapping/orientation_objectdistance.pdf , page1
  used on input line 71.
 (pdftex.def)             Requested size: 156.538pt x 148.15462pt.
-<sources/mapping/orientation_objectdistance.pdf, id=341, page=2, 260.89468pt x 
+<sources/mapping/orientation_objectdistance.pdf, id=473, page=2, 260.89468pt x 
 246.9225pt>
 File: sources/mapping/orientation_objectdistance.pdf Graphic file (type pdf)
 <use sources/mapping/orientation_objectdistance.pdf, page 2>
 Package pdftex.def Info: sources/mapping/orientation_objectdistance.pdf , page2
  used on input line 72.
 (pdftex.def)             Requested size: 156.538pt x 148.15462pt.
-<sources/mapping/orientation_objectdistance.pdf, id=342, page=3, 260.89468pt x 
+<sources/mapping/orientation_objectdistance.pdf, id=474, page=3, 260.89468pt x 
 246.9225pt>
 File: sources/mapping/orientation_objectdistance.pdf Graphic file (type pdf)
 <use sources/mapping/orientation_objectdistance.pdf, page 3>
@@ -1066,7 +1205,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 74.
 See the caption package documentation for explanation.
 
-[12 <./sources/mapping/orientation_objectdistance.pdf> <./sources/mapping/orien
+[17 <./sources/mapping/orientation_objectdistance.pdf> <./sources/mapping/orien
 tation_objectdistance.pdf> <./sources/mapping/orientation_objectdistance.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 81--84
 
@@ -1105,7 +1244,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 139--140
 
  []
 
-[13]
+[18]
 Underfull \hbox (badness 1776) in paragraph at lines 143--146
 []\T1/ptm/m/n/12 The code of the pro-cess in-cludes a
  []
@@ -1115,7 +1254,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 143--146
 
  []
 
-<sources/mapping/program_sequence.pdf, id=381, 505.89pt x 615.25856pt>
+<sources/mapping/program_sequence.pdf, id=513, 505.89pt x 615.25856pt>
 File: sources/mapping/program_sequence.pdf Graphic file (type pdf)
 <use sources/mapping/program_sequence.pdf>
 Package pdftex.def Info: sources/mapping/program_sequence.pdf  used on input li
@@ -1136,7 +1275,7 @@ Overfull \hbox (2.28001pt too wide) in paragraph at lines 142--154
 []$[]$ $[]$ 
  []
 
-<sources/mapping/communication.pdf, id=382, 650.43pt x 246.9225pt>
+<sources/mapping/communication.pdf, id=514, 650.43pt x 246.9225pt>
 File: sources/mapping/communication.pdf Graphic file (type pdf)
 <use sources/mapping/communication.pdf>
 Package pdftex.def Info: sources/mapping/communication.pdf  used on input line 
@@ -1147,8 +1286,8 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 160.
 See the caption package documentation for explanation.
 
-[14 <./sources/mapping/program_sequence.pdf>]
-<sources/mapping/Route.png, id=396, 15056.25pt x 15056.25pt>
+[19 <./sources/mapping/program_sequence.pdf>]
+<sources/mapping/Route.png, id=528, 15056.25pt x 15056.25pt>
 File: sources/mapping/Route.png Graphic file (type png)
 <use sources/mapping/Route.png>
 Package pdftex.def Info: sources/mapping/Route.png  used on input line 168.
@@ -1159,7 +1298,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 169.
 See the caption package documentation for explanation.
 
-<sources/mapping/Map.png, id=397, 15056.25pt x 15056.25pt>
+<sources/mapping/Map.png, id=529, 15056.25pt x 15056.25pt>
 File: sources/mapping/Map.png Graphic file (type png)
 <use sources/mapping/Map.png>
 Package pdftex.def Info: sources/mapping/Map.png  used on input line 174.
@@ -1174,27 +1313,31 @@ Overfull \hbox (2.28003pt too wide) in paragraph at lines 166--178
 []$[]$ $[]$ 
  []
 
-) (./references.tex [15 <./sources/mapping/communication.pdf> <./sources/mappin
-g/Route.png (PNG copy)> <./sources/mapping/Map.png (PNG copy)>])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 114.
- [16]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 114.
+) (./references.tex [20 <./sources/mapping/communication.pdf> <./sources/mappin
+g/Route.png (PNG copy)> <./sources/mapping/Map.png (PNG copy)>] [21])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 115.
+ [22]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 115.
 
 (./report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 114.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 114.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 115.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 115.
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: 6AEABD50B40F5186B82BD8612F1583A3;1484.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 114.
+(rerunfilecheck)             Checksum: 402942AD464C6DF78FD6427C5AA6769C;2393.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 115.
  ) 
 Here is how much of TeX's memory you used:
- 22978 strings out of 492167
- 420519 string characters out of 6131557
- 724593 words of memory out of 5000000
- 26992 multiletter control sequences out of 15000+600000
- 600408 words of font info for 126 fonts, out of 8000000 for 9000
+ 23625 strings out of 492167
+ 428499 string characters out of 6131557
+ 735032 words of memory out of 5000000
+ 27587 multiletter control sequences out of 15000+600000
+ 600873 words of font info for 128 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,12n,67p,1264b,1377s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,12n,67p,1264b,1390s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/t
 exmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
@@ -1202,10 +1345,10 @@ sy10.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb></usr/
 share/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb></usr/share/texmf-dis
 t/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times
 /utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on report.pdf (20 pages, 4801879 bytes).
+Output written on report.pdf (27 pages, 5075883 bytes).
 PDF statistics:
- 482 PDF objects out of 1000 (max. 8388607)
- 398 compressed objects within 4 object streams
- 96 named destinations out of 1000 (max. 500000)
- 288 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 637 PDF objects out of 1000 (max. 8388607)
+ 532 compressed objects within 6 object streams
+ 130 named destinations out of 1000 (max. 500000)
+ 414 words of extra memory for PDF output out of 10000 (max. 10000000)
 

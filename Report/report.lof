@@ -3,13 +3,19 @@
 \contentsline {figure}{\numberline {2}{\ignorespaces Combined hardware}}{5}{figure.caption.27}% 
 \contentsline {figure}{\numberline {3}{\ignorespaces Populated PCB board}}{6}{figure.caption.29}% 
 \contentsline {figure}{\numberline {4}{\ignorespaces Software structure}}{7}{figure.caption.31}% 
-\contentsline {figure}{\numberline {5}{\ignorespaces Routing \& Mapping\relax }}{10}{figure.37}% 
-\contentsline {figure}{\numberline {6}{\ignorespaces Initial position\relax }}{10}{figure.40}% 
-\contentsline {figure}{\numberline {7}{\ignorespaces Vehicle orientation\relax }}{11}{figure.41}% 
-\contentsline {figure}{\numberline {8}{\ignorespaces Calculated driven distance\relax }}{11}{figure.42}% 
-\contentsline {figure}{\numberline {9}{\ignorespaces Logged route information\relax }}{11}{figure.43}% 
-\contentsline {figure}{\numberline {10}{\ignorespaces Smart movement and ultra sonic sensor\relax }}{12}{figure.45}% 
-\contentsline {figure}{\numberline {11}{\ignorespaces Program sequence\relax }}{14}{figure.63}% 
-\contentsline {figure}{\numberline {12}{\ignorespaces Principle commuication\relax }}{15}{figure.64}% 
-\contentsline {figure}{\numberline {13}{\ignorespaces Route.png\relax }}{15}{figure.65}% 
-\contentsline {figure}{\numberline {14}{\ignorespaces Map.png\relax }}{15}{figure.66}% 
+\contentsline {figure}{\numberline {5}{\ignorespaces Image processing task}}{9}{figure.caption.37}% 
+\contentsline {figure}{\numberline {6}{\ignorespaces Comparison standard and depthwise}}{10}{figure.caption.40}% 
+\contentsline {figure}{\numberline {7}{\ignorespaces Comparison standard and separable depthwise}}{11}{figure.caption.41}% 
+\contentsline {figure}{\numberline {8}{\ignorespaces Architecture of Faster R-CNN}}{11}{figure.caption.44}% 
+\contentsline {figure}{\numberline {9}{\ignorespaces Performance comparison of different techniques}}{12}{figure.caption.47}% 
+\contentsline {figure}{\numberline {10}{\ignorespaces Server client communication}}{13}{figure.caption.50}% 
+\contentsline {figure}{\numberline {11}{\ignorespaces Routing \& Mapping\relax }}{15}{figure.55}% 
+\contentsline {figure}{\numberline {12}{\ignorespaces Initial position\relax }}{15}{figure.58}% 
+\contentsline {figure}{\numberline {13}{\ignorespaces Vehicle orientation\relax }}{16}{figure.59}% 
+\contentsline {figure}{\numberline {14}{\ignorespaces Calculated driven distance\relax }}{16}{figure.60}% 
+\contentsline {figure}{\numberline {15}{\ignorespaces Logged route information\relax }}{16}{figure.61}% 
+\contentsline {figure}{\numberline {16}{\ignorespaces Smart movement and ultra sonic sensor\relax }}{17}{figure.63}% 
+\contentsline {figure}{\numberline {17}{\ignorespaces Program sequence\relax }}{19}{figure.81}% 
+\contentsline {figure}{\numberline {18}{\ignorespaces Principle commuication\relax }}{20}{figure.82}% 
+\contentsline {figure}{\numberline {19}{\ignorespaces Route.png\relax }}{20}{figure.83}% 
+\contentsline {figure}{\numberline {20}{\ignorespaces Map.png\relax }}{20}{figure.84}% 
