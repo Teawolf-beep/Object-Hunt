@@ -1,0 +1,520 @@
+communication-LogFile
+
+Message ID: 1.0                                                                    Front: 95.53276 Rear: 7.1780972 Left: 24.833532 Right: 33.721066
+Message ID: 1.0 Speed: 0.0 Time delta: 1967020.0
+Message ID: 1.0                          Main angle: 0.1875 Pitch: -1.125 Role: -0.3125
+Message ID: 2.0                                                                    Front: 85.497406 Rear: 9.027 Left: 15.639677 Right: 32.94318
+Message ID: 2.0 Speed: 0.0 Time delta: 202.0
+Message ID: 2.0                          Main angle: 0.0625 Pitch: -1.0 Role: -0.0625
+Message ID: 3.0                                                                    Front: 82.45282 Rear: 12.312404 Left: 15.302516 Right: 33.48779
+Message ID: 3.0 Speed: 6.223246 Time delta: 297.0
+Message ID: 3.0                          Main angle: 0.3125 Pitch: -1.0625 Role: -0.25
+Message ID: 4.0                                                                    Front: 77.10161 Rear: 17.538322 Left: 15.510919 Right: 36.05921
+Message ID: 4.0 Speed: 16.591679 Time delta: 249.0
+Message ID: 4.0                          Main angle: 0.6875 Pitch: -0.8125 Role: -0.3125
+Message ID: 5.0                                                                    Front: 73.14282 Rear: 24.25397 Left: 15.355097 Right: 30.467773
+Message ID: 5.0 Speed: 17.630495 Time delta: 249.0
+Message ID: 5.0                          Main angle: 0.875 Pitch: -1.0625 Role: -0.3125
+Message ID: 6.0                                                                    Front: 69.23532 Rear: 26.139692 Left: 15.924903 Right: 32.894047
+Message ID: 6.0 Speed: 16.585417 Time delta: 249.0
+Message ID: 6.0                          Main angle: 1.0 Pitch: -1.0 Role: -0.4375
+Message ID: 7.0                                                                    Front: 64.57953 Rear: 30.96613 Left: 16.641743 Right: 32.423725
+Message ID: 7.0 Speed: 18.665396 Time delta: 249.0
+Message ID: 7.0                          Main angle: 1.0625 Pitch: -0.9375 Role: -0.5625
+Message ID: 8.0                                                                    Front: 59.586887 Rear: 36.066776 Left: 19.46092 Right: 33.143387
+Message ID: 8.0 Speed: 17.630808 Time delta: 249.0
+Message ID: 8.0                          Main angle: 1.3125 Pitch: -1.125 Role: -0.5625
+Message ID: 9.0                                                                    Front: 55.030888 Rear: 36.256596 Left: 17.424372 Right: 89.075905
+Message ID: 9.0 Speed: 19.720455 Time delta: 249.0
+Message ID: 9.0                          Main angle: 1.8125 Pitch: -1.0625 Role: -0.4375
+Message ID: 10.0                                                                    Front: 50.97513 Rear: 41.30529 Left: 15.714307 Right: 89.55316
+Message ID: 10.0 Speed: 16.593592 Time delta: 249.0
+Message ID: 10.0                          Main angle: 1.8125 Pitch: -1.25 Role: -0.6875
+Message ID: 11.0                                                                    Front: 46.680435 Rear: 48.43458 Left: 18.845434 Right: 92.37013
+Message ID: 11.0 Speed: 19.704994 Time delta: 260.0
+Message ID: 11.0                          Main angle: 2.0 Pitch: -0.875 Role: -0.4375
+Message ID: 12.0                                                                    Front: 42.768227 Rear: 53.094162 Left: 17.058565 Right: 91.20437
+Message ID: 12.0 Speed: 17.632938 Time delta: 249.0
+Message ID: 12.0                          Main angle: 2.375 Pitch: -0.9375 Role: -0.375
+Message ID: 13.0                                                                    Front: 38.13981 Rear: 57.11024 Left: 15.983774 Right: 91.514465
+Message ID: 13.0 Speed: 20.74217 Time delta: 249.0
+Message ID: 13.0                          Main angle: 2.6875 Pitch: -0.6875 Role: -0.125
+Message ID: 14.0                                                                    Front: 32.881775 Rear: 61.997112 Left: 16.80513 Right: 91.54814
+Message ID: 14.0 Speed: 16.593557 Time delta: 249.0
+Message ID: 14.0                          Main angle: 2.9375 Pitch: -0.875 Role: -0.0625
+Message ID: 15.0                                                                    Front: 28.154839 Rear: 65.858955 Left: 16.917192 Right: 91.08002
+Message ID: 15.0 Speed: 18.673666 Time delta: 249.0
+Message ID: 15.0                          Main angle: 3.3125 Pitch: -0.5625 Role: -0.0625
+Message ID: 16.0                                                                    Front: 23.436064 Rear: 71.13115 Left: 18.07258 Right: 90.80739
+Message ID: 16.0 Speed: 18.667799 Time delta: 249.0
+Message ID: 16.0                          Main angle: 3.5 Pitch: -0.5 Role: -0.1875
+Message ID: 17.0                                                                    Front: 18.915339 Rear: 72.38632 Left: 17.155838 Right: 88.281
+Message ID: 17.0 Speed: 18.673922 Time delta: 250.0
+Message ID: 17.0                          Main angle: 3.75 Pitch: -0.5 Role: 0.0
+Message ID: 18.0                                                                    Front: 14.37192 Rear: 80.627205 Left: 18.052742 Right: 90.97582
+Message ID: 18.0 Speed: 19.70462 Time delta: 249.0
+Message ID: 18.0                          Main angle: 4.125 Pitch: -0.5 Role: -0.125
+Message ID: 19.0                                                                    Front: 9.752968 Rear: 84.83063 Left: 12.693322 Right: 90.42111
+Message:12 Rotation over. Set last speed to zero.
+Message ID: 20.0                                                                    Front: 83.74389 Rear: 8.517952 Left: 13.557806 Right: 91.82205
+Message ID: 19.0 Speed: 0.0 Time delta: 2509.0
+Message ID: 19.0                          Main angle: 96.0625 Pitch: 1.9375 Role: -0.375
+Message ID: 21.0                                                                    Front: 83.353195 Rear: 11.785403 Left: 16.228693 Right: 93.17606
+Message ID: 20.0 Speed: 0.0 Time delta: 250.0
+Message ID: 20.0                          Main angle: 96.1875 Pitch: 1.9375 Role: -0.0625
+Message ID: 22.0                                                                    Front: 79.68624 Rear: 12.951179 Left: 78.11407 Right: 90.74977
+Message ID: 21.0 Speed: 6.2273617 Time delta: 250.0
+Message ID: 21.0                          Main angle: 96.5625 Pitch: 1.5625 Role: -0.125
+Message ID: 23.0                                                                    Front: 74.78488 Rear: 22.328224 Left: 16.456953 Right: 98.5915
+Message ID: 22.0 Speed: 15.556514 Time delta: 249.0
+Message ID: 22.0                          Main angle: 96.75 Pitch: 1.625 Role: -0.375
+Message ID: 24.0                                                                    Front: 69.03385 Rear: 21.469742 Left: 11.703225 Right: 89.10771
+Message ID: 23.0 Speed: 18.667795 Time delta: 249.0
+Message ID: 23.0                          Main angle: 96.75 Pitch: 1.75 Role: -0.0625
+Message ID: 25.0                                                                    Front: 66.07805 Rear: 30.820065 Left: 18.882597 Right: 90.623215
+Message ID: 24.0 Speed: 18.667814 Time delta: 249.0
+Message ID: 24.0                          Main angle: 97.1875 Pitch: 1.8125 Role: 0.0
+Message ID: 26.0                                                                    Front: 61.13295 Rear: 34.84621 Left: 17.7565 Right: 39.467083
+Message ID: 25.0 Speed: 18.668135 Time delta: 249.0
+Message ID: 25.0                          Main angle: 97.4375 Pitch: 1.9375 Role: 0.0
+Message ID: 27.0                                                                    Front: 56.714516 Rear: 38.95613 Left: 57.913013 Right: 33.81426
+Message ID: 26.0 Speed: 18.6679 Time delta: 249.0
+Message ID: 26.0                          Main angle: 97.3125 Pitch: 1.9375 Role: -0.0625
+Message ID: 28.0                                                                    Front: 51.430355 Rear: 43.474663 Left: 19.051338 Right: 91.85289
+Message ID: 27.0 Speed: 19.704523 Time delta: 249.0
+Message ID: 27.0                          Main angle: 97.625 Pitch: 1.8125 Role: 0.0
+Message ID: 29.0                                                                    Front: 49.661423 Rear: 48.786858 Left: 18.551403 Right: 60.701015
+Message ID: 28.0 Speed: 17.630335 Time delta: 249.0
+Message ID: 28.0                          Main angle: 97.875 Pitch: 2.0625 Role: 0.0
+Message ID: 30.0                                                                    Front: 43.65758 Rear: 49.30755 Left: 22.455435 Right: 84.841644
+Message ID: 29.0 Speed: 18.667227 Time delta: 250.0
+Message ID: 29.0                          Main angle: 98.25 Pitch: 2.125 Role: 0.375
+Message ID: 31.0                                                                    Front: 41.856213 Rear: 57.19524 Left: 25.506613 Right: 86.88069
+Message ID: 30.0 Speed: 18.677145 Time delta: 259.0
+Message ID: 30.0                          Main angle: 98.375 Pitch: 1.875 Role: 0.125
+Message ID: 32.0                                                                    Front: 35.419193 Rear: 62.244873 Left: 114.32847 Right: 86.499146
+Message ID: 31.0 Speed: 18.667841 Time delta: 250.0
+Message ID: 31.0                          Main angle: 98.875 Pitch: 1.9375 Role: 0.0625
+Message ID: 33.0                                                                    Front: 30.336178 Rear: 65.48116 Left: 39.037354 Right: 85.292145
+Message ID: 32.0 Speed: 17.630377 Time delta: 250.0
+Message ID: 32.0                          Main angle: 98.8125 Pitch: 1.875 Role: 0.25
+Message ID: 34.0                                                                    Front: 27.77329 Rear: 69.62823 Left: 34.798065 Right: 85.942245
+Message ID: 33.0 Speed: 18.667849 Time delta: 249.0
+Message ID: 33.0                          Main angle: 99.125 Pitch: 2.0 Role: 0.3125
+Message ID: 35.0                                                                    Front: 23.467548 Rear: 74.69108 Left: 31.995886 Right: 83.882095
+Message ID: 34.0 Speed: 17.63042 Time delta: 249.0
+Message ID: 34.0                          Main angle: 99.3125 Pitch: 1.9375 Role: 0.125
+Message ID: 36.0                                                                    Front: 14.144 Rear: 77.584854 Left: 25.517 Right: 83.36329
+Message ID: 35.0 Speed: 19.705578 Time delta: 249.0
+Message ID: 35.0                          Main angle: 99.3125 Pitch: 1.9375 Role: 0.0625
+Message ID: 37.0                                                                    Front: 12.143661 Rear: 82.903336 Left: 30.023256 Right: 83.07082
+Message ID: 36.0 Speed: 17.630785 Time delta: 249.0
+Message ID: 36.0                          Main angle: 99.5625 Pitch: 1.4375 Role: 0.0
+Message ID: 38.0                                                                    Front: 9.70071 Rear: 87.182304 Left: 25.750902 Right: 82.40593
+Message:12 Rotation over. Set last speed to zero.
+Message ID: 39.0                                                                    Front: 61.82018 Rear: 25.751854 Left: 63.52648 Right: 79.47092
+Message ID: 37.0 Speed: 0.0 Time delta: 3749.0
+Message ID: 40.0                                                                    Front: 66.405464 Rear: 28.54584 Left: 65.63605 Right: 80.705284
+Message ID: 37.0                          Main angle: 190.4375 Pitch: 2.0625 Role: -2.1875
+Message ID: 38.0 Speed: 0.0 Time delta: 250.0
+Message ID: 38.0                          Main angle: 190.6875 Pitch: 2.3125 Role: -2.1875
+Message ID: 41.0                                                                    Front: 62.611 Rear: 34.401707 Left: 54.720787 Right: 74.931595
+Message ID: 39.0 Speed: 3.1113129 Time delta: 249.0
+Message ID: 39.0                          Main angle: 190.6875 Pitch: 2.3125 Role: -1.75
+Message ID: 42.0                                                                    Front: 57.07592 Rear: 37.43116 Left: 53.32113 Right: 49.16747
+Message ID: 40.0 Speed: 15.556724 Time delta: 261.0
+Message ID: 40.0                          Main angle: 191.0 Pitch: 1.9375 Role: -1.8125
+Message ID: 43.0                                                                    Front: 53.13192 Rear: 43.19605 Left: 56.286694 Right: 39.43213
+Message ID: 41.0 Speed: 18.681578 Time delta: 248.0
+Message ID: 41.0                          Main angle: 191.25 Pitch: 1.625 Role: -1.8125
+Message ID: 44.0                                                                    Front: 54.764244 Rear: 47.00845 Left: 65.90711 Right: 39.794483
+Message ID: 42.0 Speed: 19.704967 Time delta: 249.0
+Message ID: 42.0                          Main angle: 191.25 Pitch: 1.5625 Role: -2.0
+Message ID: 45.0                                                                    Front: 44.198742 Rear: 51.637497 Left: 13.262838 Right: 37.878517
+Message ID: 43.0 Speed: 17.634901 Time delta: 250.0
+Message ID: 43.0                          Main angle: 191.75 Pitch: 1.75 Role: -1.8125
+Message ID: 46.0                                                                    Front: 41.124905 Rear: 55.46532 Left: 53.20874 Right: 36.694176
+Message ID: 44.0 Speed: 18.668175 Time delta: 249.0
+Message ID: 44.0                          Main angle: 191.6875 Pitch: 1.4375 Role: -1.9375
+Message ID: 47.0                                                                    Front: 35.679855 Rear: 61.044807 Left: 37.628872 Right: 37.194435
+Message ID: 45.0 Speed: 19.705395 Time delta: 249.0
+Message ID: 45.0                          Main angle: 192.1875 Pitch: 1.3125 Role: -1.625
+Message ID: 48.0                                                                    Front: 39.609695 Rear: 64.88805 Left: 39.054985 Right: 34.25279
+Message ID: 46.0 Speed: 18.66825 Time delta: 249.0
+Message ID: 46.0                          Main angle: 192.3125 Pitch: 1.3125 Role: -1.625
+Message ID: 49.0                                                                    Front: 26.67237 Rear: 68.80687 Left: 29.558273 Right: 35.373856
+Message ID: 47.0 Speed: 17.643242 Time delta: 249.0
+Message ID: 47.0                          Main angle: 192.75 Pitch: 1.625 Role: -1.875
+Message ID: 50.0                                                                    Front: 23.306677 Rear: 73.67139 Left: 29.009565 Right: 35.222744
+Message ID: 48.0 Speed: 18.640272 Time delta: 249.0
+Message ID: 48.0                          Main angle: 192.6875 Pitch: 1.625 Role: -1.5625
+Message ID: 51.0                                                                    Front: 17.006306 Rear: 78.02401 Left: 23.453064 Right: 33.01903
+Message ID: 49.0 Speed: 18.667854 Time delta: 249.0
+Message ID: 49.0                          Main angle: 193.1875 Pitch: 1.25 Role: -1.5
+Message ID: 52.0                                                                    Front: 13.445436 Rear: 82.72955 Left: 21.656742 Right: 30.224113
+Message ID: 50.0 Speed: 19.705294 Time delta: 249.0
+Message ID: 50.0                          Main angle: 193.5625 Pitch: 1.3125 Role: -1.75
+Message ID: 53.0                                                                    Front: 8.967177 Rear: 87.17472 Left: 18.74187 Right: 29.048273
+Message ID: 51.0 Speed: 18.667944 Time delta: 249.0
+Message ID: 51.0                          Main angle: 193.6875 Pitch: 1.375 Role: -1.8125
+Message ID: 54.0                                                                    Front: 6.728226 Rear: 87.194565 Left: 18.463259 Right: 29.115032
+Message ID: 52.0 Speed: 18.667194 Time delta: 250.0
+Message ID: 52.0                          Main angle: 193.4375 Pitch: 1.4375 Role: -1.875
+Message ID: 55.0                                                                    Front: 11.836098 Rear: 84.388626 Left: 19.682854 Right: 30.492645
+Message ID: 53.0 Speed: -10.370985 Time delta: 259.0
+Message ID: 53.0                          Main angle: 193.1875 Pitch: 1.5 Role: -2.0
+Message ID: 56.0                                                                    Front: 16.031628 Rear: 79.92078 Left: 17.565403 Right: 32.091595
+Message ID: 54.0 Speed: -15.556686 Time delta: 249.0
+Message ID: 54.0                          Main angle: 192.8125 Pitch: 1.625 Role: -1.8125
+Message ID: 57.0                                                                    Front: 20.215193 Rear: 75.56437 Left: 14.188081 Right: 29.740242
+Message ID: 55.0 Speed: -16.593699 Time delta: 249.0
+Message ID: 55.0                          Main angle: 192.4375 Pitch: 1.6875 Role: -2.0
+Message ID: 58.0                                                                    Front: 23.656452 Rear: 71.43022 Left: 28.200178 Right: 33.904938
+Message ID: 56.0 Speed: -17.636946 Time delta: 249.0
+Message ID: 56.0                          Main angle: 192.0625 Pitch: 1.4375 Role: -1.75
+Message ID: 59.0                                                                    Front: 28.192919 Rear: 66.35132 Left: 15.531081 Right: 34.302532
+Message ID: 57.0 Speed: -17.63073 Time delta: 249.0
+Message ID: 57.0                          Main angle: 191.8125 Pitch: 1.5625 Role: -1.75
+Message ID: 60.0                                                                    Front: 32.76655 Rear: 61.632244 Left: 34.85126 Right: 35.099968
+Message:12 Rotation over. Set last speed to zero.
+Message ID: 61.0                                                                    Front: 33.669758 Rear: 2.095097 Left: 60.54613 Right: 56.532562
+Message ID: 58.0 Speed: 0.0 Time delta: 2839.0
+Message ID: 58.0                          Main angle: 283.9375 Pitch: 0.5 Role: -2.5
+Message ID: 62.0                                                                    Front: 31.678547 Rear: 2.255645 Left: 51.842144 Right: 55.332485
+Message ID: 59.0 Speed: 0.0 Time delta: 200.0
+Message ID: 59.0                          Main angle: 283.6875 Pitch: 0.625 Role: -2.0625
+Message ID: 63.0                                                                    Front: 32.58334 Rear: 6.514468 Left: 34.13537 Right: 55.47792
+Message ID: 60.0 Speed: 7.259526 Time delta: 249.0
+Message ID: 60.0                          Main angle: 283.875 Pitch: 0.5 Role: -2.1875
+Message ID: 64.0                                                                    Front: 27.40274 Rear: 10.149936 Left: 53.878986 Right: 52.167645
+Message ID: 61.0 Speed: 18.667368 Time delta: 249.0
+Message ID: 61.0                          Main angle: 284.0 Pitch: 0.75 Role: -1.8125
+Message ID: 65.0                                                                    Front: 28.376146 Rear: 13.950693 Left: 54.354984 Right: 51.385017
+Message ID: 62.0 Speed: 18.66773 Time delta: 249.0
+Message ID: 62.0                          Main angle: 284.5 Pitch: 0.625 Role: -2.25
+Message ID: 66.0                                                                    Front: 20.920712 Rear: 16.811113 Left: 54.792885 Right: 52.461697
+Message ID: 63.0 Speed: 19.714605 Time delta: 249.0
+Message ID: 63.0                          Main angle: 284.625 Pitch: 0.6875 Role: -2.125
+Message ID: 67.0                                                                    Front: 75.40634 Rear: 24.581352 Left: 57.41121 Right: 51.478516
+Message ID: 64.0 Speed: 17.64229 Time delta: 250.0
+Message ID: 64.0                          Main angle: 284.875 Pitch: 0.8125 Role: -2.3125
+Message ID: 68.0                                                                    Front: 65.89766 Rear: 27.303888 Left: 57.56987 Right: 49.92271
+Message ID: 65.0 Speed: 18.667791 Time delta: 249.0
+Message ID: 65.0                          Main angle: 285.1875 Pitch: 0.8125 Role: -2.5
+Message ID: 69.0                                                                    Front: 64.99163 Rear: 31.713177 Left: 74.61111 Right: 50.640484
+Message ID: 66.0 Speed: 18.667253 Time delta: 249.0
+Message ID: 66.0                          Main angle: 285.5 Pitch: 0.75 Role: -2.5
+Message ID: 70.0                                                                    Front: 60.223755 Rear: 38.035614 Left: 58.63079 Right: 48.50068
+Message ID: 67.0 Speed: 19.719322 Time delta: 250.0
+Message ID: 67.0                          Main angle: 286.9375 Pitch: 0.9375 Role: -2.4375
+Message ID: 71.0                                                                    Front: 59.863613 Rear: 38.31171 Left: 60.339596 Right: 46.793434
+Message ID: 68.0 Speed: 11.414668 Time delta: 249.0
+Message ID: 68.0                          Main angle: 286.875 Pitch: 0.9375 Role: -2.375
+Message ID: 72.0                                                                    Front: 58.47779 Rear: 37.740627 Left: 7.202968 Right: 49.430645
+Message ID: 69.0 Speed: 4.148234 Time delta: 259.0
+Message ID: 69.0                          Main angle: 286.9375 Pitch: 0.4375 Role: -1.9375
+Message ID: 73.0                                                                    Front: 58.26971 Rear: 37.83066 Left: 5.7885 Right: 47.620777
+Message ID: 70.0 Speed: 0.0 Time delta: 249.0
+Message ID: 70.0                          Main angle: 286.75 Pitch: 0.3125 Role: -1.75
+Message ID: 74.0                                                                    Front: 58.430256 Rear: 37.762676 Left: 8.310467 Right: 46.128548
+Message ID: 71.0 Speed: 0.0 Time delta: 250.0
+Message ID: 71.0                          Main angle: 286.75 Pitch: 0.25 Role: -1.6875
+Message ID: 75.0                                                                    Front: 58.92547 Rear: 37.559597 Left: 61.86992 Right: 49.890923
+Message ID: 72.0 Speed: 4.1482663 Time delta: 249.0
+Message ID: 72.0                          Main angle: 286.75 Pitch: 0.0625 Role: -1.5
+Message ID: 76.0                                                                    Front: 58.711082 Rear: 37.704742 Left: 62.02608 Right: 46.738983
+Message ID: 73.0 Speed: 2.0741935 Time delta: 249.0
+Message ID: 73.0                          Main angle: 286.75 Pitch: 0.0 Role: -1.375
+Message ID: 77.0                                                                    Front: 60.82663 Rear: 37.80958 Left: 112.87497 Right: 45.53639
+Message ID: 74.0 Speed: 3.111216 Time delta: 250.0
+Message ID: 74.0                          Main angle: 286.8125 Pitch: 0.0625 Role: -1.375
+Message ID: 78.0                                                                    Front: 58.49384 Rear: 38.150517 Left: 114.340744 Right: 47.091255
+Message ID: 75.0 Speed: 4.148278 Time delta: 249.0
+Message ID: 75.0                          Main angle: 286.8125 Pitch: 0.0625 Role: -1.3125
+Message ID: 79.0                                                                    Front: 58.545177 Rear: 37.3619 Left: 58.23413 Right: 49.552483
+Message ID: 76.0 Speed: 5.189631 Time delta: 250.0
+Message ID: 76.0                          Main angle: 286.8125 Pitch: 0.0 Role: -1.25
+Message ID: 80.0                                                                    Front: 57.88908 Rear: 37.573467 Left: 4.960226 Right: 48.608337
+Message:12 Rotation over. Set last speed to zero.
+Message ID: 81.0                                                                    Front: 55.27613 Rear: 67.30079 Left: 58.68463 Right: 46.12352
+Message ID: 77.0 Speed: 0.0 Time delta: 779.0
+Message ID: 77.0                          Main angle: 306.875 Pitch: 0.0 Role: -1.25
+Message ID: 82.0                                                                    Front: 50.422 Rear: 65.98045 Left: 63.3461 Right: 45.993824
+Message ID: 78.0 Speed: 0.0 Time delta: 220.0
+Message ID: 78.0                          Main angle: 306.6875 Pitch: 0.375 Role: -1.0
+Message ID: 83.0                                                                    Front: 61.278385 Rear: 70.25408 Left: 56.941177 Right: 44.73519
+Message ID: 79.0 Speed: 8.299686 Time delta: 249.0
+Message ID: 79.0                          Main angle: 306.6875 Pitch: 0.0625 Role: -1.125
+Message ID: 84.0                                                                    Front: 60.477497 Rear: 73.915695 Left: 50.486855 Right: 44.45218
+Message ID: 80.0 Speed: 19.694294 Time delta: 260.0
+Message ID: 80.0                          Main angle: 307.0 Pitch: 0.1875 Role: -0.75
+Message ID: 85.0                                                                    Front: 53.170322 Rear: 51.260338 Left: 51.12529 Right: 39.887676
+Message ID: 81.0 Speed: 19.704138 Time delta: 249.0
+Message ID: 81.0                          Main angle: 307.25 Pitch: 0.1875 Role: -0.9375
+Message ID: 86.0                                                                    Front: 50.508564 Rear: 53.88874 Left: 47.214035 Right: 36.584
+Message ID: 82.0 Speed: 18.671005 Time delta: 249.0
+Message ID: 82.0                          Main angle: 307.5 Pitch: 0.25 Role: -0.6875
+Message ID: 87.0                                                                    Front: 45.41171 Rear: 57.059242 Left: 87.71812 Right: 33.59516
+Message ID: 83.0 Speed: 18.667086 Time delta: 250.0
+Message ID: 83.0                          Main angle: 307.5 Pitch: 0.3125 Role: -0.5625
+Message ID: 88.0                                                                    Front: 40.33376 Rear: 63.194664 Left: 88.729614 Right: 30.446371
+Message ID: 84.0 Speed: 19.703798 Time delta: 249.0
+Message ID: 84.0                          Main angle: 308.0 Pitch: 0.25 Role: -0.6875
+Message ID: 89.0                                                                    Front: 40.588127 Rear: 65.029724 Left: 35.28287 Right: 27.363081
+Message ID: 85.0 Speed: 17.630493 Time delta: 250.0
+Message ID: 85.0                          Main angle: 308.25 Pitch: 0.125 Role: -0.4375
+Message ID: 90.0                                                                    Front: 32.30629 Rear: 69.368805 Left: 31.54129 Right: 25.307016
+Message ID: 86.0 Speed: 19.704636 Time delta: 249.0
+Message ID: 86.0                          Main angle: 308.4375 Pitch: 0.25 Role: -0.3125
+Message ID: 91.0                                                                    Front: 39.658806 Rear: 73.77874 Left: 29.335693 Right: 22.78221
+Message ID: 87.0 Speed: 18.671684 Time delta: 249.0
+Message ID: 87.0                          Main angle: 308.6875 Pitch: 0.5625 Role: -0.375
+Message ID: 92.0                                                                    Front: 33.710064 Rear: 77.622 Left: 23.397676 Right: 19.434162
+Message ID: 88.0 Speed: 18.667685 Time delta: 249.0
+Message ID: 88.0                          Main angle: 308.875 Pitch: 0.3125 Role: -0.4375
+Message ID: 93.0                                                                    Front: 22.977062 Rear: 80.07691 Left: 19.549353 Right: 14.808258
+Message ID: 89.0 Speed: 17.644218 Time delta: 249.0
+Message ID: 89.0                          Main angle: 309.0625 Pitch: 0.4375 Role: -0.125
+Message ID: 94.0                                                                    Front: 22.116371 Rear: 84.27971 Left: 17.080275 Right: 13.840839
+Message ID: 90.0 Speed: 19.704716 Time delta: 249.0
+Message ID: 90.0                          Main angle: 309.375 Pitch: 0.4375 Role: -0.5
+Message ID: 95.0                                                                    Front: 19.611385 Rear: 88.98303 Left: 14.0165 Right: 11.139097
+Message ID: 91.0 Speed: 19.704361 Time delta: 249.0
+Message ID: 91.0                          Main angle: 309.5625 Pitch: 0.625 Role: -0.1875
+Message ID: 96.0                                                                    Front: 17.210918 Rear: 90.06758 Left: 11.316951 Right: 9.186919
+Message ID: 92.0 Speed: 17.629766 Time delta: 249.0
+Message ID: 92.0                          Main angle: 309.625 Pitch: 0.5 Role: -0.3125
+Message ID: 97.0                                                                    Front: 12.785258 Rear: 95.78021 Left: 6.079064 Right: 5.347435
+Message ID: 93.0 Speed: 19.70396 Time delta: 249.0
+Message ID: 93.0                          Main angle: 309.0625 Pitch: 0.6875 Role: -0.625
+Message ID: 98.0                                                                    Front: 7.1787257 Rear: 96.557175 Left: 2.538032 Right: 3.769597
+Message ID: 94.0 Speed: 18.667639 Time delta: 249.0
+Message ID: 94.0                          Main angle: 308.625 Pitch: 0.5 Role: -0.5
+Message ID: 99.0                                                                    Front: 6.4618874 Rear: 98.06419 Left: 3.0836132 Right: 7.479371
+Message ID: 95.0 Speed: -14.518824 Time delta: 260.0
+Message ID: 95.0                          Main angle: 308.0625 Pitch: 0.5625 Role: -0.6875
+Message ID: 100.0                                                                    Front: 12.053323 Rear: 92.734375 Left: 8.171645 Right: 4.745839
+Message ID: 96.0 Speed: -15.555823 Time delta: 249.0
+Message ID: 96.0                          Main angle: 307.75 Pitch: 1.0 Role: -0.4375
+Message ID: 101.0                                                                    Front: 17.15708 Rear: 97.32437 Left: 10.161274 Right: 7.3163066
+Message ID: 97.0 Speed: -16.592686 Time delta: 249.0
+Message ID: 97.0                          Main angle: 307.625 Pitch: 0.625 Role: -0.625
+Message ID: 102.0                                                                    Front: 22.665081 Rear: 89.48296 Left: 12.992081 Right: 10.722597
+Message ID: 98.0 Speed: -18.667135 Time delta: 249.0
+Message ID: 98.0                          Main angle: 307.5 Pitch: 0.6875 Role: -0.5
+Message ID: 103.0                                                                    Front: 20.476177 Rear: 83.28174 Left: 16.085773 Right: 13.37837
+Message ID: 99.0 Speed: -18.666977 Time delta: 249.0
+Message ID: 99.0                          Main angle: 307.25 Pitch: 0.8125 Role: -0.625
+Message ID: 104.0                                                                    Front: 30.769676 Rear: 80.80445 Left: 21.153984 Right: 15.5975
+Message ID: 100.0 Speed: -16.59341 Time delta: 249.0
+Message ID: 100.0                          Main angle: 314.6875 Pitch: 0.75 Role: -0.4375
+Message ID: 105.0                                                                    Front: 25.857935 Rear: 76.709656 Left: 29.873709 Right: 17.034
+Message ID: 101.0 Speed: -18.667208 Time delta: 249.0
+Message ID: 101.0                          Main angle: 306.5625 Pitch: 0.8125 Role: -0.3125
+Message ID: 106.0                                                                    Front: 30.243307 Rear: 73.29203 Left: 32.096645 Right: 20.359081
+Message ID: 102.0 Speed: -16.592829 Time delta: 250.0
+Message ID: 102.0                          Main angle: 306.3125 Pitch: 0.5625 Role: -0.375
+Message ID: 107.0                                                                    Front: 32.427807 Rear: 69.31813 Left: 30.096918 Right: 23.148016
+Message ID: 103.0 Speed: -18.67972 Time delta: 249.0
+Message ID: 103.0                          Main angle: 305.9375 Pitch: 0.6875 Role: -0.1875
+Message ID: 108.0                                                                    Front: 33.653694 Rear: 65.2501 Left: 38.274242 Right: 25.72226
+Message:12 Rotation over. Set last speed to zero.
+Message ID: 109.0                                                                    Front: 72.861694 Rear: 66.17532 Left: 66.96741 Right: 38.6155
+Message ID: 104.0 Speed: 0.0 Time delta: 2349.0
+Message ID: 104.0                          Main angle: 222.4375 Pitch: -0.375 Role: -0.6875
+Message ID: 110.0                                                                    Front: 70.56448 Rear: 64.92582 Left: 66.63243 Right: 38.926853
+Message ID: 105.0 Speed: 0.0 Time delta: 200.0
+Message ID: 105.0                          Main angle: 222.75 Pitch: -0.3125 Role: -0.625
+Message ID: 111.0                                                                    Front: 70.14484 Rear: 69.312775 Left: 65.92852 Right: 35.75918
+Message ID: 106.0 Speed: 3.1112773 Time delta: 249.0
+Message ID: 106.0                          Main angle: 223.1875 Pitch: -0.125 Role: -0.25
+Message ID: 112.0                                                                    Front: 73.76582 Rear: 76.23209 Left: 60.68779 Right: 32.049725
+Message ID: 107.0 Speed: 16.593401 Time delta: 249.0
+Message ID: 107.0                          Main angle: 223.5625 Pitch: -0.125 Role: 0.0
+Message ID: 113.0                                                                    Front: 37.528454 Rear: 80.71821 Left: 58.41105 Right: 29.631952
+Message ID: 108.0 Speed: 19.704212 Time delta: 249.0
+Message ID: 108.0                          Main angle: 223.3125 Pitch: -0.1875 Role: -0.25
+Message ID: 114.0                                                                    Front: 65.251045 Rear: 84.583176 Left: 55.034355 Right: 26.486
+Message ID: 109.0 Speed: 17.629642 Time delta: 249.0
+Message ID: 109.0                          Main angle: 223.6875 Pitch: -0.1875 Role: -0.0625
+Message ID: 115.0                                                                    Front: 60.86284 Rear: 89.44109 Left: 51.148903 Right: 22.96292
+Message ID: 110.0 Speed: 19.70435 Time delta: 249.0
+Message ID: 110.0                          Main angle: 224.0 Pitch: -0.125 Role: -0.375
+Message ID: 116.0                                                                    Front: 56.16958 Rear: 94.346535 Left: 47.067013 Right: 21.062693
+Message ID: 111.0 Speed: 17.630407 Time delta: 249.0
+Message ID: 111.0                          Main angle: 224.375 Pitch: -0.125 Role: -0.1875
+Message ID: 117.0                                                                    Front: 29.169485 Rear: 94.18032 Left: 45.590225 Right: 16.821177
+Message ID: 112.0 Speed: 18.666817 Time delta: 249.0
+Message ID: 112.0                          Main angle: 224.625 Pitch: -0.25 Role: -0.1875
+Message ID: 118.0                                                                    Front: 48.7135 Rear: 59.17984 Left: 55.635033 Right: 13.280451
+Message ID: 113.0 Speed: 17.641499 Time delta: 249.0
+Message ID: 113.0                          Main angle: 224.6875 Pitch: 0.0625 Role: -0.25
+Message ID: 119.0                                                                    Front: 50.578144 Rear: 63.42919 Left: 41.959145 Right: 10.885984
+Message ID: 114.0 Speed: 19.704895 Time delta: 249.0
+Message ID: 114.0                          Main angle: 224.75 Pitch: 0.0 Role: -0.25
+Message ID: 120.0                                                                    Front: 72.94006 Rear: 62.531967 Left: 36.069275 Right: 8.190226
+Message ID: 115.0 Speed: 19.704699 Time delta: 249.0
+Message ID: 115.0                          Main angle: 225.25 Pitch: 0.125 Role: 0.0
+Message ID: 121.0                                                                    Front: 37.23471 Rear: 84.868095 Left: 31.654306 Right: 2.14829
+Message:12 Rotation over. Set last speed to zero.
+Message ID: 122.0                                                                    Front: 28.428726 Rear: 67.35715 Left: 52.087997 Right: 2.744565
+Message ID: 116.0 Speed: 0.0 Time delta: 1009.0
+Message ID: 123.0                                                                    Front: 29.671936 Rear: 67.80671 Left: 51.683773 Right: 2.844967
+Message ID: 116.0                          Main angle: 204.0 Pitch: -0.25 Role: -0.125
+Message:12 Rotation over. Set last speed to zero.
+Message ID: 124.0                                                                    Front: 27.407452 Rear: 67.55108 Left: 29.547256 Right: 6.851952
+Message ID: 117.0 Speed: 0.0 Time delta: 749.0
+Message ID: 117.0                          Main angle: 182.0625 Pitch: -0.625 Role: -0.9375
+Message ID: 125.0                                                                    Front: 28.006243 Rear: 67.30206 Left: 31.282822 Right: 6.807242
+Message ID: 118.0 Speed: 0.0 Time delta: 249.0
+Message ID: 118.0                          Main angle: 181.1875 Pitch: -0.3125 Role: -0.875
+Message ID: 126.0                                                                    Front: 24.665419 Rear: 70.22038 Left: 40.986046 Right: 7.0386286
+Message ID: 119.0 Speed: 7.2631207 Time delta: 250.0
+Message ID: 119.0                          Main angle: 180.6875 Pitch: -0.5 Role: -0.9375
+Message ID: 127.0                                                                    Front: 19.073694 Rear: 75.88297 Left: 19.961145 Right: 6.6728063
+Message ID: 120.0 Speed: 18.667732 Time delta: 249.0
+Message ID: 120.0                          Main angle: 180.3125 Pitch: -0.4375 Role: -0.9375
+Message ID: 128.0                                                                    Front: 14.913726 Rear: 80.27526 Left: 40.32905 Right: 7.396904
+Message ID: 121.0 Speed: 20.741968 Time delta: 250.0
+Message ID: 121.0                          Main angle: 179.375 Pitch: -0.25 Role: -1.25
+Message ID: 129.0                                                                    Front: 8.406823 Rear: 85.10736 Left: 39.76458 Right: 6.429145
+Message:12 Rotation over. Set last speed to zero.
+Message ID: 130.0                                                                    Front: 29.194338 Rear: 5.5889034 Left: 104.6479 Right: 3.5372581
+Message ID: 122.0 Speed: 0.0 Time delta: 3289.0
+Message ID: 122.0                          Main angle: 87.75 Pitch: 0.6875 Role: -1.875
+Message ID: 131.0                                                                    Front: 28.920467 Rear: 6.0201926 Left: 94.772156 Right: 3.266839
+Message:12 Rotation over. Set last speed to zero.
+Message ID: 132.0                                                                    Front: 27.441774 Rear: 4.102355 Left: 101.11253 Right: 6.705548
+Message ID: 123.0 Speed: 0.0 Time delta: 2719.0
+Message ID: 123.0                          Main angle: 79.5625 Pitch: 0.125 Role: -1.0
+Message ID: 133.0                                                                    Front: 29.244402 Rear: 7.077032 Left: 101.96757 Right: 7.5385485
+Message ID: 124.0 Speed: 2.0740988 Time delta: 250.0
+Message ID: 124.0                          Main angle: 79.5625 Pitch: 0.1875 Role: -1.0625
+Message ID: 134.0                                                                    Front: 24.90879 Rear: 12.13737 Left: 101.291046 Right: 9.993161
+Message ID: 125.0 Speed: 10.370599 Time delta: 249.0
+Message ID: 125.0                          Main angle: 80.0 Pitch: 0.25 Role: -0.6875
+Message ID: 135.0                                                                    Front: 21.267952 Rear: 14.4648075 Left: 96.57039 Right: 10.126016
+Message ID: 126.0 Speed: 17.612173 Time delta: 249.0
+Message ID: 126.0                          Main angle: 80.0625 Pitch: 0.25 Role: -0.8125
+Message ID: 136.0                                                                    Front: 16.127338 Rear: 19.72629 Left: 95.452156 Right: 9.007177
+Message ID: 127.0 Speed: 17.630293 Time delta: 249.0
+Message ID: 127.0                          Main angle: 80.375 Pitch: 0.125 Role: -0.625
+Message ID: 137.0                                                                    Front: 7.432774 Rear: 19.221645 Left: 91.76946 Right: 9.447921
+Message:12 Rotation over. Set last speed to zero.
+Message ID: 138.0                                                                    Front: 91.49178 Rear: 2.663662 Left: 30.267565 Right: 53.998287
+Message ID: 128.0 Speed: 0.0 Time delta: 2759.0
+Message ID: 128.0                          Main angle: 348.625 Pitch: -0.0625 Role: -1.3125
+Message ID: 139.0                                                                    Front: 92.703514 Rear: 2.9151769 Left: 30.956047 Right: 53.425323
+Message ID: 129.0 Speed: 5.185444 Time delta: 250.0
+Message ID: 129.0                          Main angle: 348.9375 Pitch: 0.0625 Role: -1.4375
+Message ID: 140.0                                                                    Front: 87.31169 Rear: 8.088226 Left: 29.18113 Right: 21.871758
+Message ID: 130.0 Speed: 13.4818325 Time delta: 249.0
+Message ID: 130.0                          Main angle: 349.1875 Pitch: 0.3125 Role: -1.25
+Message ID: 141.0                                                                    Front: 83.30944 Rear: 12.745274 Left: 29.26047 Right: 51.00063
+Message ID: 131.0 Speed: 19.70432 Time delta: 249.0
+Message ID: 131.0                          Main angle: 349.5625 Pitch: 0.1875 Role: -1.5
+Message ID: 142.0                                                                    Front: 78.31994 Rear: 16.54542 Left: 27.998999 Right: 52.011806
+Message ID: 132.0 Speed: 20.740988 Time delta: 249.0
+Message ID: 132.0                          Main angle: 349.75 Pitch: 0.125 Role: -1.3125
+Message ID: 143.0                                                                    Front: 74.00917 Rear: 20.51742 Left: 22.936466 Right: 52.088936
+Message ID: 133.0 Speed: 17.629667 Time delta: 249.0
+Message ID: 133.0                          Main angle: 349.875 Pitch: 0.625 Role: -1.4375
+Message ID: 144.0                                                                    Front: 69.290115 Rear: 26.546436 Left: 24.911613 Right: 52.63705
+Message ID: 134.0 Speed: 18.66685 Time delta: 250.0
+Message ID: 134.0                          Main angle: 350.0625 Pitch: 0.3125 Role: -1.625
+Message ID: 145.0                                                                    Front: 65.395226 Rear: 31.792515 Left: 24.186274 Right: 24.540436
+Message ID: 135.0 Speed: 17.62975 Time delta: 249.0
+Message ID: 135.0                          Main angle: 350.3125 Pitch: 0.5 Role: -1.4375
+Message ID: 146.0                                                                    Front: 60.458305 Rear: 34.844337 Left: 22.956614 Right: 52.814293
+Message ID: 136.0 Speed: 19.704166 Time delta: 249.0
+Message ID: 136.0                          Main angle: 350.6875 Pitch: 0.1875 Role: -1.625
+Message ID: 147.0                                                                    Front: 55.857292 Rear: 41.33487 Left: 8.734838 Right: 86.374794
+Message ID: 137.0 Speed: 20.741787 Time delta: 249.0
+Message ID: 137.0                          Main angle: 351.0 Pitch: 0.4375 Role: -1.4375
+Message ID: 148.0                                                                    Front: 52.483078 Rear: 45.243305 Left: 22.405693 Right: 85.22542
+Message ID: 138.0 Speed: 16.592953 Time delta: 249.0
+Message ID: 138.0                          Main angle: 351.0625 Pitch: 0.25 Role: -1.6875
+Message ID: 149.0                                                                    Front: 46.974773 Rear: 48.73208 Left: 20.86184 Right: 88.99121
+Message ID: 139.0 Speed: 20.74087 Time delta: 260.0
+Message ID: 139.0                          Main angle: 351.5 Pitch: 0.3125 Role: -1.625
+Message ID: 150.0                                                                    Front: 42.550674 Rear: 53.678436 Left: 19.540565 Right: 90.39718
+Message ID: 140.0 Speed: 18.679422 Time delta: 249.0
+Message ID: 140.0                          Main angle: 351.6875 Pitch: 0.375 Role: -1.625
+Message ID: 151.0                                                                    Front: 39.06537 Rear: 57.669033 Left: 18.649935 Right: 91.394516
+Message ID: 141.0 Speed: 19.703909 Time delta: 249.0
+Message ID: 141.0                          Main angle: 352.0 Pitch: 0.3125 Role: -1.1875
+Message ID: 152.0                                                                    Front: 33.676678 Rear: 62.44729 Left: 17.521338 Right: 92.1614
+Message ID: 142.0 Speed: 19.71594 Time delta: 249.0
+Message ID: 142.0                          Main angle: 352.1875 Pitch: 0.3125 Role: -1.3125
+Message ID: 153.0                                                                    Front: 28.015047 Rear: 68.57989 Left: 15.596854 Right: 86.70471
+Message ID: 143.0 Speed: 17.6471 Time delta: 249.0
+Message ID: 143.0                          Main angle: 352.5625 Pitch: 0.5 Role: -1.125
+Message ID: 154.0                                                                    Front: 23.980082 Rear: 72.097 Left: 16.673855 Right: 91.68633
+Message ID: 144.0 Speed: 20.756784 Time delta: 249.0
+Message ID: 144.0                          Main angle: 352.8125 Pitch: 0.3125 Role: -1.0
+Message ID: 155.0                                                                    Front: 16.108435 Rear: 72.90732 Left: 13.3815155 Right: 95.86111
+Message ID: 145.0 Speed: 18.682032 Time delta: 249.0
+Message ID: 145.0                          Main angle: 353.0625 Pitch: 0.4375 Role: -0.8125
+Message ID: 156.0                                                                    Front: 14.367839 Rear: 83.01445 Left: 15.8631935 Right: 88.40221
+Message ID: 146.0 Speed: 18.68361 Time delta: 249.0
+Message ID: 146.0                          Main angle: 353.3125 Pitch: 0.75 Role: -1.125
+Message ID: 157.0                                                                    Front: 9.797031 Rear: 85.40264 Left: 14.783387 Right: 93.84661
+Message:12 Rotation over. Set last speed to zero.
+Message ID: 158.0                                                                    Front: 86.824036 Rear: 9.592726 Left: 8.471678 Right: 96.33742
+Message ID: 147.0 Speed: 0.0 Time delta: 2499.0
+Message ID: 147.0                          Main angle: 85.125 Pitch: 1.0 Role: -1.6875
+Message ID: 159.0                                                                    Front: 85.29875 Rear: 9.740371 Left: 10.987678 Right: 97.351135
+Message ID: 148.0 Speed: 5.186761 Time delta: 210.0
+Message ID: 148.0                          Main angle: 85.3125 Pitch: 0.8125 Role: -1.5625
+Message ID: 160.0                                                                    Front: 80.51137 Rear: 15.884307 Left: 10.160338 Right: 97.96281
+Message ID: 149.0 Speed: 15.556356 Time delta: 299.0
+Message ID: 149.0                          Main angle: 85.9375 Pitch: 0.9375 Role: -1.125
+Message ID: 161.0                                                                    Front: 73.972984 Rear: 20.944952 Left: 12.150597 Right: 99.100235
+Message ID: 150.0 Speed: 18.679403 Time delta: 249.0
+Message ID: 150.0                          Main angle: 86.0 Pitch: 0.9375 Role: -1.0625
+Message ID: 162.0                                                                    Front: 69.15129 Rear: 25.40271 Left: 10.166952 Right: 98.90694
+Message ID: 151.0 Speed: 18.678324 Time delta: 249.0
+Message ID: 151.0                          Main angle: 86.0625 Pitch: 1.3125 Role: -1.0625
+Message ID: 163.0                                                                    Front: 64.27448 Rear: 30.531372 Left: 9.889581 Right: 99.35021
+Message ID: 152.0 Speed: 19.704676 Time delta: 249.0
+Message ID: 152.0                          Main angle: 86.25 Pitch: 1.125 Role: -1.125
+Message ID: 164.0                                                                    Front: 60.127113 Rear: 35.552032 Left: 9.504563 Right: 115.84746
+Message ID: 153.0 Speed: 19.711004 Time delta: 249.0
+Message ID: 153.0                          Main angle: 86.6875 Pitch: 1.125 Role: -0.875
+Message ID: 165.0                                                                    Front: 54.88795 Rear: 37.488453 Left: 10.777047 Right: 97.27558
+Message ID: 154.0 Speed: 18.678598 Time delta: 249.0
+Message ID: 154.0                          Main angle: 86.9375 Pitch: 0.9375 Role: -0.875
+Message ID: 166.0                                                                    Front: 51.93279 Rear: 43.73879 Left: 8.548468 Right: 112.15026
+Message ID: 155.0 Speed: 17.63013 Time delta: 249.0
+Message ID: 155.0                          Main angle: 87.0625 Pitch: 1.0625 Role: -0.5625
+Message ID: 167.0                                                                    Front: 46.520805 Rear: 48.85234 Left: 6.7235003 Right: 102.774765
+Message ID: 156.0 Speed: 19.704432 Time delta: 249.0
+Message ID: 156.0                          Main angle: 86.1875 Pitch: 1.1875 Role: -1.0
+Message ID: 168.0                                                                    Front: 42.225807 Rear: 52.514256 Left: 6.026823 Right: 104.505615
+Message ID: 157.0 Speed: 19.70477 Time delta: 249.0
+Message ID: 157.0                          Main angle: 85.6875 Pitch: 1.25 Role: -0.6875
+Message ID: 169.0                                                                    Front: 38.639435 Rear: 57.50597 Left: 4.3198867 Right: 105.40757
+Message:12 Rotation over. Set last speed to zero.
+Message ID: 170.0                                                                    Front: 35.287598 Rear: 61.23747 Left: 107.831635 Right: 74.12063
+Message ID: 158.0 Speed: 0.0 Time delta: 759.0
+Message ID: 158.0                          Main angle: 107.6875 Pitch: 1.25 Role: -0.875
+Message ID: 171.0                                                                    Front: 34.23863 Rear: 60.690308 Left: 12.128242 Right: 74.67942
+Message ID: 159.0 Speed: 0.0 Time delta: 250.0
+Message ID: 159.0                          Main angle: 107.5625 Pitch: 1.25 Role: -0.5625
+Message ID: 172.0                                                                    Front: 30.955435 Rear: 65.24977 Left: 31.053322 Right: 97.988
+Message ID: 160.0 Speed: 9.333821 Time delta: 249.0
+Message ID: 160.0                          Main angle: 107.875 Pitch: 1.3125 Role: -0.8125
+Message ID: 173.0                                                                    Front: 25.670952 Rear: 68.7395 Left: 31.767323 Right: 95.6291
+Message ID: 161.0 Speed: 18.667686 Time delta: 250.0
+Message ID: 161.0                          Main angle: 108.0625 Pitch: 1.625 Role: -0.5
+Message ID: 174.0                                                                    Front: 23.00258 Rear: 74.296616 Left: 25.987951 Right: 88.67515
+Message ID: 162.0 Speed: 17.630411 Time delta: 249.0
+Message ID: 162.0                          Main angle: 108.25 Pitch: 1.4375 Role: -1.0625
+Message ID: 175.0                                                                    Front: 16.620968 Rear: 79.53732 Left: 20.31721 Right: 93.32527
+Message ID: 163.0 Speed: 20.74177 Time delta: 249.0
+Message ID: 163.0                          Main angle: 108.5625 Pitch: 1.375 Role: -1.0625
+Message ID: 176.0                                                                    Front: 12.665629 Rear: 80.95651 Left: 14.996839 Right: 89.15303
+Message ID: 164.0 Speed: 18.667799 Time delta: 250.0
+Message ID: 164.0                          Main angle: 108.4375 Pitch: 1.3125 Role: -1.3125
+Message ID: 177.0                                                                    Front: 6.329032 Rear: 89.2714 Left: 18.229033 Right: 90.360985
+Message: 8 Process ends.
