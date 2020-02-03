@@ -13,6 +13,7 @@
 \contentsline {subsection}{\numberline {2.10}PCB Board}{5}{subsection.28}% 
 \contentsline {section}{\numberline {3}Internal Software}{7}{section.30}% 
 \contentsline {subsection}{\numberline {3.1}Design Principles}{7}{subsection.32}% 
+<<<<<<< HEAD
 \contentsline {subsubsection}{\numberline {3.1.1}Communication}{8}{subsubsection.33}% 
 \contentsline {subsubsection}{\numberline {3.1.2}Economical}{9}{subsubsection.35}% 
 \contentsline {subsubsection}{\numberline {3.1.3}Documentation}{9}{subsubsection.36}% 
@@ -38,3 +39,27 @@
 \contentsline {subsection}{\numberline {5.2}Software}{19}{subsection.68}% 
 \contentsline {subsection}{\numberline {5.3}Problems}{21}{subsection.89}% 
 \contentsline {section}{\numberline {6}References}{22}{section.90}% 
+=======
+\contentsline {subsection}{\numberline {3.2}Base Process}{8}{subsection.33}% 
+\contentsline {subsection}{\numberline {3.3}Navigation Process}{8}{subsection.34}% 
+\contentsline {section}{\numberline {4}Image Processing}{9}{section.35}% 
+\contentsline {subsubsection}{\numberline {4.0.1}Definition of the object detection task}{9}{subsubsection.36}% 
+\contentsline {subsubsection}{\numberline {4.0.2}Requirements on object detection}{9}{subsubsection.38}% 
+\contentsline {subsection}{\numberline {4.1}Basic model selection}{9}{subsection.39}% 
+\contentsline {subsection}{\numberline {4.2}Object Detection System}{11}{subsection.42}% 
+\contentsline {subsubsection}{\numberline {4.2.1}Faster R-CNN}{11}{subsubsection.43}% 
+\contentsline {subsubsection}{\numberline {4.2.2}You Only Look Once -- YOLO}{12}{subsubsection.45}% 
+\contentsline {subsubsection}{\numberline {4.2.3}Single Shot Detection -- SSD}{12}{subsubsection.46}% 
+\contentsline {subsection}{\numberline {4.3}Experiments}{12}{subsection.48}% 
+\contentsline {subsection}{\numberline {4.4}Software}{13}{subsection.49}% 
+\contentsline {subsubsection}{\numberline {4.4.1}Server.py}{14}{subsubsection.51}% 
+\contentsline {subsubsection}{\numberline {4.4.2}Client.py}{14}{subsubsection.52}% 
+\contentsline {subsection}{\numberline {4.5}Results}{14}{subsection.53}% 
+\contentsline {section}{\numberline {5}Routing \& Mapping}{15}{section.54}% 
+\contentsline {subsection}{\numberline {5.1}Detection}{15}{subsection.56}% 
+\contentsline {subsubsection}{\numberline {5.1.1}Routing}{15}{subsubsection.57}% 
+\contentsline {subsubsection}{\numberline {5.1.2}Mapping}{16}{subsubsection.62}% 
+\contentsline {subsection}{\numberline {5.2}Software}{18}{subsection.64}% 
+\contentsline {subsection}{\numberline {5.3}Problems}{20}{subsection.85}% 
+\contentsline {section}{\numberline {6}References}{21}{section.86}% 
+>>>>>>> fe5836e38c93ccec12af9fab6d4b3a4ae2ada36e
