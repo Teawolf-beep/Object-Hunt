@@ -47,12 +47,12 @@ The internal software underlies software specifications, which are defined at th
 
 \subsubsection{Communication}
 
-All participating processes communicate via TCP/\,IP. Therefore a purpose-built way of exchanging data is developed. Messages are generally separated in action identifiers, commands, requests and responses. Table \ref{tbl:message_definition} declares the usage of each message type.\\ 
+All participating processes communicate via TCP/\,IP. Therefore a purpose-built way of exchanging data is developed. Messages are generally separated in action identifiers, commands, requests and responses. Table \ref{tbl:message_definition} declares the usage of each message type.
 
 \begingroup
 \begin{tabular}[t]{|l|l|}
 \hline
-\makecell{Action\\identifiers} & \makecell{This message consists of exactly one byte in all implementations. It is put in front of\\each other message type and tells the receiving process what data is about to come in.}\\
+\makecell{Action\\identifiers} & \makecell{This messages consist of exactly one byte in all implementations. It is put in front of\\each other message type and tells the receiving process what data is about to come in.}\\
 \hline
 Commands & \makecell{Gives a specific order to the base process. Only the base process can handle commands.\\A command does not implicate any result, so the sending process will get no feedback,\\if the command succeeded or not.}\\
 \hline
@@ -68,13 +68,21 @@ There exist several implementations of each message type. A motor will most like
 
 \subsubsection{Economical}
 
+The application shall be both CPU as well as time efficient. Therefore the participating processes are implemented in a multi-threaded manner. Each thread gets created at initiation and is dedicated to one task. A thread will only be active, if the respecting task needs to executed. Otherwise the thread will be in an idle and consume no unnecessary CPU time. Tasks are getting triggered by certain events, i.e. a hardware interrupt, an incoming message, an expired timer and so on. All events are initialized so that they can get polled from file descriptors. This allows threads and processes to wait in an idle state for specific events to happen.\\
+
+In a multi threaded context one has to take care of simultaneous access of shared resources. Therefore the threads are synchronized via synchronization mechanisms, for example mutexes. A mutex can be shared between multiple threads. If one of the threads needs to access a shared resource, it will lock the mutex. When another thread tries to access the same resource in the same time, it would need to lock the mutex as well. When the mutex is locked already, the calling thread is queued until the mutex is unlocked. As soon as the mutex gets unlocked by the initial thread, the queued thread will lock it and access the resource. In this work exclusively scoped locks are used. A scoped lock gets created whenever a mutex shall be locked. The respecting mutex is passed to the constructor of the scoped lock. The scoped object will be destroyed when its scope is left and releases the mutex. This prevents a so called deadlock situation, in which a mutex is locked and cannot be unlocked anymore. A possible scenario for this is, if the locking thread experiences an error and get stopped before unlocking the mutex.\\
+
+The communication between different threads is realized through pipes. A pipe offers a writing as well as a reading end. Thus it allows simultaneous writing and reading by two threads without additional synchronization mechanisms. The inter-thread communication is mainly used to exchange information, abort running tasks and notify each other about particular events.
+
 \subsubsection{Documentation}
+
+A complete and accurate documentation of the source code is produced. The software documentation tool Doxygen \cite{doxygen} is used to generate valid HTML\footnote{Hypertext Markup Language (HTML) is the standard markup language for documents designed to be displayed in a web browser} documents from annotated header files. Doxygen creates HTML files, which are displaying the relations between various programming structures (classes, namespaces, ...). Besides developers can add special denoted comments with explanatory content that are going to be adopted in the HTML files. Additional several auxiliary HTML pages with explanatory context regarding the project are created and linked to the pages created by doxygen. All created pages \cite{docu} are public accessible via the internet.\\
+
+Moreover a Github repository \cite{github} is arranged. It contains the source code, mechanical construction files, schematics, PCB files, the documentation and so forth. The data contained in the Github repository allows to rebuild the whole system developed in this work from scratch. 
 
 \subsection{Base Process}
 
 The base process interacts directly with all controllable hardware parts listed in section \ref{sec:hardware}. Therefore it is a crucial process for the correct function of the robot. If the base process crashes unexpected, any other process concluded in the project will be disconnected or shut down as well.\\
-
-
 
 \subsection{Navigation Process}
 

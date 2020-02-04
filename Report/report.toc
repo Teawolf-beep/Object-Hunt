@@ -16,25 +16,25 @@
 \contentsline {subsubsection}{\numberline {3.1.1}Communication}{8}{subsubsection.33}% 
 \contentsline {subsubsection}{\numberline {3.1.2}Economical}{9}{subsubsection.35}% 
 \contentsline {subsubsection}{\numberline {3.1.3}Documentation}{9}{subsubsection.36}% 
-\contentsline {subsection}{\numberline {3.2}Base Process}{9}{subsection.37}% 
-\contentsline {subsection}{\numberline {3.3}Navigation Process}{9}{subsection.38}% 
-\contentsline {section}{\numberline {4}Image Processing}{10}{section.39}% 
-\contentsline {subsubsection}{\numberline {4.0.1}Definition of the object detection task}{10}{subsubsection.40}% 
-\contentsline {subsubsection}{\numberline {4.0.2}Requirements on object detection}{10}{subsubsection.42}% 
-\contentsline {subsection}{\numberline {4.1}Basic model selection}{10}{subsection.43}% 
-\contentsline {subsection}{\numberline {4.2}Object Detection System}{12}{subsection.46}% 
-\contentsline {subsubsection}{\numberline {4.2.1}Faster R-CNN}{12}{subsubsection.47}% 
-\contentsline {subsubsection}{\numberline {4.2.2}You Only Look Once -- YOLO}{13}{subsubsection.49}% 
-\contentsline {subsubsection}{\numberline {4.2.3}Single Shot Detection -- SSD}{13}{subsubsection.50}% 
-\contentsline {subsection}{\numberline {4.3}Experiments}{13}{subsection.52}% 
-\contentsline {subsection}{\numberline {4.4}Software}{14}{subsection.53}% 
-\contentsline {subsubsection}{\numberline {4.4.1}Server.py}{15}{subsubsection.55}% 
-\contentsline {subsubsection}{\numberline {4.4.2}Client.py}{15}{subsubsection.56}% 
-\contentsline {subsection}{\numberline {4.5}Results}{15}{subsection.57}% 
-\contentsline {section}{\numberline {5}Routing \& Mapping}{16}{section.58}% 
-\contentsline {subsection}{\numberline {5.1}Detection}{16}{subsection.60}% 
-\contentsline {subsubsection}{\numberline {5.1.1}Routing}{16}{subsubsection.61}% 
-\contentsline {subsubsection}{\numberline {5.1.2}Mapping}{17}{subsubsection.66}% 
-\contentsline {subsection}{\numberline {5.2}Software}{19}{subsection.68}% 
-\contentsline {subsection}{\numberline {5.3}Problems}{21}{subsection.89}% 
-\contentsline {section}{\numberline {6}References}{22}{section.90}% 
+\contentsline {subsection}{\numberline {3.2}Base Process}{10}{subsection.38}% 
+\contentsline {subsection}{\numberline {3.3}Navigation Process}{10}{subsection.39}% 
+\contentsline {section}{\numberline {4}Image Processing}{11}{section.40}% 
+\contentsline {subsubsection}{\numberline {4.0.1}Definition of the object detection task}{11}{subsubsection.41}% 
+\contentsline {subsubsection}{\numberline {4.0.2}Requirements on object detection}{11}{subsubsection.43}% 
+\contentsline {subsection}{\numberline {4.1}Basic model selection}{11}{subsection.44}% 
+\contentsline {subsection}{\numberline {4.2}Object Detection System}{13}{subsection.47}% 
+\contentsline {subsubsection}{\numberline {4.2.1}Faster R-CNN}{13}{subsubsection.48}% 
+\contentsline {subsubsection}{\numberline {4.2.2}You Only Look Once -- YOLO}{14}{subsubsection.50}% 
+\contentsline {subsubsection}{\numberline {4.2.3}Single Shot Detection -- SSD}{14}{subsubsection.51}% 
+\contentsline {subsection}{\numberline {4.3}Experiments}{14}{subsection.53}% 
+\contentsline {subsection}{\numberline {4.4}Software}{15}{subsection.54}% 
+\contentsline {subsubsection}{\numberline {4.4.1}Server.py}{16}{subsubsection.56}% 
+\contentsline {subsubsection}{\numberline {4.4.2}Client.py}{16}{subsubsection.57}% 
+\contentsline {subsection}{\numberline {4.5}Results}{16}{subsection.58}% 
+\contentsline {section}{\numberline {5}Routing \& Mapping}{17}{section.59}% 
+\contentsline {subsection}{\numberline {5.1}Detection}{17}{subsection.61}% 
+\contentsline {subsubsection}{\numberline {5.1.1}Routing}{17}{subsubsection.62}% 
+\contentsline {subsubsection}{\numberline {5.1.2}Mapping}{18}{subsubsection.67}% 
+\contentsline {subsection}{\numberline {5.2}Software}{20}{subsection.69}% 
+\contentsline {subsection}{\numberline {5.3}Problems}{22}{subsection.90}% 
+\contentsline {section}{\numberline {6}References}{23}{section.91}% 
