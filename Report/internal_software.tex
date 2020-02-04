@@ -13,15 +13,14 @@ The in this section described processes are internal processes, i.e. running on 
 
 \subsection{Design Principles}
 
-<<<<<<< HEAD
 The system in its entirety shall not be bound to any programming language. In that way virtually any language that supports the usage of raw sockets in collaboration with TCP/\,IP can be used to develop software for the system. At the time of writing this report Java, Python and C++ are already employed.\\
 
 Furthermore underlies the internal software particular specifications, which are defined at the beginning of the project. They define, among other things, how the system as a whole will behave and handle dedicated tasks, i.e. inter-process communication. The compliance of these principles ensure that the developed software works in the expected manner and offers the possibility for adding further processes in the future.\\
 
 The defined principles are listed in the following:
-=======
+
 The internal software underlies software specifications, which are defined at the beginning of the project. They define among other things how the system as a whole will behave and handle dedicated tasks, i.e. communication. The compliance of these principles ensure that the developed software works in the expected manner and offers the possibility for adding further processes in the future.
->>>>>>> fe5836e38c93ccec12af9fab6d4b3a4ae2ada36e
+
 
 \begin{itemize}
 \itemsep0em
@@ -46,7 +45,6 @@ The internal software underlies software specifications, which are defined at th
 	\end{itemize}
 \end{itemize}
 
-<<<<<<< HEAD
 \subsubsection{Communication}
 
 All participating processes communicate via TCP/\,IP. Therefore a purpose-built way of exchanging data is developed. Messages are generally separated in action identifiers, commands, requests and responses. Table \ref{tbl:message_definition} declares the usage of each message type.\\ 
@@ -72,8 +70,6 @@ There exist several implementations of each message type. A motor will most like
 
 \subsubsection{Documentation}
 
-=======
->>>>>>> fe5836e38c93ccec12af9fab6d4b3a4ae2ada36e
 \subsection{Base Process}
 
 The base process interacts directly with all controllable hardware parts listed in section \ref{sec:hardware}. Therefore it is a crucial process for the correct function of the robot. If the base process crashes unexpected, any other process concluded in the project will be disconnected or shut down as well.\\
