@@ -1,4 +1,4 @@
-# Install script for directory: /home/robert/sciebo/MaTIN/AMS/object_hunt_base
+# Install script for directory: /home/robert/sciebo/MaTIN/AMS/Object-Hunt/object_hunt_base
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/robert/sciebo/MaTIN/AMS/object_hunt_base/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/robert/sciebo/MaTIN/AMS/Object-Hunt/object_hunt_base/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

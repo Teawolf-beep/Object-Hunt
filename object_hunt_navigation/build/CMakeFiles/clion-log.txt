@@ -1,4 +1,1 @@
-/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/pi/object_hunt/robert/object_hunt_navigation
--- Configuring done
--- Generating done
--- Build files have been written to: /home/pi/object_hunt/robert/object_hunt_navigation/build
+Toolchain 'RPi_AMS' is not found Configure

@@ -27,36 +27,44 @@
 
 int main(int argc, char** argv)
 {
+    // Initialize variables for signal file descriptor
     int signal_fd;
     sigset_t signal_set;
 
+    // Initialize the signal file descriptor
     sigemptyset(&signal_set);
     sigaddset(&signal_set, SIGTERM);
     sigaddset(&signal_set, SIGINT);
 
+    // True, if an error occurred
     if (sigprocmask(SIG_BLOCK, &signal_set, nullptr) < 0)
     {
         perror("main() -> sigprocmask");
         return EXIT_FAILURE;
     }
-
+    // Get the actual signal file descriptor
     signal_fd = signalfd(-1, &signal_set, 0);
+    // True if an error occurred
     if (signal_fd < 0)
     {
         perror("main() -> signalfd");
         return EXIT_FAILURE;
     }
-
+    // Set standard out to line buffering ( needed to log to journalctl)
     setvbuf(stdout, nullptr, _IOLBF, 1024);
 
     try
     {
+        // Create a unique pointer to an object of the application class
         std::unique_ptr<TaskDistributor> distributor = std::make_unique<TaskDistributor>(signal_fd);
 
+        // Run the application (will return upon termination)
         int8_t return_value = distributor->run();
+        // Check the return value (was planned to shut down the RPi with the button, not really needed now)
         if (return_value < -1) printf("The distributor class terminated abnormally! Return value: %d\n", return_value);
         else if (return_value == ReturnValue::POWER_OFF) printf("Power off pressed!\n");
     }
+    // Catch various exceptions and print the error cause
     catch (const BNO_055Exception& e)
     {
         std::cout << "BNO055 (smart movement sensor) exception caught: " << e.what() << std::endl;

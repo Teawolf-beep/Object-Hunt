@@ -43,10 +43,10 @@ RM = /home/robert/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/193.6015.37/bin
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/robert/sciebo/MaTIN/AMS/object_hunt_base
+CMAKE_SOURCE_DIR = /home/robert/sciebo/MaTIN/AMS/Object-Hunt/object_hunt_base
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/robert/sciebo/MaTIN/AMS/object_hunt_base/cmake-build-debug
+CMAKE_BINARY_DIR = /home/robert/sciebo/MaTIN/AMS/Object-Hunt/object_hunt_base/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/actuators.dir/depend.make
@@ -59,29 +59,29 @@ include CMakeFiles/actuators.dir/flags.make
 
 CMakeFiles/actuators.dir/src/VMA_401.cpp.o: CMakeFiles/actuators.dir/flags.make
 CMakeFiles/actuators.dir/src/VMA_401.cpp.o: ../src/VMA_401.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/robert/sciebo/MaTIN/AMS/object_hunt_base/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/actuators.dir/src/VMA_401.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/actuators.dir/src/VMA_401.cpp.o -c /home/robert/sciebo/MaTIN/AMS/object_hunt_base/src/VMA_401.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/robert/sciebo/MaTIN/AMS/Object-Hunt/object_hunt_base/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/actuators.dir/src/VMA_401.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/actuators.dir/src/VMA_401.cpp.o -c /home/robert/sciebo/MaTIN/AMS/Object-Hunt/object_hunt_base/src/VMA_401.cpp
 
 CMakeFiles/actuators.dir/src/VMA_401.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/actuators.dir/src/VMA_401.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/robert/sciebo/MaTIN/AMS/object_hunt_base/src/VMA_401.cpp > CMakeFiles/actuators.dir/src/VMA_401.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/robert/sciebo/MaTIN/AMS/Object-Hunt/object_hunt_base/src/VMA_401.cpp > CMakeFiles/actuators.dir/src/VMA_401.cpp.i
 
 CMakeFiles/actuators.dir/src/VMA_401.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/actuators.dir/src/VMA_401.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/robert/sciebo/MaTIN/AMS/object_hunt_base/src/VMA_401.cpp -o CMakeFiles/actuators.dir/src/VMA_401.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/robert/sciebo/MaTIN/AMS/Object-Hunt/object_hunt_base/src/VMA_401.cpp -o CMakeFiles/actuators.dir/src/VMA_401.cpp.s
 
 CMakeFiles/actuators.dir/src/GearMotor.cpp.o: CMakeFiles/actuators.dir/flags.make
 CMakeFiles/actuators.dir/src/GearMotor.cpp.o: ../src/GearMotor.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/robert/sciebo/MaTIN/AMS/object_hunt_base/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/actuators.dir/src/GearMotor.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/actuators.dir/src/GearMotor.cpp.o -c /home/robert/sciebo/MaTIN/AMS/object_hunt_base/src/GearMotor.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/robert/sciebo/MaTIN/AMS/Object-Hunt/object_hunt_base/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/actuators.dir/src/GearMotor.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/actuators.dir/src/GearMotor.cpp.o -c /home/robert/sciebo/MaTIN/AMS/Object-Hunt/object_hunt_base/src/GearMotor.cpp
 
 CMakeFiles/actuators.dir/src/GearMotor.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/actuators.dir/src/GearMotor.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/robert/sciebo/MaTIN/AMS/object_hunt_base/src/GearMotor.cpp > CMakeFiles/actuators.dir/src/GearMotor.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/robert/sciebo/MaTIN/AMS/Object-Hunt/object_hunt_base/src/GearMotor.cpp > CMakeFiles/actuators.dir/src/GearMotor.cpp.i
 
 CMakeFiles/actuators.dir/src/GearMotor.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/actuators.dir/src/GearMotor.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/robert/sciebo/MaTIN/AMS/object_hunt_base/src/GearMotor.cpp -o CMakeFiles/actuators.dir/src/GearMotor.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/robert/sciebo/MaTIN/AMS/Object-Hunt/object_hunt_base/src/GearMotor.cpp -o CMakeFiles/actuators.dir/src/GearMotor.cpp.s
 
 # Object files for target actuators
 actuators_OBJECTS = \
@@ -95,7 +95,7 @@ libactuators.a: CMakeFiles/actuators.dir/src/VMA_401.cpp.o
 libactuators.a: CMakeFiles/actuators.dir/src/GearMotor.cpp.o
 libactuators.a: CMakeFiles/actuators.dir/build.make
 libactuators.a: CMakeFiles/actuators.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/robert/sciebo/MaTIN/AMS/object_hunt_base/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX static library libactuators.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/robert/sciebo/MaTIN/AMS/Object-Hunt/object_hunt_base/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX static library libactuators.a"
 	$(CMAKE_COMMAND) -P CMakeFiles/actuators.dir/cmake_clean_target.cmake
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/actuators.dir/link.txt --verbose=$(VERBOSE)
 
@@ -109,6 +109,6 @@ CMakeFiles/actuators.dir/clean:
 .PHONY : CMakeFiles/actuators.dir/clean
 
 CMakeFiles/actuators.dir/depend:
-	cd /home/robert/sciebo/MaTIN/AMS/object_hunt_base/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/robert/sciebo/MaTIN/AMS/object_hunt_base /home/robert/sciebo/MaTIN/AMS/object_hunt_base /home/robert/sciebo/MaTIN/AMS/object_hunt_base/cmake-build-debug /home/robert/sciebo/MaTIN/AMS/object_hunt_base/cmake-build-debug /home/robert/sciebo/MaTIN/AMS/object_hunt_base/cmake-build-debug/CMakeFiles/actuators.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/robert/sciebo/MaTIN/AMS/Object-Hunt/object_hunt_base/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/robert/sciebo/MaTIN/AMS/Object-Hunt/object_hunt_base /home/robert/sciebo/MaTIN/AMS/Object-Hunt/object_hunt_base /home/robert/sciebo/MaTIN/AMS/Object-Hunt/object_hunt_base/cmake-build-debug /home/robert/sciebo/MaTIN/AMS/Object-Hunt/object_hunt_base/cmake-build-debug /home/robert/sciebo/MaTIN/AMS/Object-Hunt/object_hunt_base/cmake-build-debug/CMakeFiles/actuators.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/actuators.dir/depend
 

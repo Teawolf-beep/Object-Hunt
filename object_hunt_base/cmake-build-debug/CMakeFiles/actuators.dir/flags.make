@@ -6,5 +6,5 @@ CXX_FLAGS = -g   -std=gnu++14
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/robert/sciebo/MaTIN/AMS/object_hunt_base/include -I/home/robert/sciebo/MaTIN/AMS/object_hunt_base/shared/include 
+CXX_INCLUDES = -I/home/robert/sciebo/MaTIN/AMS/Object-Hunt/object_hunt_base/include -I/home/robert/sciebo/MaTIN/AMS/Object-Hunt/object_hunt_base/shared/include 
 
