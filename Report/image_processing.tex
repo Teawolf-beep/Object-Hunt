@@ -40,6 +40,8 @@ Comparing these to costs, the depthwise convolution reaches a reduction of $ \df
 \label{fig:depthwise_convolution}
 \end{figure}
 
+\newpage
+
 The Mobile network was tested one time with standard convolution and with depthwise separable convolution. The result was only 1,1\,\% loss in accuracy, but a reduction of 25,1 million parameters. 
 
 \begin{figure}[H]
@@ -94,7 +96,7 @@ For our object detection experiments we used the following software components:
 \item ssd\_mobilenet\_v2\_coco \cite{tim9}
 \end{itemize}
 
-We used OpenCV, because it is a well-established computer vision library and designed for fast computation also on system with low computational capabilities. It offers the DNN (Deep Neural Network) module, which implements methods to import pretrained models from different frameworks. We decided to take the pretrained MobilenetV2 in combination with SSD trained on the COCO dataset. For reasons shown in Section \ref{subsec:object_detection_system}. and \ref{subsec:basic_model_selection}., we decided this network will give us enough computation speed to detect object while driving and sufficient accuracy to detect the object in different lighting or environment conditions. The COCO (Common Objects in Context) dataset is a commonly used dataset and offers a lot of classes. We defined the ``sports ball'' class as the desired object to detect but wanted to have flexibility to change the object if needed. Therefore, the COCO dataset was well-suited for our requirements.\\
+We used OpenCV, because it is a well-established computer vision library and designed for fast computation also on systems with low computational capabilities. It offers the DNN (Deep Neural Network) module, which implements methods to import pretrained models from different frameworks. We decided to take the pretrained MobilenetV2 in combination with SSD trained on the COCO dataset. For reasons shown in Section \ref{subsec:object_detection_system} and \ref{subsec:basic_model_selection}, we decided this network will give us enough computation speed to detect object while driving and sufficient accuracy to detect the object in different lighting or environment conditions. The COCO (Common Objects in Context) dataset is a commonly used dataset and offers a lot of classes. We defined the ``sports ball'' class as the desired object to detect but wanted to have flexibility to change the object if needed. Therefore, the COCO dataset was well-suited for our requirements.\\
 
 The ``ImageZMQ'' package is a little library with methods to transport the OpenCV images over the network. It uses the ZeroMQ sockets to enable an easy and fast transport.\\
 
@@ -102,7 +104,7 @@ The ``imutils'' package is used to build up the presentation of the images.
 
 \subsection{Software}
 
-Because The images will be sent over network to an external device, two scripts will be started. One is the client script, which runs on the Raspberry Pi. The server script runs on the external device and receives and processes the images. It also sends the acknowledgement to signal the client to send another picture.
+Because the images will be sent over network to an external device, two scripts will be started. One is the client script, which runs on the Raspberry Pi. The server script runs on the external device and receives and processes the images. It also sends the acknowledgement to signal the client to send another picture.
 
 \begin{figure}[H]
 \centering
@@ -113,9 +115,9 @@ Because The images will be sent over network to an external device, two scripts 
 
 \subsubsection{Server.py}
 
-The server first initializes the socket to receive the images and the connection to the ``Object\_hunt\_base'' process. Then the network will be initialized and the objects to consider.\\
+The server first initializes the socket to receive the images and the connection to the base process (see section \ref{subsec:base_process}). Then the network will be initialized and the objects to consider.\\
 
-The marker for a found object will be set to False before the loop. In the loop the image will be received if there is a connection. If the device is not already known, it will be added to the ``lastActive'' list. The image will be resized and then processed by the network.  If an detection of the desired object occurred and the confidence is higher than the defined threshold, the presentation will be build. The bounding box will be added to the picture and the number of detected objects will be updated. This image will then be shown on the external device. The loop is also interrupted and the connection to the object\_hunt\_base process will be established to send the message of successful object detection. Then the picture of detection will be shown, until the user interrupts the script.
+The marker for a found object will be set to False before the loop. In the loop the image will be received if there is a connection. If the device is not already known, it will be added to the ``lastActive'' list. The image will be resized and then processed by the network.  If an detection of the desired object occurred and the confidence is higher than the defined threshold, the presentation will be build. The bounding box will be added to the picture and the number of detected objects will be updated. This image will then be shown on the external device. The loop is also interrupted and the connection to the base process will be established to send the message of successful object detection. Then the picture of detection will be shown, until the user interrupts the script.
 
 \subsubsection{Client.py}
 

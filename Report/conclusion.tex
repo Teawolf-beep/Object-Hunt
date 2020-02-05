@@ -1,0 +1,21 @@
+\newpage
+
+\section{Conclusion}
+
+The system as a whole is working reliable and fulfills almost all tasks specified at the beginning of this project. Special attention is paid to the software design principles defined in section \ref{subsec:design_principles}. While the system is running with full functionality, the average CPU load of the Raspberry Pi is considerable low. At the same time the robot reacts almost immediately to incoming events. This is mainly due to the thoughtful development of internal processes as well as outsourcing computing intensive tasks to external hardware. The robot is capable to handle further functional expansions.\\
+
+This project was used as an opportunity to implement an economical system containing multiple platforms. The therefore necessary inter-process communication was seen as a special challenge. We decided on purpose against a supportive framework, as ROS\footnote{The Robot Operating System (ROS) is a set of software libraries and tools that help to build robot applications.} for example. On the one hand the usage of ROS introduces a rather impractical build tool (i.e. catkin), which makes it hard to use convenient techniques as remote development as well as remote debugging and restricts the usage of programming languages. On the other hand this project showed us the challenges of synchronizing multiple threads and processes on various devices. The gained experience can be used in future projects.\\
+
+Moreover the project is well documented and fully open source. All related documents are stored and updated in a public accessible Github repository. State of the art source code documentation tools were used to create an almost consistently documentation of the source code. The created documentation are public accessible as well and linked to the Github repository.
+
+\subsection{Known Issues}
+
+The present system has known issues depending the hardware as well as the software, which should be addressed in future works.\\
+
+The designed PCB board is comparatively small compared to the implemented functionality. This requires to use small circuit path sizes. Some circuit paths had an unwanted conducting connection, introduced by inaccuracies in the development process. The elimination of the unwanted connections demanded more time than planned for the PCB board. Furthermore the PCB is mounted right above the processor, which could prevent proper cooling of the Raspberry Pi. In a new design the PCB board would be designed bigger and placed below the Raspberry Pi.\\
+
+The project revealed insufficient edge detection capabilities of the Raspberry Pi. Especially the used ultra sonic sensors are dependent on a proper edge detection. Most of the effect could be bypassed by modifications in software. However, these modifications introduce inaccuracy to the measurement result. this problem can be avoided by using a microcontroller for the sensor readings and pass the results to the Raspberry Pi.\\
+
+Synchronization and collaboration of the threads implemented in the base process can be improved. Observation of the process log indicates rarely happening errors. This results most times in simultaneous access of shared resources. As for the time being there is no known way to reliable reproduce the error, it is a rather hard task to track and eliminate the cause. The throughout this project gained experience would be used to pay more effort to thread synchronization, in a new design of the software.\\
+
+The ultra sonic measurements are conducted simultaneously in this project. This leads to mutual influence of the ultra sonic sensors. Therefore the ultra sonic sensors only deliver reliable results, when an object is detected in short distance (i.e below ca. 80\,cm). Mainly this prevents the mapping process from drawing an accurate map of the surroundings. A possible solution is to conduct the ultra sonic measurement one after another, although this would be against the multi-threaded principal of this project. From our point of view a different kind of distance sensor is the preferred solution.

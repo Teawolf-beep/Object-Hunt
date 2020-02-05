@@ -2,7 +2,7 @@
 
 \section{Hardware}\label{sec:hardware}
 
-The hardware of the device can be separated in two subsystems. On the one hand, the robot, which will navigate in the environment, on the other hand the external computer with a static location. This section only focuses on the hardware of the robot. The hardware of the external computer is not further described in this report as any arbitrary recent computer with a working WiFi interface can be used.
+The hardware of the device can be separated in two subsystems. On the one hand, the robot, which will navigate in the environment, on the other hand the external computer with a static location. This section only focuses on the hardware of the robot. The hardware of the external computer is not further described in this report as any recent computer running that is running Microsoft Windows, Apple iOS or a linux distribution, with a working WiFi interface can be used.
 
 Following you will find a short description and the use case of each part used in the robot. All parts mentioned in this section will be combined to one mobile robotic system.
 
@@ -12,19 +12,19 @@ The chassis forms the foundation of the robot. It consists out of two identical 
 
 \subsection{Gear Motors}\label{subsec:gear_motors}
 
-Every movement the robot as a unit can make, is realized through four direct current gear motors, each attached to a wheel. Since the processing unit can not operate the gear motors directly, dedicated motor drivers are needed in order to operate the gear motors properly. The L293DNE quadruple half-h drivers \cite{l293dne} are suited and each can operate two gear motors forwards as well as backwards. 
+Every movement the robot as a unit can make is realized through four direct current gear motors, each attached to a wheel. Since the processing unit can not operate the gear motors directly, dedicated motor drivers are needed in order to operate the gear motors properly. The L293DNE quadruple half-h drivers \cite{l293dne} are suited and will be used in this project. Each motor driver can operate two gear motors forwards as well as backwards. 
 
 \subsection{Stepper Motor}\label{subsec:stepper_motor}
 
-The stepper motor is connected to an attachment for the camera module. A stepper motor with 5\,V DC operating voltage, 64 steps per revolution and four phases is chosen. The stepper motor can be driven by a single L293DNE motor driver. This allows to turn the camera module theoretically by an arbitrary angle. However, attention should be paid to the cable, which connects the camera module to the processing unit. It is long enough to enable the camera module some free moving space. If it is stressed to much, the equipment can be damaged permanently. 
+The stepper motor is connected to an attachment for the camera module. A stepper motor with 5\,V DC operating voltage, 64 steps per revolution and four phases is chosen. The stepper motor can be driven by a single L293DNE \cite{l293dne} motor driver. This allows to turn the camera module theoretically by an arbitrary angle. However, attention should be paid to the cable, which connects the camera module to the processing unit. It is long enough to enable the camera module some free moving space. If it is stressed to much, the equipment can be damaged permanently. 
 
 \subsection{Revolution Sensors}\label{subsec:revolution_sensor}
 
-A brake plate is mounted to each gear motor. With this plates the revolution of the respecting motor can be measured. The plates offer a resolution of 20 counts per revolution, which is sufficient precise for this project. A TCST1103 \cite{tcst1103} optical sensor attached to each brake plate allows to get notification of the status of the regarding brake plate. A resistor connected in series with the phototransistor output leads to a signal fluctuating between ground and the applied voltage, depending if the light of the emitter can pass the brake plate or is blocked by it. An auxiliary circuit consisting o an operational amplifier is interposed and outputs a clean edge, if the fluctuating voltage surpasses a threshold value. This edge can be detected by e.g. a microcontroller. In combination with the wheel diameter the revolution measurement is used to calculate the distance traveled as well as the speed of the robot.
+A brake plate is mounted to each gear motor. With this plates the revolution of the respecting motor can be measured. The plates offer a resolution of 20 counts per revolution, which is sufficient precise for this project. A TCST1103 \cite{tcst1103} optical sensor attached to each brake plate allows to get notification of the status of the regarding brake plate. A resistor connected in series with the phototransistor output leads to a signal fluctuating between ground and the applied voltage, depending on if the light of the emitter can pass the brake plate or is blocked by it. An auxiliary circuit consisting of an operational amplifier is interposed and outputs a clean edge, if the fluctuating voltage surpasses a threshold value. This edge can be detected by e.g. a microcontroller. In combination with the wheel diameter the revolution measurement is used to calculate the distance traveled as well as the speed of the robot.
 
 \subsection{Ultra Sonic Sensors}\label{subsec:ultra_sonic_sensor}
 
-In total four ultra sonic distance sensors are mounted on the robot. The HC-SR04 \cite{hc_sr04} model is used for all ultra sonic distance sensors. They allow the robot to measure the distance to obstacles in the front, in the back, to the left and to the right. As the HC-SR04 operate on 5\,V, most likely a voltage divider has to be interposed between processing unit and each HC-SR04 module. The ultra sonic sensor information is crucial for the robot to navigate, as it is the only information it can receive about its surroundings.
+In total four ultra sonic distance sensors are mounted on the robot. The HC-SR04 \cite{hc_sr04} model is used for all ultra sonic distance sensors. They allow the robot to measure the distance to obstacles in the front, in the back, to the left and to the right. As the HC-SR04 operates on 5\,V, a voltage divider has to be interposed between processing unit and each HC-SR04 module. The ultra sonic sensor information is crucial for the robot to navigate, as it is the only information it can receive about its surroundings.
 
 \subsection{Smart Movement Sensor}\label{subsec:smart_movement_sensor}
 
@@ -32,7 +32,7 @@ The smart movement sensor is used to get information about the orientation of th
 
 \subsection{Power Unit}\label{subsec:power_unit}
 
-For the robot to be mobile a rechargeable power source is needed. A portable power bank with a voltage of 5\,V and Li-polymer battery cell is used. It provides a peak output current of 3\,A, which is sufficient to allow simultaneous control of all attached motors and electronics. Furthermore it offers a capacity of 20000\,mAh, to allow the robot exploration of spacious environments without recharging.
+For the robot to be mobile a rechargeable power source is needed. A portable power bank with a voltage of 5\,V and li-polymer battery cells is used. It provides an output current of 3\,A, which is sufficient to allow simultaneous control of all attached motors and electronics. Furthermore it offers a capacity of 20000\,mAh, to allow the robot exploration of spacious environments without recharging.
 
 \subsection{Processing Unit}\label{subsec:processing_unit}
 
@@ -54,13 +54,13 @@ The processing unit of the robot is one of the most important arts of this proje
 \item[] The robot needs the ability to perform various tasks simultaneously. therefore a CPU\footnote{Central Processing Unit} with multiple cores is inevitable to archive the objectives of this project.
 \end{enumerate}
 
-Taking all specifications into consideration, a Raspberry Pi 4 model B is considered to be used as the processing unit of the robot. It fulfills all mentioned specification, is less expensive than comparable products and offers a big community. Since the Raspberry pi 4 is available in different versions, differentiate in the available RAM, the version with 4\,GB RAM is chosen. This enables potential for further additions.
+Taking all specifications into consideration, a Raspberry Pi 4 model B is selected to be used as the processing unit of the robot. It fulfills all mentioned specification, is less expensive than comparable products and offers a big community. Since the Raspberry pi 4 is available in different versions, differentiate in the available RAM, the version with 4\,GB RAM is chosen. This enables potential for further additions.
 
 \newpage
 
 \subsection{Entire Overview}
 
-The resulting hardware, without the power supply, of the robot and its interconnections can be seen in figure \ref{fig:hardware}.
+The resulting hardware, without power supply, of the robot and its interconnections can be seen in figure \ref{fig:hardware}.
 
 \begin{figure}[H]
 \centering
@@ -73,9 +73,9 @@ The resulting hardware, without the power supply, of the robot and its interconn
 
 The wiring of all components is expected to be rather complex. Since breadboard connections are prone to errors and can get unclear, if multiple connections are involved, a PCB board is designed for the circuit. Furthermore each device will be connected by a dedicated connector in order to allow easy assembly and disassembly of the system as a whole as well as replacements of single devices.
 
-At first a test circuit is designed for every part. In this manner the function of each sub circuit can be controlled and potential modifications can be realized easily. When each circuit is working as desired, the single sub circuits are combined in one system wide circuit and transferred to an electronic design automation software. In this project the education version of EAGLE \cite{eagle} is used.
+At first a test circuit is designed for every part. In this manner the function of each sub circuit can be controlled and potential modifications can be implemented before designing the PCB. When each circuit is working as desired, the single sub circuits are combined in one system wide circuit and transferred to an electronic design automation software. In this project the education version of EAGLE \cite{eagle} is used.
 
-The circuit can be assigned to a two layer PCB board of the dimension 82\,mm x 65\,mm. It is designed to be easily plugged in on top of the 40 pin GPIO connector of the Raspberry Pi. The mounting holes have the same dimensions as the ones of the Raspberry Pi. Hence the same screws to install the Raspberry Pi, are used to attach the PCB board. All GPIO contacts are lead through to allow easy measurement of signals while the PCB board is installed on top of the Raspberry Pi. Figure \ref{fig:pcb} shows the populated PCB board.
+The circuit can be assigned to a two layer PCB board of the dimension 82\,mm x 65\,mm. It is designed to be easily plugged in on top of the 40 pin GPIO connector of the Raspberry Pi. The mounting holes have the same dimensions as the ones of the Raspberry Pi. Hence the same screws to install the Raspberry Pi, are used to attach the PCB board. All GPIO contacts are lead through to allow easy measurement of signals while the PCB board is installed on top of the Raspberry Pi. Figure \ref{fig:pcb} shows the fully populated PCB board.
 
 \begin{figure}[H]
 \centering

@@ -1,39 +1,35 @@
-\BOOKMARK [1][]{section.4}{1 Introduction}{}% 1
-\BOOKMARK [1][]{section.8}{2 Hardware}{}% 2
-\BOOKMARK [2][]{subsection.9}{2.1 Chassis}{section.8}% 3
-\BOOKMARK [2][]{subsection.10}{2.2 Gear Motors}{section.8}% 4
-\BOOKMARK [2][]{subsection.11}{2.3 Stepper Motor}{section.8}% 5
-\BOOKMARK [2][]{subsection.12}{2.4 Revolution Sensors}{section.8}% 6
-\BOOKMARK [2][]{subsection.13}{2.5 Ultra Sonic Sensors}{section.8}% 7
-\BOOKMARK [2][]{subsection.14}{2.6 Smart Movement Sensor}{section.8}% 8
-\BOOKMARK [2][]{subsection.16}{2.7 Power Unit}{section.8}% 9
-\BOOKMARK [2][]{subsection.17}{2.8 Processing Unit}{section.8}% 10
-\BOOKMARK [2][]{subsection.26}{2.9 Entire Overview}{section.8}% 11
-\BOOKMARK [2][]{subsection.28}{2.10 PCB Board}{section.8}% 12
-\BOOKMARK [1][]{section.30}{3 Internal Software}{}% 13
-\BOOKMARK [2][]{subsection.32}{3.1 Design Principles}{section.30}% 14
-\BOOKMARK [3][]{subsubsection.33}{3.1.1 Communication}{subsection.32}% 15
-\BOOKMARK [3][]{subsubsection.35}{3.1.2 Economical}{subsection.32}% 16
-\BOOKMARK [3][]{subsubsection.36}{3.1.3 Documentation}{subsection.32}% 17
-\BOOKMARK [2][]{subsection.38}{3.2 Base Process}{section.30}% 18
-\BOOKMARK [2][]{subsection.39}{3.3 Navigation Process}{section.30}% 19
-\BOOKMARK [1][]{section.40}{4 Image Processing}{}% 20
-\BOOKMARK [2][]{subsubsection.41}{4.0.1 Definition of the object detection task}{section.40}% 21
-\BOOKMARK [3][]{subsubsection.43}{4.0.2 Requirements on object detection}{subsubsection.41}% 22
-\BOOKMARK [2][]{subsection.44}{4.1 Basic model selection}{section.40}% 23
-\BOOKMARK [2][]{subsection.47}{4.2 Object Detection System}{section.40}% 24
-\BOOKMARK [3][]{subsubsection.48}{4.2.1 Faster R-CNN}{subsection.47}% 25
-\BOOKMARK [3][]{subsubsection.50}{4.2.2 You Only Look Once \205 YOLO}{subsection.47}% 26
-\BOOKMARK [3][]{subsubsection.51}{4.2.3 Single Shot Detection \205 SSD}{subsection.47}% 27
-\BOOKMARK [2][]{subsection.53}{4.3 Experiments}{section.40}% 28
-\BOOKMARK [2][]{subsection.54}{4.4 Software}{section.40}% 29
-\BOOKMARK [3][]{subsubsection.56}{4.4.1 Server.py}{subsection.54}% 30
-\BOOKMARK [3][]{subsubsection.57}{4.4.2 Client.py}{subsection.54}% 31
-\BOOKMARK [2][]{subsection.58}{4.5 Results}{section.40}% 32
-\BOOKMARK [1][]{section.59}{5 Routing \046 Mapping}{}% 33
-\BOOKMARK [2][]{subsection.61}{5.1 Detection}{section.59}% 34
-\BOOKMARK [3][]{subsubsection.62}{5.1.1 Routing}{subsection.61}% 35
-\BOOKMARK [3][]{subsubsection.67}{5.1.2 Mapping}{subsection.61}% 36
-\BOOKMARK [2][]{subsection.69}{5.2 Software}{section.59}% 37
-\BOOKMARK [2][]{subsection.90}{5.3 Problems}{section.59}% 38
-\BOOKMARK [1][]{section.91}{6 References}{}% 39
+\BOOKMARK [1][]{section.5}{1 Introduction}{}% 1
+\BOOKMARK [1][]{section.9}{2 Hardware}{}% 2
+\BOOKMARK [2][]{subsection.10}{2.1 Chassis}{section.9}% 3
+\BOOKMARK [2][]{subsection.11}{2.2 Gear Motors}{section.9}% 4
+\BOOKMARK [2][]{subsection.12}{2.3 Stepper Motor}{section.9}% 5
+\BOOKMARK [2][]{subsection.13}{2.4 Revolution Sensors}{section.9}% 6
+\BOOKMARK [2][]{subsection.14}{2.5 Ultra Sonic Sensors}{section.9}% 7
+\BOOKMARK [2][]{subsection.15}{2.6 Smart Movement Sensor}{section.9}% 8
+\BOOKMARK [2][]{subsection.17}{2.7 Power Unit}{section.9}% 9
+\BOOKMARK [2][]{subsection.18}{2.8 Processing Unit}{section.9}% 10
+\BOOKMARK [2][]{subsection.27}{2.9 Entire Overview}{section.9}% 11
+\BOOKMARK [2][]{subsection.29}{2.10 PCB Board}{section.9}% 12
+\BOOKMARK [1][]{section.31}{3 Internal Software}{}% 13
+\BOOKMARK [2][]{subsection.33}{3.1 Design Principles}{section.31}% 14
+\BOOKMARK [3][]{subsubsection.34}{3.1.1 Communication}{subsection.33}% 15
+\BOOKMARK [3][]{subsubsection.36}{3.1.2 Economical}{subsection.33}% 16
+\BOOKMARK [3][]{subsubsection.37}{3.1.3 Documentation}{subsection.33}% 17
+\BOOKMARK [2][]{subsection.39}{3.2 Base Process}{section.31}% 18
+\BOOKMARK [2][]{subsection.41}{3.3 Navigation Process}{section.31}% 19
+\BOOKMARK [1][]{section.43}{4 Image Processing}{}% 20
+\BOOKMARK [2][]{subsubsection.44}{4.0.1 Definition of the object detection task}{section.43}% 21
+\BOOKMARK [3][]{subsubsection.46}{4.0.2 Requirements on object detection}{subsubsection.44}% 22
+\BOOKMARK [2][]{subsection.47}{4.1 Basic model selection}{section.43}% 23
+\BOOKMARK [2][]{subsection.50}{4.2 Object Detection System}{section.43}% 24
+\BOOKMARK [3][]{subsubsection.51}{4.2.1 Faster R-CNN}{subsection.50}% 25
+\BOOKMARK [3][]{subsubsection.53}{4.2.2 You Only Look Once \205 YOLO}{subsection.50}% 26
+\BOOKMARK [3][]{subsubsection.54}{4.2.3 Single Shot Detection \205 SSD}{subsection.50}% 27
+\BOOKMARK [2][]{subsection.56}{4.3 Experiments}{section.43}% 28
+\BOOKMARK [2][]{subsection.57}{4.4 Software}{section.43}% 29
+\BOOKMARK [3][]{subsubsection.59}{4.4.1 Server.py}{subsection.57}% 30
+\BOOKMARK [3][]{subsubsection.60}{4.4.2 Client.py}{subsection.57}% 31
+\BOOKMARK [2][]{subsection.61}{4.5 Results}{section.43}% 32
+\BOOKMARK [1][]{section.62}{5 Conclusion}{}% 33
+\BOOKMARK [2][]{subsection.64}{5.1 Known Issues}{section.62}% 34
+\BOOKMARK [1][]{section.65}{6 References}{}% 35

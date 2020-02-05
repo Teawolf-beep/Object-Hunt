@@ -1,40 +1,36 @@
 \babel@toc {english}{}
-\contentsline {section}{\numberline {1}Introduction}{1}{section.4}% 
-\contentsline {section}{\numberline {2}Hardware}{2}{section.8}% 
-\contentsline {subsection}{\numberline {2.1}Chassis}{2}{subsection.9}% 
-\contentsline {subsection}{\numberline {2.2}Gear Motors}{2}{subsection.10}% 
-\contentsline {subsection}{\numberline {2.3}Stepper Motor}{2}{subsection.11}% 
-\contentsline {subsection}{\numberline {2.4}Revolution Sensors}{2}{subsection.12}% 
-\contentsline {subsection}{\numberline {2.5}Ultra Sonic Sensors}{3}{subsection.13}% 
-\contentsline {subsection}{\numberline {2.6}Smart Movement Sensor}{3}{subsection.14}% 
-\contentsline {subsection}{\numberline {2.7}Power Unit}{3}{subsection.16}% 
-\contentsline {subsection}{\numberline {2.8}Processing Unit}{3}{subsection.17}% 
-\contentsline {subsection}{\numberline {2.9}Entire Overview}{5}{subsection.26}% 
-\contentsline {subsection}{\numberline {2.10}PCB Board}{5}{subsection.28}% 
-\contentsline {section}{\numberline {3}Internal Software}{7}{section.30}% 
-\contentsline {subsection}{\numberline {3.1}Design Principles}{7}{subsection.32}% 
-\contentsline {subsubsection}{\numberline {3.1.1}Communication}{8}{subsubsection.33}% 
-\contentsline {subsubsection}{\numberline {3.1.2}Economical}{9}{subsubsection.35}% 
-\contentsline {subsubsection}{\numberline {3.1.3}Documentation}{9}{subsubsection.36}% 
-\contentsline {subsection}{\numberline {3.2}Base Process}{10}{subsection.38}% 
-\contentsline {subsection}{\numberline {3.3}Navigation Process}{10}{subsection.39}% 
-\contentsline {section}{\numberline {4}Image Processing}{11}{section.40}% 
-\contentsline {subsubsection}{\numberline {4.0.1}Definition of the object detection task}{11}{subsubsection.41}% 
-\contentsline {subsubsection}{\numberline {4.0.2}Requirements on object detection}{11}{subsubsection.43}% 
-\contentsline {subsection}{\numberline {4.1}Basic model selection}{11}{subsection.44}% 
-\contentsline {subsection}{\numberline {4.2}Object Detection System}{13}{subsection.47}% 
-\contentsline {subsubsection}{\numberline {4.2.1}Faster R-CNN}{13}{subsubsection.48}% 
-\contentsline {subsubsection}{\numberline {4.2.2}You Only Look Once -- YOLO}{14}{subsubsection.50}% 
-\contentsline {subsubsection}{\numberline {4.2.3}Single Shot Detection -- SSD}{14}{subsubsection.51}% 
-\contentsline {subsection}{\numberline {4.3}Experiments}{14}{subsection.53}% 
-\contentsline {subsection}{\numberline {4.4}Software}{15}{subsection.54}% 
-\contentsline {subsubsection}{\numberline {4.4.1}Server.py}{16}{subsubsection.56}% 
-\contentsline {subsubsection}{\numberline {4.4.2}Client.py}{16}{subsubsection.57}% 
-\contentsline {subsection}{\numberline {4.5}Results}{16}{subsection.58}% 
-\contentsline {section}{\numberline {5}Routing \& Mapping}{17}{section.59}% 
-\contentsline {subsection}{\numberline {5.1}Detection}{17}{subsection.61}% 
-\contentsline {subsubsection}{\numberline {5.1.1}Routing}{17}{subsubsection.62}% 
-\contentsline {subsubsection}{\numberline {5.1.2}Mapping}{18}{subsubsection.67}% 
-\contentsline {subsection}{\numberline {5.2}Software}{20}{subsection.69}% 
-\contentsline {subsection}{\numberline {5.3}Problems}{22}{subsection.90}% 
-\contentsline {section}{\numberline {6}References}{23}{section.91}% 
+\contentsline {section}{\numberline {1}Introduction}{1}{section.5}% 
+\contentsline {section}{\numberline {2}Hardware}{2}{section.9}% 
+\contentsline {subsection}{\numberline {2.1}Chassis}{2}{subsection.10}% 
+\contentsline {subsection}{\numberline {2.2}Gear Motors}{2}{subsection.11}% 
+\contentsline {subsection}{\numberline {2.3}Stepper Motor}{2}{subsection.12}% 
+\contentsline {subsection}{\numberline {2.4}Revolution Sensors}{2}{subsection.13}% 
+\contentsline {subsection}{\numberline {2.5}Ultra Sonic Sensors}{3}{subsection.14}% 
+\contentsline {subsection}{\numberline {2.6}Smart Movement Sensor}{3}{subsection.15}% 
+\contentsline {subsection}{\numberline {2.7}Power Unit}{3}{subsection.17}% 
+\contentsline {subsection}{\numberline {2.8}Processing Unit}{3}{subsection.18}% 
+\contentsline {subsection}{\numberline {2.9}Entire Overview}{5}{subsection.27}% 
+\contentsline {subsection}{\numberline {2.10}PCB Board}{5}{subsection.29}% 
+\contentsline {section}{\numberline {3}Internal Software}{7}{section.31}% 
+\contentsline {subsection}{\numberline {3.1}Design Principles}{7}{subsection.33}% 
+\contentsline {subsubsection}{\numberline {3.1.1}Communication}{8}{subsubsection.34}% 
+\contentsline {subsubsection}{\numberline {3.1.2}Economical}{9}{subsubsection.36}% 
+\contentsline {subsubsection}{\numberline {3.1.3}Documentation}{9}{subsubsection.37}% 
+\contentsline {subsection}{\numberline {3.2}Base Process}{11}{subsection.39}% 
+\contentsline {subsection}{\numberline {3.3}Navigation Process}{12}{subsection.41}% 
+\contentsline {section}{\numberline {4}Image Processing}{13}{section.43}% 
+\contentsline {subsubsection}{\numberline {4.0.1}Definition of the object detection task}{13}{subsubsection.44}% 
+\contentsline {subsubsection}{\numberline {4.0.2}Requirements on object detection}{13}{subsubsection.46}% 
+\contentsline {subsection}{\numberline {4.1}Basic model selection}{13}{subsection.47}% 
+\contentsline {subsection}{\numberline {4.2}Object Detection System}{15}{subsection.50}% 
+\contentsline {subsubsection}{\numberline {4.2.1}Faster R-CNN}{15}{subsubsection.51}% 
+\contentsline {subsubsection}{\numberline {4.2.2}You Only Look Once -- YOLO}{16}{subsubsection.53}% 
+\contentsline {subsubsection}{\numberline {4.2.3}Single Shot Detection -- SSD}{16}{subsubsection.54}% 
+\contentsline {subsection}{\numberline {4.3}Experiments}{16}{subsection.56}% 
+\contentsline {subsection}{\numberline {4.4}Software}{17}{subsection.57}% 
+\contentsline {subsubsection}{\numberline {4.4.1}Server.py}{18}{subsubsection.59}% 
+\contentsline {subsubsection}{\numberline {4.4.2}Client.py}{18}{subsubsection.60}% 
+\contentsline {subsection}{\numberline {4.5}Results}{18}{subsection.61}% 
+\contentsline {section}{\numberline {5}Conclusion}{19}{section.62}% 
+\contentsline {subsection}{\numberline {5.1}Known Issues}{19}{subsection.64}% 
+\contentsline {section}{\numberline {6}References}{21}{section.65}% 

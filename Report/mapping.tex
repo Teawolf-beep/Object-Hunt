@@ -3,7 +3,7 @@
 \section{Routing \& Mapping}
 
 A further part of the vehicle is to log the driven route and build a map by detecting the environment.
-As shown in figure \ref{route_map} the vehicle drives autonomous threw an unknown environment. During the
+As shown in figure \ref{route_map} the vehicle drives autonomous through an unknown environment. During the
 ride all objects besides the vehicle will be detected by sensor. The driven route will be logged by
 storing the events of drive like orientation changes.\\
 \begin{center}
@@ -35,14 +35,12 @@ At the start of the processes and the vehicle an initialization will be proceede
 \end{minipage}
 \begin{minipage}{0.5\textwidth}
 
-By using the smart movement sensor the orientation respectively the angle of the vehicle can measured, in relation to the initial position / orientation which is 0\degree.
-
-By using the smart movement sensor the orientation respectively the angle of the vehicle can measured, in relation to the initial position / orientation which is 0\degree.
+By using the smart movement sensor the orientation respectively the angle of the vehicle can be measured, in relation to the initial position / orientation which is 0\degree.
 
 \end{minipage}
 
 \begin{minipage}{0.5\textwidth}
-The vehicle provides an revolution sensor by which one the current speed $v$ of the vehicle can be measured. Every time the speed changes the cuttent time will be stored. With speed $v$ and the time slot $t$ the driven distance $s$ during this time slot can be calculated by $s=\frac{v}{t}$.
+The vehicle provides an revolution sensor by which one the current speed $v$ of the vehicle can be measured. Every time the speed changes the current time will be stored. With speed $v$ and the time slot $t$ the driven distance $s$ during this time slot can be calculated by $s=\frac{v}{t}$.
 \end{minipage}
 \begin{minipage}{0.5\textwidth}
 	\centering
@@ -63,7 +61,7 @@ By the resulting driven distance and the orientation of the vehicle the coordina
 \\
 By the information of the driven route the current position of the vehicle is known.
 
-
+\newpage
 
 \subsubsection{Mapping}
 
@@ -82,8 +80,7 @@ In the beginning the sensor data will be read. These data will stored in coordin
 
 \subsection{Software}
 
-The routing \& mapping progress is a self-contained process as described in the beginning of this report and has been developed with Java.\\
-\\
+The routing \& mapping is a self-contained process as described in the beginning of this report and has been developed with Java.\\
 It contains several classes which will be show following:
 
 \begin{table}[h]
@@ -144,8 +141,8 @@ In the beginning an initialization process will be proceeded. This includes the 
 
 
 \begin{minipage}{0.4\textwidth}
-The code of the process includes a boolean variable which will be set true if the navigation process wants the process to be ended. This variable will check every time the while-loop start at the beginning. After this check the process wait for a message to be received in depend on the type of information to be received.\\
-There are two options of informations to be received. The message could have the length of one byte, then this byte gives informations if the process has to stop, the vehicle rotates or which type of values will be send in the message. With that type of information the knows the byte array length of the next message. \\
+The code of the process includes a boolean variable which will be set true, if the navigation process wants the process to be ended. This variable will check every time the while-loop start at the beginning. After this check the process waits for a message to be received in depend on the type of information to be received.\\
+There are two options of informations to be received. The message could have the length of one byte, then this byte gives informations if the process has to stop, the vehicle rotates or which type of values will be send in the message. With that type of information the process knows the byte array length of the next message. \\
 If the message is longer than one byte the message includes sensor data and can be directly transfer to the methods which handle value data.\\
 \end{minipage}
 \begin{minipage}{0.6\textwidth}
@@ -165,7 +162,7 @@ If this sequence will be received the while-loop stops and the methods to build 
 \end{center}
 
 
-During the process run all the calculated coordinates of the route and the map respectively the objects will be stored in log files. At the end of the process the classes DrawRoute and DrawMap read the named files to get the coordinates. By these coordinates the wanted .png files will be created as shown below.
+While the process runs all the calculated coordinates of the route and the map respectively the objects will be stored in log files. At the end of the process the classes DrawRoute and DrawMap read the named files to get the coordinates. By these coordinates the wanted .png files will be created as shown below.
 
 \begin{minipage}{0.5\textwidth}
 \begin{center}

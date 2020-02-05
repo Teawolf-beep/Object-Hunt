@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.2.1)  5 FEB 2020 11:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.2.1)  5 FEB 2020 15:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -618,37 +618,56 @@ LaTeX Info: Redefining \nameref on input line 66.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<sources/logo_TH-Koeln_CMYK_22pt-eps-converted-to.pdf, id=160, 115.43124pt x 62
+<sources/logo_TH-Koeln_CMYK_22pt-eps-converted-to.pdf, id=144, 115.43124pt x 62
 .2325pt>
 File: sources/logo_TH-Koeln_CMYK_22pt-eps-converted-to.pdf Graphic file (type p
 df)
 <use sources/logo_TH-Koeln_CMYK_22pt-eps-converted-to.pdf>
 Package pdftex.def Info: sources/logo_TH-Koeln_CMYK_22pt-eps-converted-to.pdf  
-used on input line 71.
+used on input line 70.
 (pdftex.def)             Requested size: 115.43095pt x 62.23235pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--72
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
 
  []
 
-<sources/TH.PNG, id=161, 451.6875pt x 18.0675pt>
+<sources/TH.PNG, id=145, 451.6875pt x 18.0675pt>
 File: sources/TH.PNG Graphic file (type png)
 <use sources/TH.PNG>
-Package pdftex.def Info: sources/TH.PNG  used on input line 76.
+Package pdftex.def Info: sources/TH.PNG  used on input line 75.
 (pdftex.def)             Requested size: 451.68639pt x 18.06744pt.
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./sources/logo_TH-Koeln_CM
 YK_22pt-eps-converted-to.pdf> <./sources/TH.PNG>]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 100.
- (./report.toc
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 107.
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--110
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
+
+ []
+
+[1] (./report.toc
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 2.
 LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 4.
 
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
 LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 4.
@@ -680,11 +699,13 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
- [1])
+)
 \tf@toc=\write4
 \openout4 = `report.toc'.
 
- [2]
+ [1
+
+] [2]
 (./report.lof)
 \tf@lof=\write5
 \openout5 = `report.lof'.
@@ -700,7 +721,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 13.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 13.
-<sources/connection_overview.png, id=279, 806.01125pt x 587.19376pt>
+<sources/connection_overview.png, id=246, 806.01125pt x 587.19376pt>
 File: sources/connection_overview.png Graphic file (type png)
 <use sources/connection_overview.png>
 Package pdftex.def Info: sources/connection_overview.png  used on input line 17
@@ -713,19 +734,19 @@ Package pdftex.def Info: sources/connection_overview.png  used on input line 17
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 9.
  [2] [3] [4]
-<sources/hardware_setup.png, id=321, 832.10875pt x 1044.90375pt>
+<sources/hardware_setup.png, id=288, 832.10875pt x 1044.90375pt>
 File: sources/hardware_setup.png Graphic file (type png)
 <use sources/hardware_setup.png>
 Package pdftex.def Info: sources/hardware_setup.png  used on input line 67.
 (pdftex.def)             Requested size: 416.05336pt x 522.45059pt.
  [5 <./sources/hardware_setup.png>]
-<sources/pcb.jpg, id=329, 2091.815pt x 2553.54pt>
+<sources/pcb.jpg, id=296, 2091.815pt x 2553.54pt>
 File: sources/pcb.jpg Graphic file (type jpg)
 <use sources/pcb.jpg>
 Package pdftex.def Info: sources/pcb.jpg  used on input line 82.
 (pdftex.def)             Requested size: 313.75871pt x 383.01448pt.
 ) (./internal_software.tex [6 <./sources/pcb.jpg>]
-<sources/software_structure.png, id=337, 693.59125pt x 563.10374pt>
+<sources/software_structure.png, id=305, 693.59125pt x 563.10374pt>
 File: sources/software_structure.png Graphic file (type png)
 <use sources/software_structure.png>
 Package pdftex.def Info: sources/software_structure.png  used on input line 9.
@@ -741,50 +762,77 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--19
  []
 
 [7 <./sources/software_structure.png>]
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 27.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 24.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 27.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 24.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 64.
+(caption)                particular \caption on input line 61.
 See the caption package documentation for explanation.
 
 
-Overfull \hbox (17.64653pt too wide) in paragraph at lines 53--64
+Overfull \hbox (17.64653pt too wide) in paragraph at lines 50--61
 [][] 
  []
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 71--72
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--74
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 79--80
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
 
  []
 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 85--86
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
 
  []
 
-) (./image_processing.tex [10]
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 88--89
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+
+ []
+
+<sources/class_diagram_base.png, id=337, 1175.39125pt x 1098.1025pt>
+File: sources/class_diagram_base.png Graphic file (type png)
+<use sources/class_diagram_base.png>
+Package pdftex.def Info: sources/class_diagram_base.png  used on input line 94.
+
+(pdftex.def)             Requested size: 483.69687pt x 451.88374pt.
+[11 <./sources/class_diagram_base.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 103--105
+
+ []
+
+<sources/class_diagram_navigation.png, id=344, 563.10374pt x 504.88625pt>
+File: sources/class_diagram_navigation.png Graphic file (type png)
+<use sources/class_diagram_navigation.png>
+Package pdftex.def Info: sources/class_diagram_navigation.png  used on input li
+ne 110.
+(pdftex.def)             Requested size: 386.95897pt x 346.95435pt.
+) (./image_processing.tex [12 <./sources/class_diagram_navigation.png>]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 5.
 
-<sources/object_detection.png, id=369, 886.81313pt x 289.08pt>
+<sources/object_detection.png, id=351, 886.81313pt x 289.08pt>
 File: sources/object_detection.png Graphic file (type png)
 <use sources/object_detection.png>
 Package pdftex.def Info: sources/object_detection.png  used on input line 11.
@@ -804,302 +852,92 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--25
 
  []
 
-[11 <./sources/object_detection.png>]
-<sources/depthwise_convolution.JPG, id=378, 365.86688pt x 475.7775pt>
+[13 <./sources/object_detection.png>]
+<sources/depthwise_convolution.JPG, id=361, 365.86688pt x 475.7775pt>
 File: sources/depthwise_convolution.JPG Graphic file (type jpg)
 <use sources/depthwise_convolution.JPG>
 Package pdftex.def Info: sources/depthwise_convolution.JPG  used on input line 
 38.
 (pdftex.def)             Requested size: 237.81065pt x 309.2517pt.
-<sources/Comparison_Mobilenet.png, id=383, 242.1045pt x 60.82726pt>
+ [14 <./sources/depthwise_convolution.JPG>]
+<sources/Comparison_Mobilenet.png, id=375, 242.1045pt x 60.82726pt>
 File: sources/Comparison_Mobilenet.png Graphic file (type png)
 <use sources/Comparison_Mobilenet.png>
 Package pdftex.def Info: sources/Comparison_Mobilenet.png  used on input line 4
-7.
+9.
 (pdftex.def)             Requested size: 242.10391pt x 60.8271pt.
- [12 <./sources/depthwise_convolution.JPG>]
-<sources/Faster_R-CNN.png, id=393, 276.43275pt x 275.8305pt>
+<sources/Faster_R-CNN.png, id=376, 276.43275pt x 275.8305pt>
 File: sources/Faster_R-CNN.png Graphic file (type png)
 <use sources/Faster_R-CNN.png>
-Package pdftex.def Info: sources/Faster_R-CNN.png  used on input line 62.
+Package pdftex.def Info: sources/Faster_R-CNN.png  used on input line 64.
 (pdftex.def)             Requested size: 276.43207pt x 275.82982pt.
- [13 <./sources/Comparison_Mobilenet.png> <./sources/Faster_R-CNN.PNG>]
-Underfull \hbox (badness 10000) in paragraph at lines 73--74
+ [15 <./sources/Comparison_Mobilenet.png> <./sources/Faster_R-CNN.PNG>]
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
 
  []
 
-<sources/tempsnip.png, id=403, 395.22656pt x 114.4275pt>
+<sources/tempsnip.png, id=386, 395.22656pt x 114.4275pt>
 File: sources/tempsnip.png Graphic file (type png)
 <use sources/tempsnip.png>
-Package pdftex.def Info: sources/tempsnip.png  used on input line 79.
+Package pdftex.def Info: sources/tempsnip.png  used on input line 81.
 (pdftex.def)             Requested size: 395.22559pt x 114.42722pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--98
-
- []
-
-[14 <./sources/tempsnip.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 99--100
 
  []
 
-<sources/client_server.jpg, id=422, 429.85594pt x 289.08pt>
+[16 <./sources/tempsnip.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
+
+ []
+
+<sources/client_server.jpg, id=404, 429.85594pt x 289.08pt>
 File: sources/client_server.jpg Graphic file (type jpg)
 <use sources/client_server.jpg>
-Package pdftex.def Info: sources/client_server.jpg  used on input line 109.
+Package pdftex.def Info: sources/client_server.jpg  used on input line 111.
 (pdftex.def)             Requested size: 343.88521pt x 231.2643pt.
 
-Overfull \hbox (6.954pt too wide) in paragraph at lines 116--117
-\T1/ptm/m/n/12 The server first ini-tial-izes the socket to re-ceive the im-age
-s and the con-nec-tion to the ``Ob-ject_hunt_base''
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 116--117
+Underfull \hbox (badness 10000) in paragraph at lines 118--119
 
  []
 
-[15 <./sources/client_server.jpg>]) (./mapping.tex [16]
-Underfull \hbox (badness 10000) in paragraph at lines 5--9
-
- []
-
-<sources/mapping/example_tunnel.pdf, id=433, page=3, 238.97281pt x 174.6525pt>
-File: sources/mapping/example_tunnel.pdf Graphic file (type pdf)
-<use sources/mapping/example_tunnel.pdf, page 3>
-Package pdftex.def Info: sources/mapping/example_tunnel.pdf , page3 used on inp
-ut line 12.
-(pdftex.def)             Requested size: 238.97221pt x 174.65207pt.
-
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 13.
-See the caption package documentation for explanation.
-
-
-Overfull \hbox (21.3101pt too wide) in paragraph at lines 12--13
-[][] 
- []
-
-<sources/mapping/initial_position.pdf, id=434, 260.89468pt x 246.9225pt>
-File: sources/mapping/initial_position.pdf Graphic file (type pdf)
-<use sources/mapping/initial_position.pdf>
-Package pdftex.def Info: sources/mapping/initial_position.pdf  used on input li
-ne 27.
-(pdftex.def)             Requested size: 156.538pt x 148.15462pt.
-
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 28.
-See the caption package documentation for explanation.
-
-
-Overfull \hbox (2.28003pt too wide) in paragraph at lines 21--30
-$[]$ $[]$ 
- []
-
-<sources/mapping/orientation.pdf, id=435, 230.7822pt x 217.77359pt>
-File: sources/mapping/orientation.pdf Graphic file (type pdf)
-<use sources/mapping/orientation.pdf>
-Package pdftex.def Info: sources/mapping/orientation.pdf  used on input line 33
-.
-(pdftex.def)             Requested size: 138.47038pt x 130.66515pt.
-
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 34.
-See the caption package documentation for explanation.
-
-
-Overfull \hbox (2.28003pt too wide) in paragraph at lines 31--43
-[]$[]$ $[]$ 
- []
-
-[17 <./sources/mapping/example_tunnel.pdf> <./sources/mapping/initial_position.
-pdf>]
-Underfull \hbox (badness 1521) in paragraph at lines 45--46
-[]\T1/ptm/m/n/12 The ve-hi-cle pro-vides an rev-o-lu-tion sen-sor by
- []
-
-<sources/mapping/distance.pdf, id=458, 194.6472pt x 131.53139pt>
-File: sources/mapping/distance.pdf Graphic file (type pdf)
-<use sources/mapping/distance.pdf>
-Package pdftex.def Info: sources/mapping/distance.pdf  used on input line 49.
-(pdftex.def)             Requested size: 155.71796pt x 105.22523pt.
-
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 50.
-See the caption package documentation for explanation.
-
-
-Overfull \hbox (2.28003pt too wide) in paragraph at lines 44--55
-[]$[]$ $[]$ 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 44--55
-
- []
-
-<sources/mapping/orientation_distance.pdf, id=459, 260.89468pt x 246.9225pt>
-File: sources/mapping/orientation_distance.pdf Graphic file (type pdf)
-<use sources/mapping/orientation_distance.pdf>
-Package pdftex.def Info: sources/mapping/orientation_distance.pdf  used on inpu
-t line 58.
-(pdftex.def)             Requested size: 156.538pt x 148.15462pt.
-<sources/mapping/route.pdf, id=460, 260.89468pt x 246.9225pt>
-File: sources/mapping/route.pdf Graphic file (type pdf)
-<use sources/mapping/route.pdf>
-Package pdftex.def Info: sources/mapping/route.pdf  used on input line 59.
-(pdftex.def)             Requested size: 156.538pt x 148.15462pt.
-
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 60.
-See the caption package documentation for explanation.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 56--65
-
- []
-
-[18 <./sources/mapping/orientation.pdf> <./sources/mapping/distance.pdf> <./sou
-rces/mapping/orientation_distance.pdf> <./sources/mapping/route.pdf>]
-<sources/mapping/orientation_objectdistance.pdf, id=510, page=1, 260.89468pt x 
-246.9225pt>
-File: sources/mapping/orientation_objectdistance.pdf Graphic file (type pdf)
-<use sources/mapping/orientation_objectdistance.pdf, page 1>
-Package pdftex.def Info: sources/mapping/orientation_objectdistance.pdf , page1
- used on input line 75.
-(pdftex.def)             Requested size: 156.538pt x 148.15462pt.
-<sources/mapping/orientation_objectdistance.pdf, id=511, page=2, 260.89468pt x 
-246.9225pt>
-File: sources/mapping/orientation_objectdistance.pdf Graphic file (type pdf)
-<use sources/mapping/orientation_objectdistance.pdf, page 2>
-Package pdftex.def Info: sources/mapping/orientation_objectdistance.pdf , page2
- used on input line 76.
-(pdftex.def)             Requested size: 156.538pt x 148.15462pt.
-<sources/mapping/orientation_objectdistance.pdf, id=512, page=3, 260.89468pt x 
-246.9225pt>
-File: sources/mapping/orientation_objectdistance.pdf Graphic file (type pdf)
-<use sources/mapping/orientation_objectdistance.pdf, page 3>
-Package pdftex.def Info: sources/mapping/orientation_objectdistance.pdf , page3
- used on input line 77.
-(pdftex.def)             Requested size: 156.538pt x 148.15462pt.
-
-
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 78.
-See the caption package documentation for explanation.
-
-[19 <./sources/mapping/orientation_objectdistance.pdf> <./sources/mapping/orien
-tation_objectdistance.pdf> <./sources/mapping/orientation_objectdistance.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 85--88
+[17 <./sources/client_server.jpg>]) (./conclusion.tex [18]
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
 
-Overfull \hbox (25.19997pt too wide) in paragraph at lines 91--105
- [] 
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
  []
 
-(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2018/09/02 1.7 listings language file
-)
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 127.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 127.
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 132.
 
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+) (./references.tex [20]
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 6.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-
-Package caption Warning: \captionsetup{type*=...} or \captionof
-(caption)                outside box or environment on input line 141.
-See the caption package documentation for explanation.
-
-
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 141.
-See the caption package documentation for explanation.
-
-[20]
-Underfull \hbox (badness 10000) in paragraph at lines 143--144
-
- []
-
-
-Underfull \hbox (badness 1776) in paragraph at lines 147--150
-[]\T1/ptm/m/n/12 The code of the pro-cess in-cludes a
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 147--150
-
- []
-
-<sources/mapping/program_sequence.pdf, id=552, 505.89pt x 615.25856pt>
-File: sources/mapping/program_sequence.pdf Graphic file (type pdf)
-<use sources/mapping/program_sequence.pdf>
-Package pdftex.def Info: sources/mapping/program_sequence.pdf  used on input li
-ne 154.
-(pdftex.def)             Requested size: 303.53633pt x 369.15797pt.
-
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 155.
-See the caption package documentation for explanation.
-
-
-Overfull \hbox (13.31526pt too wide) in paragraph at lines 154--155
- [] 
- []
-
-
-Overfull \hbox (2.28001pt too wide) in paragraph at lines 146--158
-[]$[]$ $[]$ 
- []
-
-<sources/mapping/communication.pdf, id=553, 650.43pt x 246.9225pt>
-File: sources/mapping/communication.pdf Graphic file (type pdf)
-<use sources/mapping/communication.pdf>
-Package pdftex.def Info: sources/mapping/communication.pdf  used on input line 
-163.
-(pdftex.def)             Requested size: 455.2979pt x 172.84456pt.
-
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 164.
-See the caption package documentation for explanation.
-
-[21 <./sources/mapping/program_sequence.pdf>]
-<sources/mapping/Route.png, id=568, 15056.25pt x 15056.25pt>
-File: sources/mapping/Route.png Graphic file (type png)
-<use sources/mapping/Route.png>
-Package pdftex.def Info: sources/mapping/Route.png  used on input line 172.
-(pdftex.def)             Requested size: 225.834pt x 225.834pt.
-
-
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 173.
-See the caption package documentation for explanation.
-
-<sources/mapping/Map.png, id=569, 15056.25pt x 15056.25pt>
-File: sources/mapping/Map.png Graphic file (type png)
-<use sources/mapping/Map.png>
-Package pdftex.def Info: sources/mapping/Map.png  used on input line 178.
-(pdftex.def)             Requested size: 225.834pt x 225.834pt.
-
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 179.
-See the caption package documentation for explanation.
-
-
-Overfull \hbox (2.28003pt too wide) in paragraph at lines 170--182
-[]$[]$ $[]$ 
- []
-
-) (./references.tex [22 <./sources/mapping/communication.pdf> <./sources/mappin
-g/Route.png (PNG copy)> <./sources/mapping/Map.png (PNG copy)>] [23]pdfTeX warn
-ing (ext4): destination with the same identifier (name{cite.eagle}) has been al
-ready used, duplicate ignored
+) [21]pdfTeX warning (ext4): destination with the same identifier (name{cite.ea
+gle}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.25 \bibitem[6]{eagle}
@@ -1116,7 +954,7 @@ as been already used, duplicate ignored
                    \relax 
 l.27 \bibitem[8]{tim2}
                        Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun, ``...
-[24pdfTeX warning (ext4): destination with the same identifier (name{cite.tim3}
+[22pdfTeX warning (ext4): destination with the same identifier (name{cite.tim3}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1156,46 +994,45 @@ as been already used, duplicate ignored
 l.34 \bibitem[15]{tim9}
                         Tensorflow, ``Detection model zoo'' [Online]. Availa...
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 117.
- [25pdfTeX warning (ext4): destination with the same identifier (name{cite.tim6
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 139.
+ [23pdfTeX warning (ext4): destination with the same identifier (name{cite.tim6
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.117 \end{document}
+l.139 \end{document}
                     ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 117.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 139.
  (./report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 117.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 117.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 139.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 139.
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: E7E158D6FBDF60726FFED810EADD3CE7;2624.
+(rerunfilecheck)             Checksum: 3D7B0015B2944C89E44FB41534C41FF1;2360.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 117.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 139.
  ) 
 Here is how much of TeX's memory you used:
- 11195 strings out of 494467
- 162919 string characters out of 6174031
- 511288 words of memory out of 5000000
- 14505 multiletter control sequences out of 15000+600000
- 68876 words of font info for 104 fonts, out of 8000000 for 9000
+ 10703 strings out of 494467
+ 156694 string characters out of 6174031
+ 459288 words of memory out of 5000000
+ 14057 multiletter control sequences out of 15000+600000
+ 58286 words of font info for 86 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 36i,13n,51p,1264b,1388s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,13n,49p,1259b,492s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/robert/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1200.60
-0pk> </home/robert/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.
-600pk>{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/te
-xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-d
-ist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr
-i8a.pfb>
-Output written on report.pdf (30 pages, 5044768 bytes).
+0pk>{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/u
+rw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8
+a.pfb>
+Output written on report.pdf (29 pages, 3269150 bytes).
 PDF statistics:
- 765 PDF objects out of 1000 (max. 8388607)
- 588 compressed objects within 6 object streams
- 141 named destinations out of 1000 (max. 500000)
- 438 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 572 PDF objects out of 1000 (max. 8388607)
+ 457 compressed objects within 5 object streams
+ 114 named destinations out of 1000 (max. 500000)
+ 351 words of extra memory for PDF output out of 10000 (max. 10000000)
 
