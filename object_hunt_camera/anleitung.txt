@@ -1,5 +1,0 @@
-client.py auf dem py starten mit -s "<IP-Adresse>"
-server.py auf dem rechner starten, allerdings vorher Pakete installieren nach https://www.pyimagesearch.com/2019/04/15/live-video-streaming-over-network-with-opencv-and-imagezmq/ der Anleitung
-Genutztes Model ist ssd_mobilenet_v2_coco aus https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md
-Im tutorial wird caffee model genutzt, ich hab tensorflow genutzt deswegen die Methode ReadNetFrom Tensorflow, erster Parameter ist der frozen_inference_graph.pb und zweiter Parameter die pbtxt datei
-mW und mH ist 1
