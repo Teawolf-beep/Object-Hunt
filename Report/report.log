@@ -1,14 +1,14 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.2.1)  5 FEB 2020 16:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2020.2.7)  15 FEB 2020 14:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **report.tex
 (./report.tex
-LaTeX2e <2018-12-01>
-(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
-File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+LaTeX2e <2019-10-01> patch level 1
+(/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/08/27 v1.4j Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2019/08/27 v1.4j Standard LaTeX file (size option)
 )
 \c@part=\count80
 \c@section=\count81
@@ -22,48 +22,48 @@ File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2018/11/13 3.27 The Babel package
+(/usr/share/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2019/10/15 3.35 The Babel package
 
-(/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
-File: switch.def 2018/11/13 3.27 Babel switching mechanism
+(/usr/share/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2019/10/15 3.35 Babel switching mechanism
 )
-(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+(/usr/share/texmf-dist/tex/generic/babel-english/english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
 
-(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2018/11/13 3.27 Babel common definitions
+(/usr/share/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2019/10/15 3.35 Babel common definitions
 \babel@savecnt=\count88
 \U@D=\dimen103
 
-(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+(/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@dirlevel=\count89
 )
 \l@canadian = a dialect from \language\l@american 
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+(/usr/share/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
 )
-(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/share/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
+(/usr/share/texmf-dist/tex/latex/base/t1enc.def
 File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+(/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 )
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
@@ -76,11 +76,11 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
+(/usr/share/texmf-dist/tex/latex/graphics/dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+(/usr/share/texmf-dist/tex/latex/listings/listings.sty
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
@@ -97,18 +97,18 @@ Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \lst@lineno=\count95
 \lst@maxwidth=\dimen107
 
-(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
-File: lstmisc.sty 2018/09/02 1.7 (Carsten Heinz)
+(/usr/share/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
 \c@lstnumber=\count96
 \lst@skipnumbers=\count97
 \lst@framebox=\box28
 )
-(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
-File: listings.cfg 2018/09/02 1.7 listings configuration
+(/usr/share/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2019/09/10 1.8c listings configuration
 ))
-Package: listings 2018/09/02 1.7 (Carsten Heinz)
+Package: listings 2019/09/10 1.8c (Carsten Heinz)
 
-(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+(/usr/share/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
 s
 \f@nch@headwidth=\skip43
@@ -121,30 +121,30 @@ s
 \f@nch@O@olf=\skip50
 \f@nch@O@orf=\skip51
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/10/08 v1.3c Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 99.
+Package graphics Info: Driver file: pdftex.def on input line 105.
 )
 \Gin@req@height=\dimen108
 \Gin@req@width=\dimen109
 )
-(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+(/usr/share/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/helvet.sty
+(/usr/share/texmf-dist/tex/latex/psnfss/helvet.sty
 Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
 )
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/mathptmx.sty
+(/usr/share/texmf-dist/tex/latex/psnfss/mathptmx.sty
 Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
 LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -180,7 +180,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
 LaTeX Info: Redefining \hbar on input line 50.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+(/usr/share/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count98
 \float@exts=\toks18
@@ -188,11 +188,11 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks19
 \@floatcapt=\box30
 )
-(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
-Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
+(/usr/share/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2019/09/01 v3.3d Customizing captions (AR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
+(/usr/share/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2019/09/01 v1.8d caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 64.
 \captionmargin=\dimen110
 \captionmargin@=\dimen111
@@ -207,10 +207,10 @@ Package caption3 Info: TeX engine: e-TeX on input line 64.
 Package caption Info: float package is loaded.
 Package caption Info: listings package is loaded.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/ms/ragged2e.sty
-Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
+(/usr/share/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+Package: ragged2e 2019/07/28 v2.2 ragged2e Package (MS)
 
-(/usr/share/texlive/texmf-dist/tex/latex/ms/everysel.sty
+(/usr/share/texmf-dist/tex/latex/ms/everysel.sty
 Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 )
 \CenteringLeftskip=\skip52
@@ -228,44 +228,44 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 \RaggedRightParindent=\skip64
 \JustifyingParindent=\skip65
 )
-(/usr/share/texlive/texmf-dist/tex/latex/was/gensymb.sty
+(/usr/share/texmf-dist/tex/latex/was/gensymb.sty
 Package: gensymb 2003/07/02 v1.0 (WaS)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2018/12/01 v2.17b AMS math features
+(/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2019/04/01 v2.17c AMS math features
 \@mathmargin=\skip66
 
 For additional information on amsmath, use the `?' option.
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+(/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks20
 \ex@=\dimen117
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+(/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen118
 )
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+(/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count101
-LaTeX Info: Redefining \frac on input line 223.
+LaTeX Info: Redefining \frac on input line 227.
 \uproot@=\count102
 \leftroot@=\count103
-LaTeX Info: Redefining \overline on input line 385.
+LaTeX Info: Redefining \overline on input line 389.
 \classnum@=\count104
 \DOTSCASE@=\count105
-LaTeX Info: Redefining \ldots on input line 482.
-LaTeX Info: Redefining \dots on input line 485.
-LaTeX Info: Redefining \cdots on input line 606.
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
 \Mathstrutbox@=\box31
 \strutbox@=\box32
 \big@size=\dimen119
-LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
 \macc@depth=\count106
 \c@MaxMatrixCols=\count107
 \dotsspace@=\muskip10
@@ -286,14 +286,14 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
 \multlinegap=\skip67
 \multlinetaggap=\skip68
 \mathdisplay@stack=\toks24
-LaTeX Info: Redefining \[ on input line 2844.
-LaTeX Info: Redefining \] on input line 2845.
+LaTeX Info: Redefining \[ on input line 2855.
+LaTeX Info: Redefining \] on input line 2856.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/makecell/makecell.sty
+(/usr/share/texmf-dist/tex/latex/makecell/makecell.sty
 Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
 
-(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
-Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
+(/usr/share/texmf-dist/tex/latex/tools/array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \col@sep=\dimen126
 \ar@mcellbox=\box33
 \extrarowheight=\dimen127
@@ -306,14 +306,14 @@ Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
 \c@nlinenum=\count113
 \TeXr@lab=\toks26
 )
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
+(/usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2019/09/28 v7.00a Hypertext links for LaTeX
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/share/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+(/usr/share/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
@@ -327,7 +327,7 @@ Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -349,82 +349,82 @@ Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+(/usr/share/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+(/usr/share/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+(/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen129
 \Hy@linkcounter=\count114
 \Hy@pagecounter=\count115
 
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
+(/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2019/09/28 v7.00a Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
 \Hy@SavedSpaceFactor=\count116
 
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+(/usr/share/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 4393.
-Package hyperref Info: Option `pdfpagelabels' set `true' on input line 4393.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 4393.
-Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4393
+Package hyperref Info: Option `colorlinks' set `true' on input line 4414.
+Package hyperref Info: Option `pdfpagelabels' set `true' on input line 4414.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4414.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4414
 .
-Package hyperref Info: Option `plainpages' set `false' on input line 4393.
-Package hyperref Info: Option `hypertexnames' set `false' on input line 4393.
-Package hyperref Info: Hyper figures OFF on input line 4519.
-Package hyperref Info: Link nesting OFF on input line 4524.
-Package hyperref Info: Hyper index ON on input line 4527.
-Package hyperref Info: Plain pages OFF on input line 4534.
-Package hyperref Info: Backreferencing OFF on input line 4539.
+Package hyperref Info: Option `plainpages' set `false' on input line 4414.
+Package hyperref Info: Option `hypertexnames' set `false' on input line 4414.
+Package hyperref Info: Hyper figures OFF on input line 4540.
+Package hyperref Info: Link nesting OFF on input line 4545.
+Package hyperref Info: Hyper index ON on input line 4548.
+Package hyperref Info: Plain pages OFF on input line 4555.
+Package hyperref Info: Backreferencing OFF on input line 4560.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4772.
+Package hyperref Info: Bookmarks ON on input line 4793.
 \c@Hy@tempcnt=\count117
 
-(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+(/usr/share/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 5125.
+LaTeX Info: Redefining \url on input line 5152.
 \XeTeXLinkMargin=\dimen130
 \Fld@menulength=\count118
 \Field@Width=\dimen131
 \Fld@charsize=\dimen132
-Package hyperref Info: Hyper figures OFF on input line 6380.
-Package hyperref Info: Link nesting OFF on input line 6385.
-Package hyperref Info: Hyper index ON on input line 6388.
-Package hyperref Info: backreferencing OFF on input line 6395.
-Package hyperref Info: Link coloring ON on input line 6398.
-Package hyperref Info: Link coloring with OCG OFF on input line 6405.
-Package hyperref Info: PDF/A mode OFF on input line 6410.
-LaTeX Info: Redefining \ref on input line 6450.
-LaTeX Info: Redefining \pageref on input line 6454.
+Package hyperref Info: Hyper figures OFF on input line 6423.
+Package hyperref Info: Link nesting OFF on input line 6428.
+Package hyperref Info: Hyper index ON on input line 6431.
+Package hyperref Info: backreferencing OFF on input line 6438.
+Package hyperref Info: Link coloring ON on input line 6441.
+Package hyperref Info: Link coloring with OCG OFF on input line 6448.
+Package hyperref Info: PDF/A mode OFF on input line 6453.
+LaTeX Info: Redefining \ref on input line 6493.
+LaTeX Info: Redefining \pageref on input line 6497.
 \Hy@abspage=\count119
 \c@Item=\count120
 \c@Hfootnote=\count121
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
+(/usr/share/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2019/09/28 v7.00a Hyperref driver for pdfTeX
 \Fld@listcount=\count122
 \c@bookmark@seq@number=\count123
 
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+(/usr/share/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip71
 )
-(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2018/04/16 v5.8 Page Geometry
 \Gm@cnth=\count124
 \Gm@cntv=\count125
@@ -447,11 +447,11 @@ Package geometry Warning: Over-specification in `h'-direction.
 Package geometry Warning: Over-specification in `v'-direction.
     `height' (768.597pt) is ignored.
 
-) (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2018/09/02 1.7 listings language file
+) (/usr/share/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2019/09/10 1.8c listings language file
 )
-(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2018/09/02 1.7 listings language file
+(/usr/share/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2019/09/10 1.8c listings language file
 ) (./report.aux
 
 LaTeX Warning: Label `fig:depthwise_convolution' multiply defined.
@@ -512,11 +512,12 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 66.
 LaTeX Font Info:    ... okay on input line 66.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 66.
 LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 66.
- (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 66
+.
+ (/usr/share/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
-(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count127
 \scratchdimen=\dimen141
@@ -529,10 +530,10 @@ File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 \MPnumerator=\count131
 \makeMPintoPDFobject=\count132
 \everyMPtoPDFconversion=\toks29
-) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+) (/usr/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+(/usr/share/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -542,7 +543,7 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
@@ -567,10 +568,10 @@ Package gensymb Warning: Not defining \micro.
 
 \AtBeginShipoutBox=\box36
 Package hyperref Info: Link coloring ON on input line 66.
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+(/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+(/usr/share/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count134
@@ -578,8 +579,7 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 66.
 LaTeX Info: Redefining \pageref on input line 66.
 LaTeX Info: Redefining \nameref on input line 66.
-
-(./report.out) (./report.out)
+ (./report.out) (./report.out)
 \@outlinefile=\write3
 \openout3 = `report.out'.
 
@@ -618,7 +618,7 @@ LaTeX Info: Redefining \nameref on input line 66.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<sources/logo_TH-Koeln_CMYK_22pt-eps-converted-to.pdf, id=144, 115.43124pt x 62
+<sources/logo_TH-Koeln_CMYK_22pt-eps-converted-to.pdf, id=168, 115.43124pt x 62
 .2325pt>
 File: sources/logo_TH-Koeln_CMYK_22pt-eps-converted-to.pdf Graphic file (type p
 df)
@@ -631,7 +631,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 70--71
 
  []
 
-<sources/TH.PNG, id=145, 451.6875pt x 18.0675pt>
+<sources/TH.PNG, id=169, 451.6875pt x 18.0675pt>
 File: sources/TH.PNG Graphic file (type png)
 <use sources/TH.PNG>
 Package pdftex.def Info: sources/TH.PNG  used on input line 75.
@@ -665,32 +665,33 @@ Underfull \hbox (badness 10000) in paragraph at lines 115--116
 [1] (./report.toc
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 2.
-LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 4.
-
- (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
+LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
+ 4.
+ (/usr/share/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 4.
+LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
+ 4.
 
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlztmcm.fd
+(/usr/share/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 4.
+LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
+ 4.
 
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsztmcm.fd
+(/usr/share/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 4.
+LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
+ 4.
 
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxztmcm.fd
+(/usr/share/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 4.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 4
+.
 
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+(/usr/share/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
@@ -699,18 +700,18 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
-)
+ [1
+
+])
 \tf@toc=\write4
 \openout4 = `report.toc'.
 
- [1
-
-] [2]
-(./report.lof)
+ [2] (./report.lof)
 \tf@lof=\write5
 \openout5 = `report.lof'.
 
- [3] (./report.lot)
+
+[3] (./report.lot)
 \tf@lot=\write6
 \openout6 = `report.lot'.
 
@@ -721,32 +722,32 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 13.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 13.
-<sources/connection_overview.png, id=246, 806.01125pt x 587.19376pt>
+<sources/connection_overview.png, id=298, 806.01125pt x 587.19376pt>
 File: sources/connection_overview.png Graphic file (type png)
 <use sources/connection_overview.png>
 Package pdftex.def Info: sources/connection_overview.png  used on input line 17
 .
 (pdftex.def)             Requested size: 362.7017pt x 264.23474pt.
-) (./hardware.tex
-[1
+) (./hardware.tex [1
 
  <./sources/connection_overview.png>]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 9.
  [2] [3] [4]
-<sources/hardware_setup.png, id=288, 832.10875pt x 1044.90375pt>
+<sources/hardware_setup.png, id=341, 832.10875pt x 1044.90375pt>
 File: sources/hardware_setup.png Graphic file (type png)
 <use sources/hardware_setup.png>
 Package pdftex.def Info: sources/hardware_setup.png  used on input line 67.
 (pdftex.def)             Requested size: 416.05336pt x 522.45059pt.
  [5 <./sources/hardware_setup.png>]
-<sources/pcb.jpg, id=296, 2091.815pt x 2553.54pt>
+<sources/pcb.jpg, id=349, 2091.815pt x 2553.54pt>
 File: sources/pcb.jpg Graphic file (type jpg)
 <use sources/pcb.jpg>
 Package pdftex.def Info: sources/pcb.jpg  used on input line 82.
 (pdftex.def)             Requested size: 313.75871pt x 383.01448pt.
-) (./internal_software.tex [6 <./sources/pcb.jpg>]
-<sources/software_structure.png, id=305, 693.59125pt x 563.10374pt>
+)
+(./internal_software.tex [6 <./sources/pcb.jpg>]
+<sources/software_structure.png, id=357, 693.59125pt x 563.10374pt>
 File: sources/software_structure.png Graphic file (type png)
 <use sources/software_structure.png>
 Package pdftex.def Info: sources/software_structure.png  used on input line 9.
@@ -762,9 +763,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--19
  []
 
 [7 <./sources/software_structure.png>]
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 24.
+LaTeX Font Info:    Trying to load font information for OMS+ptm on input line 2
+4.
 
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
+(/usr/share/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
@@ -810,7 +812,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 90--91
 
  []
 
-<sources/class_diagram_base.png, id=337, 1175.39125pt x 1098.1025pt>
+<sources/class_diagram_base.png, id=389, 1175.39125pt x 1098.1025pt>
 File: sources/class_diagram_base.png Graphic file (type png)
 <use sources/class_diagram_base.png>
 Package pdftex.def Info: sources/class_diagram_base.png  used on input line 94.
@@ -821,7 +823,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 103--105
 
  []
 
-<sources/class_diagram_navigation.png, id=344, 563.10374pt x 504.88625pt>
+<sources/class_diagram_navigation.png, id=396, 563.10374pt x 504.88625pt>
 File: sources/class_diagram_navigation.png Graphic file (type png)
 <use sources/class_diagram_navigation.png>
 Package pdftex.def Info: sources/class_diagram_navigation.png  used on input li
@@ -832,7 +834,7 @@ ne 110.
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 5.
 
-<sources/object_detection.png, id=351, 886.81313pt x 289.08pt>
+<sources/object_detection.png, id=403, 886.81313pt x 289.08pt>
 File: sources/object_detection.png Graphic file (type png)
 <use sources/object_detection.png>
 Package pdftex.def Info: sources/object_detection.png  used on input line 11.
@@ -853,20 +855,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--25
  []
 
 [13 <./sources/object_detection.png>]
-<sources/depthwise_convolution.JPG, id=361, 365.86688pt x 475.7775pt>
+<sources/depthwise_convolution.JPG, id=413, 365.86688pt x 475.7775pt>
 File: sources/depthwise_convolution.JPG Graphic file (type jpg)
 <use sources/depthwise_convolution.JPG>
 Package pdftex.def Info: sources/depthwise_convolution.JPG  used on input line 
 38.
 (pdftex.def)             Requested size: 237.81065pt x 309.2517pt.
  [14 <./sources/depthwise_convolution.JPG>]
-<sources/Comparison_Mobilenet.png, id=375, 242.1045pt x 60.82726pt>
+<sources/Comparison_Mobilenet.png, id=427, 242.1045pt x 60.82726pt>
 File: sources/Comparison_Mobilenet.png Graphic file (type png)
 <use sources/Comparison_Mobilenet.png>
 Package pdftex.def Info: sources/Comparison_Mobilenet.png  used on input line 4
 9.
 (pdftex.def)             Requested size: 242.10391pt x 60.8271pt.
-<sources/Faster_R-CNN.png, id=376, 276.43275pt x 275.8305pt>
+<sources/Faster_R-CNN.png, id=428, 276.43275pt x 275.8305pt>
 File: sources/Faster_R-CNN.png Graphic file (type png)
 <use sources/Faster_R-CNN.png>
 Package pdftex.def Info: sources/Faster_R-CNN.png  used on input line 64.
@@ -876,7 +878,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 75--76
 
  []
 
-<sources/tempsnip.png, id=386, 395.22656pt x 114.4275pt>
+<sources/tempsnip.png, id=438, 395.22656pt x 114.4275pt>
 File: sources/tempsnip.png Graphic file (type png)
 <use sources/tempsnip.png>
 Package pdftex.def Info: sources/tempsnip.png  used on input line 81.
@@ -891,7 +893,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 101--102
 
  []
 
-<sources/client_server.jpg, id=404, 429.85594pt x 289.08pt>
+<sources/client_server.jpg, id=457, 429.85594pt x 289.08pt>
 File: sources/client_server.jpg Graphic file (type jpg)
 <use sources/client_server.jpg>
 Package pdftex.def Info: sources/client_server.jpg  used on input line 111.
@@ -901,7 +903,261 @@ Underfull \hbox (badness 10000) in paragraph at lines 118--119
 
  []
 
-[17 <./sources/client_server.jpg>]) (./conclusion.tex [18]
+[17 <./sources/client_server.jpg>]) (./mapping.tex [18]
+Underfull \hbox (badness 10000) in paragraph at lines 5--9
+
+ []
+
+<sources/mapping/example_tunnel.pdf, id=468, page=3, 238.97281pt x 174.6525pt>
+File: sources/mapping/example_tunnel.pdf Graphic file (type pdf)
+<use sources/mapping/example_tunnel.pdf, page 3>
+Package pdftex.def Info: sources/mapping/example_tunnel.pdf , page3 used on inp
+ut line 12.
+(pdftex.def)             Requested size: 238.97221pt x 174.65207pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 13.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (21.3101pt too wide) in paragraph at lines 12--13
+[][] 
+ []
+
+<sources/mapping/initial_position.pdf, id=469, 260.89468pt x 246.9225pt>
+File: sources/mapping/initial_position.pdf Graphic file (type pdf)
+<use sources/mapping/initial_position.pdf>
+Package pdftex.def Info: sources/mapping/initial_position.pdf  used on input li
+ne 27.
+(pdftex.def)             Requested size: 156.538pt x 148.15462pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 28.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (2.28003pt too wide) in paragraph at lines 21--30
+$[]$ $[]$ 
+ []
+
+<sources/mapping/orientation.pdf, id=470, 230.7822pt x 217.77359pt>
+File: sources/mapping/orientation.pdf Graphic file (type pdf)
+<use sources/mapping/orientation.pdf>
+Package pdftex.def Info: sources/mapping/orientation.pdf  used on input line 33
+.
+(pdftex.def)             Requested size: 138.47038pt x 130.66515pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 34.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (2.28003pt too wide) in paragraph at lines 31--41
+[]$[]$ $[]$ 
+ []
+
+[19 <./sources/mapping/example_tunnel.pdf> <./sources/mapping/initial_position.
+pdf>]
+Underfull \hbox (badness 1521) in paragraph at lines 43--44
+[]\T1/ptm/m/n/12 The ve-hi-cle pro-vides an rev-o-lu-tion sen-sor by
+ []
+
+<sources/mapping/distance.pdf, id=494, 194.6472pt x 131.53139pt>
+File: sources/mapping/distance.pdf Graphic file (type pdf)
+<use sources/mapping/distance.pdf>
+Package pdftex.def Info: sources/mapping/distance.pdf  used on input line 47.
+(pdftex.def)             Requested size: 155.71796pt x 105.22523pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 48.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (2.28003pt too wide) in paragraph at lines 42--53
+[]$[]$ $[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--53
+
+ []
+
+<sources/mapping/orientation_distance.pdf, id=495, 260.89468pt x 246.9225pt>
+File: sources/mapping/orientation_distance.pdf Graphic file (type pdf)
+<use sources/mapping/orientation_distance.pdf>
+Package pdftex.def Info: sources/mapping/orientation_distance.pdf  used on inpu
+t line 56.
+(pdftex.def)             Requested size: 156.538pt x 148.15462pt.
+<sources/mapping/route.pdf, id=496, 260.89468pt x 246.9225pt>
+File: sources/mapping/route.pdf Graphic file (type pdf)
+<use sources/mapping/route.pdf>
+Package pdftex.def Info: sources/mapping/route.pdf  used on input line 57.
+(pdftex.def)             Requested size: 156.538pt x 148.15462pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 58.
+See the caption package documentation for explanation.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--63
+
+ []
+
+[20 <./sources/mapping/orientation.pdf> <./sources/mapping/distance.pdf> <./sou
+rces/mapping/orientation_distance.pdf> <./sources/mapping/route.pdf>]
+<sources/mapping/orientation_objectdistance.pdf, id=546, page=1, 260.89468pt x 
+246.9225pt>
+File: sources/mapping/orientation_objectdistance.pdf Graphic file (type pdf)
+<use sources/mapping/orientation_objectdistance.pdf, page 1>
+Package pdftex.def Info: sources/mapping/orientation_objectdistance.pdf , page1
+ used on input line 73.
+(pdftex.def)             Requested size: 156.538pt x 148.15462pt.
+<sources/mapping/orientation_objectdistance.pdf, id=547, page=2, 260.89468pt x 
+246.9225pt>
+File: sources/mapping/orientation_objectdistance.pdf Graphic file (type pdf)
+<use sources/mapping/orientation_objectdistance.pdf, page 2>
+Package pdftex.def Info: sources/mapping/orientation_objectdistance.pdf , page2
+ used on input line 74.
+(pdftex.def)             Requested size: 156.538pt x 148.15462pt.
+<sources/mapping/orientation_objectdistance.pdf, id=548, page=3, 260.89468pt x 
+246.9225pt>
+File: sources/mapping/orientation_objectdistance.pdf Graphic file (type pdf)
+<use sources/mapping/orientation_objectdistance.pdf, page 3>
+Package pdftex.def Info: sources/mapping/orientation_objectdistance.pdf , page3
+ used on input line 75.
+(pdftex.def)             Requested size: 156.538pt x 148.15462pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 76.
+See the caption package documentation for explanation.
+
+[21 <./sources/mapping/orientation_objectdistance.pdf> <./sources/mapping/orien
+tation_objectdistance.pdf> <./sources/mapping/orientation_objectdistance.pdf>]
+Overfull \hbox (25.19997pt too wide) in paragraph at lines 88--102
+ [] 
+ []
+
+(/usr/share/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2019/09/10 1.8c listings language file
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 124.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 124.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
+29.
+
+(/usr/share/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+
+Package caption Warning: \captionsetup{type*=...} or \captionof
+(caption)                outside box or environment on input line 138.
+See the caption package documentation for explanation.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 138.
+See the caption package documentation for explanation.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
+
+ []
+
+[22]
+Underfull \hbox (badness 1776) in paragraph at lines 144--147
+[]\T1/ptm/m/n/12 The code of the pro-cess in-cludes a
+ []
+
+
+Underfull \hbox (badness 3503) in paragraph at lines 144--147
+\T1/ptm/m/n/12 boolean vari-able which will be set
+ []
+
+
+Underfull \hbox (badness 1033) in paragraph at lines 144--147
+\T1/ptm/m/n/12 true, if the nav-i-ga-tion pro-cess wants
+ []
+
+
+Underfull \hbox (badness 2205) in paragraph at lines 144--147
+\T1/ptm/m/n/12 the pro-cess waits for a mes-sage to
+ []
+
+
+Underfull \hbox (badness 1558) in paragraph at lines 144--147
+\T1/ptm/m/n/12 that type of in-for-ma-tion the pro-cess
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--147
+
+ []
+
+<sources/mapping/program_sequence.pdf, id=588, 505.89pt x 615.25856pt>
+File: sources/mapping/program_sequence.pdf Graphic file (type pdf)
+<use sources/mapping/program_sequence.pdf>
+Package pdftex.def Info: sources/mapping/program_sequence.pdf  used on input li
+ne 151.
+(pdftex.def)             Requested size: 303.53633pt x 369.15797pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 152.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (13.31526pt too wide) in paragraph at lines 151--152
+ [] 
+ []
+
+
+Overfull \hbox (2.28001pt too wide) in paragraph at lines 143--155
+[]$[]$ $[]$ 
+ []
+
+<sources/mapping/communication.pdf, id=589, 650.43pt x 246.9225pt>
+File: sources/mapping/communication.pdf Graphic file (type pdf)
+<use sources/mapping/communication.pdf>
+Package pdftex.def Info: sources/mapping/communication.pdf  used on input line 
+160.
+(pdftex.def)             Requested size: 455.2979pt x 172.84456pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 161.
+See the caption package documentation for explanation.
+
+[23 <./sources/mapping/program_sequence.pdf> <./sources/mapping/communication.p
+df>]
+<sources/mapping/Route.png, id=618, 15056.25pt x 15056.25pt>
+File: sources/mapping/Route.png Graphic file (type png)
+<use sources/mapping/Route.png>
+Package pdftex.def Info: sources/mapping/Route.png  used on input line 169.
+(pdftex.def)             Requested size: 225.834pt x 225.834pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 170.
+See the caption package documentation for explanation.
+
+<sources/mapping/Map.png, id=619, 15056.25pt x 15056.25pt>
+File: sources/mapping/Map.png Graphic file (type png)
+<use sources/mapping/Map.png>
+Package pdftex.def Info: sources/mapping/Map.png  used on input line 175.
+(pdftex.def)             Requested size: 225.834pt x 225.834pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 176.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (2.28003pt too wide) in paragraph at lines 167--179
+[]$[]$ $[]$ 
+ []
+
+) (./conclusion.tex [24 <./sources/mapping/Route.png (PNG copy)> <./sources/map
+ping/Map.png (PNG copy)>]
 Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
@@ -926,18 +1182,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--18
 
  []
 
-[19]
+[25]
 Underfull \hbox (badness 10000) in paragraph at lines 19--20
 
  []
 
-) (./references.tex [20]
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 6.
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
-File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-) [21]pdfTeX warning (ext4): destination with the same identifier (name{cite.ea
-gle}) has been already used, duplicate ignored
+) (./references.tex [26] [27]pdfTeX warning (ext4): destination with the same i
+dentifier (name{cite.eagle}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.25 \bibitem[6]{eagle}
@@ -954,7 +1205,7 @@ as been already used, duplicate ignored
                    \relax 
 l.27 \bibitem[8]{tim2}
                        Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun, ``...
-[22pdfTeX warning (ext4): destination with the same identifier (name{cite.tim3}
+[28pdfTeX warning (ext4): destination with the same identifier (name{cite.tim3}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -995,7 +1246,7 @@ l.34 \bibitem[15]{tim9}
                         Tensorflow, ``Detection model zoo'' [Online]. Availa...
 )
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 139.
- [23pdfTeX warning (ext4): destination with the same identifier (name{cite.tim6
+ [29pdfTeX warning (ext4): destination with the same identifier (name{cite.tim6
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1007,7 +1258,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 139.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 139.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 139.
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: 3D7B0015B2944C89E44FB41534C41FF1;2360.
+(rerunfilecheck)             Checksum: AE565DCF07FB7534BB1D3D95B8FF90E8;2738.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -1015,24 +1266,24 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 139.
  ) 
 Here is how much of TeX's memory you used:
- 10703 strings out of 494467
- 156694 string characters out of 6174031
- 459288 words of memory out of 5000000
- 14057 multiletter control sequences out of 15000+600000
- 58286 words of font info for 86 fonts, out of 8000000 for 9000
- 36 hyphenation exceptions out of 8191
- 36i,13n,49p,1259b,492s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/robert/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1200.60
-0pk>{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/u
-rw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8
-a.pfb>
-Output written on report.pdf (29 pages, 3269150 bytes).
+ 11439 strings out of 492167
+ 165931 string characters out of 6131559
+ 522059 words of memory out of 5000000
+ 15417 multiletter control sequences out of 15000+600000
+ 68876 words of font info for 104 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,13n,49p,1259b,1390s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/t
+exmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy10.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb></usr/
+share/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb></usr/share/texmf-dis
+t/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times
+/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on report.pdf (35 pages, 5267099 bytes).
 PDF statistics:
- 572 PDF objects out of 1000 (max. 8388607)
- 457 compressed objects within 5 object streams
- 114 named destinations out of 1000 (max. 500000)
- 351 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 746 PDF objects out of 1000 (max. 8388607)
+ 628 compressed objects within 7 object streams
+ 152 named destinations out of 1000 (max. 500000)
+ 464 words of extra memory for PDF output out of 10000 (max. 10000000)
 
